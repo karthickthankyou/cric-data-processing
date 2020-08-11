@@ -1,0 +1,1174 @@
+id,season,date,winner,result,win_by_runs,win_by_wickets,player_of_match,team1,team2,toss_winner,toss_decision,umpire1,umpire2,city
+1,2017,2017-02-17,Sri Lanka,normal,,5,DAS Gunaratne,Australia,Sri Lanka,Sri Lanka,field,MD Martell,P Wilson,Melbourne Cricket Ground
+2,2017,2017-02-19,Sri Lanka,normal,,2,DAS Gunaratne,Australia,Sri Lanka,Sri Lanka,field,SD Fry,SJ Nogajski,"Simonds Stadium, South Geelong"
+3,2017,2017-02-22,Australia,normal,41,,A Zampa,Australia,Sri Lanka,Sri Lanka,field,MD Martell,P Wilson,Adelaide Oval
+4,2016,2016-09-05,Hong Kong,normal,40,,NA,Ireland,Hong Kong,Hong Kong,bat,R Black,AJ Neill,"Bready Cricket Club, Magheramason"
+5,2016,2016-06-18,Zimbabwe,normal,2,,E Chigumbura,Zimbabwe,India,India,field,TJ Matibiri,RB Tiffin,Harare Sports Club
+6,2016,2016-06-20,India,normal,,10,BB Sran,Zimbabwe,India,Zimbabwe,bat,L Rusere,RB Tiffin,Harare Sports Club
+7,2016,2016-06-22,India,normal,3,,KM Jadhav,Zimbabwe,India,Zimbabwe,field,TJ Matibiri,RB Tiffin,Harare Sports Club
+8,2017,2017-01-03,New Zealand,normal,,6,KS Williamson,New Zealand,Bangladesh,Bangladesh,bat,SB Haig,WR Knights,McLean Park
+9,2017,2017-01-06,New Zealand,normal,47,,C Munro,New Zealand,Bangladesh,Bangladesh,field,CM Brown,SB Haig,Bay Oval
+10,2017,2017-01-08,New Zealand,normal,27,,CJ Anderson,New Zealand,Bangladesh,Bangladesh,field,CM Brown,WR Knights,Bay Oval
+11,2017,2017-02-17,South Africa,normal,78,,Imran Tahir,New Zealand,South Africa,New Zealand,field,CM Brown,WR Knights,Eden Park
+12,2017,2017-06-21,England,normal,,9,JM Bairstow,England,South Africa,South Africa,bat,RJ Bailey,RT Robinson,The Rose Bowl
+13,2017,2017-06-23,South Africa,normal,3,,CH Morris,England,South Africa,England,field,RJ Bailey,MA Gough,County Ground
+14,2017,2017-06-25,England,normal,19,,DJ Malan,England,South Africa,South Africa,field,MA Gough,RT Robinson,Sophia Gardens
+15,2017,2017-01-26,England,normal,,7,MM Ali,India,England,England,field,AK Chaudhary,Nitin Menon,Green Park
+16,2017,2017-01-29,India,normal,5,,JJ Bumrah,India,England,England,field,AK Chaudhary,C Shamshuddin,"Vidarbha Cricket Association Stadium, Jamtha"
+17,2017,2017-02-01,India,normal,75,,YS Chahal,India,England,England,field,AK Chaudhary,Nitin Menon,M Chinnaswamy Stadium
+18,2017,2017-03-08,Afghanistan,normal,,6,Samiullah Shenwari,Afghanistan,Ireland,Ireland,bat,Ahmed Shah Durrani,Ahmed Shah Pakteen,Greater Noida Sports Complex Ground
+19,2017,2017-03-10,Afghanistan,normal,17,,Najeeb Tarakai,Afghanistan,Ireland,Afghanistan,bat,Ahmed Shah Durrani,Ahmed Shah Pakteen,Greater Noida Sports Complex Ground
+20,2017,2017-03-12,Afghanistan,normal,28,,Mohammad Nabi,Afghanistan,Ireland,Ireland,field,Ahmed Shah Durrani,Ahmed Shah Pakteen,Greater Noida Sports Complex Ground
+21,2016,2016-08-27,West Indies,normal,1,,E Lewis,India,West Indies,India,field,N Duguid,JS Wilson,Central Broward Regional Park Stadium Turf Ground
+22,2016,2016-08-28,NA,no result,,,NA,India,West Indies,India,field,LS Reifer,JS Wilson,Central Broward Regional Park Stadium Turf Ground
+23,2017,2017-02-17,Australia,normal,40,,EJ Villani,Australia,New Zealand,New Zealand,field,GA Abood,SAJ Craig,Melbourne Cricket Ground
+24,2017,2017-02-19,New Zealand,normal,8,,AM Peterson,Australia,New Zealand,Australia,field,SAJ Craig,JD Ward,"Simonds Stadium, South Geelong"
+25,2017,2017-02-22,New Zealand,normal,47,,SW Bates,Australia,New Zealand,New Zealand,bat,GA Abood,JD Ward,Adelaide Oval
+26,2016,2016-09-27,Australia,normal,,10,KM Beams,Sri Lanka,Australia,Australia,field,JWHD Boteju,ID Gunawardene,Sinhalese Sports Club Ground
+27,2016,2016-09-23,Pakistan,normal,,9,Imad Wasim,Pakistan,West Indies,Pakistan,field,Ahsan Raza,Shozab Raza,Dubai International Cricket Stadium
+28,2016,2016-09-24,Pakistan,normal,16,,Sarfraz Ahmed,Pakistan,West Indies,West Indies,field,Ahmed Shahab,Shozab Raza,Dubai International Cricket Stadium
+29,2016,2016-09-27,Pakistan,normal,,8,Imad Wasim,Pakistan,West Indies,Pakistan,field,Ahsan Raza,Shozab Raza,Sheikh Zayed Stadium
+30,2016,2016-11-21,New Zealand,normal,14,,NA,New Zealand,Pakistan,New Zealand,bat,K Cross,D Venter,Saxton Oval
+31,2016,2016-12-04,India,normal,17,,M Raj,India,Pakistan,India,bat,BB Pradhan,Sarika Prasad,Asian Institute of Technology Ground
+32,2016,2016-12-14,Afghanistan,normal,11,,Karim Janat,United Arab Emirates,Afghanistan,Afghanistan,bat,Ahmed Shah Durrani,Iftikhar Ali,ICC Academy
+33,2016,2016-12-16,Afghanistan,normal,,5,Najibullah Zadran,United Arab Emirates,Afghanistan,United Arab Emirates,bat,Ahmed Shah Durrani,Akbar Ali,Dubai International Cricket Stadium
+34,2016,2016-12-18,Afghanistan,normal,44,,Rashid Khan,United Arab Emirates,Afghanistan,Afghanistan,bat,Akbar Ali,Iftikhar Ali,ICC Academy
+35,2017,2017-01-14,Scotland,normal,24,,CS MacLeod,Hong Kong,Scotland,Scotland,bat,Ahmed Shah Pakteen,AJ Neill,Sheikh Zayed Stadium
+36,2017,2017-01-14,Afghanistan,normal,,5,Mohammad Nabi,Afghanistan,Ireland,Ireland,bat,Iftikhar Ali,BB Pradhan,Sheikh Zayed Stadium
+37,2017,2017-01-15,Netherlands,normal,,5,MJG Rippon,Netherlands,Oman,Oman,bat,AJT Dowdalls,Tabarak Dar,Sheikh Zayed Stadium
+38,2017,2017-01-16,Oman,normal,,7,Bilal Khan,Hong Kong,Oman,Oman,field,Iftikhar Ali,AJ Neill,Sheikh Zayed Stadium
+39,2017,2017-01-16,Afghanistan,normal,,5,Dawlat Zadran,United Arab Emirates,Afghanistan,Afghanistan,field,AJT Dowdalls,Tabarak Dar,Sheikh Zayed Stadium
+40,2017,2017-01-17,Scotland,normal,7,,JH Davey,Netherlands,Scotland,Netherlands,field,AJ Neill,Tabarak Dar,Sheikh Zayed Stadium
+41,2017,2017-01-18,Ireland,normal,24,,WB Rankin,United Arab Emirates,Ireland,Ireland,bat,Ahmed Shah Durrani,BB Pradhan,Dubai International Cricket Stadium
+42,2017,2017-01-18,Hong Kong,normal,91,,Anshuman Rath,Hong Kong,Netherlands,Hong Kong,bat,AJT Dowdalls,AJ Neill,Dubai International Cricket Stadium
+43,2017,2017-01-19,Scotland,normal,,7,MH Cross,Oman,Scotland,Oman,bat,Ahmed Shah Pakteen,Iftikhar Ali,Dubai International Cricket Stadium
+44,2017,2017-01-20,Afghanistan,normal,,8,Mohammad Shahzad,Afghanistan,Oman,Afghanistan,field,AJT Dowdalls,AJ Neill,Dubai International Cricket Stadium
+45,2017,2017-01-20,Ireland,normal,98,,GC Wilson,Ireland,Scotland,Scotland,field,Ahmed Shah Pakteen,BB Pradhan,Dubai International Cricket Stadium
+46,2017,2017-01-20,Afghanistan,normal,,10,Mohammad Nabi,Afghanistan,Ireland,Ireland,bat,BB Pradhan,Tabarak Dar,Dubai International Cricket Stadium
+47,2017,2017-03-26,Pakistan,normal,,6,Shadab Khan,West Indies,Pakistan,Pakistan,field,GO Brathwaite,JS Wilson,"Kensington Oval, Bridgetown"
+48,2017,2017-03-30,Pakistan,normal,3,,Shadab Khan,West Indies,Pakistan,West Indies,field,N Duguid,JS Wilson,"Queen's Park Oval, Port of Spain"
+49,2017,2017-04-04,Sri Lanka,normal,,6,MDKJ Perera,Sri Lanka,Bangladesh,Bangladesh,bat,REJ Martinesz,RR Wimalasiri,R Premadasa Stadium
+50,2017,2017-04-06,Bangladesh,normal,45,,Shakib Al Hasan,Sri Lanka,Bangladesh,Bangladesh,bat,REJ Martinesz,RSA Palliyaguruge,R Premadasa Stadium
+51,2017,2017-04-01,West Indies,normal,,7,E Lewis,West Indies,Pakistan,Pakistan,bat,GO Brathwaite,LS Reifer,"Queen's Park Oval, Port of Spain"
+52,2017,2017-04-02,Pakistan,normal,,7,Hasan Ali,West Indies,Pakistan,Pakistan,field,GO Brathwaite,JS Wilson,"Queen's Park Oval, Port of Spain"
+53,2017,2017-04-12,United Arab Emirates,normal,,5,NA,United Arab Emirates,Papua New Guinea,United Arab Emirates,field,Akbar Ali,Shozab Raza,Sheikh Zayed Stadium
+54,2017,2017-04-14,United Arab Emirates,normal,30,,NA,United Arab Emirates,Papua New Guinea,Papua New Guinea,field,Akbar Ali,Shozab Raza,Sheikh Zayed Stadium
+55,2017,2017-04-14,United Arab Emirates,normal,,5,NA,United Arab Emirates,Papua New Guinea,Papua New Guinea,bat,Akbar Ali,Shozab Raza,Sheikh Zayed Stadium
+56,2017,2017-06-02,West Indies,normal,,6,SP Narine,West Indies,Afghanistan,Afghanistan,bat,GO Brathwaite,N Duguid,"Warner Park, Basseterre"
+57,2017,2017-06-03,West Indies,normal,29,,KOK Williams,West Indies,Afghanistan,West Indies,bat,GO Brathwaite,JS Wilson,"Warner Park, Basseterre"
+58,2017,2017-06-05,West Indies,normal,,7,MN Samuels,West Indies,Afghanistan,Afghanistan,bat,LS Reifer,JS Wilson,"Warner Park, Basseterre"
+59,2017,2017-07-09,West Indies,normal,,9,E Lewis,West Indies,India,West Indies,field,N Duguid,LS Reifer,"Sabina Park, Kingston"
+60,2019,2019-02-01,South Africa,normal,6,,DA Miller,South Africa,Pakistan,Pakistan,field,BP Jele,AT Holdstock,Newlands
+61,2019,2019-02-03,South Africa,normal,7,,DA Miller,South Africa,Pakistan,Pakistan,field,A Paleker,AT Holdstock,The Wanderers Stadium
+62,2019,2019-02-06,Pakistan,normal,27,,Shadab Khan,South Africa,Pakistan,South Africa,field,BP Jele,AT Holdstock,SuperSport Park
+63,2019,2019-03-19,South Africa,tie,,,DA Miller,South Africa,Sri Lanka,South Africa,field,BP Jele,AT Holdstock,Newlands
+64,2019,2019-03-22,South Africa,normal,16,,HE van der Dussen,South Africa,Sri Lanka,Sri Lanka,field,BP Jele,S George,SuperSport Park
+65,2019,2019-03-24,South Africa,normal,45,,D Pretorius,South Africa,Sri Lanka,Sri Lanka,field,A Paleker,AT Holdstock,The Wanderers Stadium
+66,2019,2019-05-05,England,normal,,7,EJG Morgan,England,Pakistan,Pakistan,bat,MA Gough,AG Wharf,Sophia Gardens
+67,2019,2019-02-06,New Zealand,normal,80,,TL Seifert,New Zealand,India,India,field,CM Brown,SB Haig,Westpac Stadium
+68,2019,2019-02-08,India,normal,,7,KH Pandya,New Zealand,India,New Zealand,bat,CM Brown,WR Knights,Eden Park
+69,2019,2019-02-10,New Zealand,normal,4,,C Munro,New Zealand,India,India,field,SB Haig,WR Knights,Seddon Park
+70,2019,2019-01-11,New Zealand,normal,35,,DAJ Bracewell,New Zealand,Sri Lanka,Sri Lanka,field,SB Haig,WR Knights,Eden Park
+71,2019,2019-02-06,New Zealand,normal,23,,LMM Tahuhu,New Zealand,India,India,field,BF Bowden,Kim Cotton,Westpac Stadium
+72,2019,2019-02-08,New Zealand,normal,,4,SW Bates,New Zealand,India,New Zealand,field,BF Bowden,A Mehrotra,Eden Park
+73,2019,2019-02-10,New Zealand,normal,2,,SFM Devine,New Zealand,India,New Zealand,bat,Kim Cotton,A Mehrotra,Seddon Park
+74,2019,2019-03-05,England,normal,,4,JM Bairstow,West Indies,England,England,field,N Duguid,GO Brathwaite,"Darren Sammy National Cricket Stadium, St Lucia"
+75,2019,2019-03-08,England,normal,137,,SW Billings,West Indies,England,West Indies,field,LS Reifer,GO Brathwaite,"Warner Park, St Kitts"
+76,2019,2019-03-10,England,normal,,8,DJ Willey,West Indies,England,West Indies,bat,N Duguid,LS Reifer,"Warner Park, St Kitts"
+77,2019,2019-06-21,England,normal,42,,DN Wyatt,England,West Indies,England,bat,M Burns,RJ Bailey,County Ground
+78,2019,2019-07-26,Australia,normal,93,,MM Lanning,England,Australia,England,field,M Burns,AG Wharf,County Ground
+79,2019,2019-07-28,Australia,normal,,7,EA Perry,England,Australia,England,bat,M Burns,AG Wharf,"County Ground, Hove"
+80,2019,2019-07-31,England,normal,17,,KH Brunt,England,Australia,Australia,field,M Burns,AG Wharf,County Ground
+81,2019,2019-02-21,Afghanistan,normal,,5,Mohammad Nabi,Afghanistan,Ireland,Ireland,bat,Ahmed Shah Pakteen,Izatullah Safi,"Rajiv Gandhi International Cricket Stadium, Dehradun"
+82,2019,2019-02-23,Afghanistan,normal,84,,Hazratullah,Afghanistan,Ireland,Afghanistan,bat,Bismillah Shinwari,Ahmed Shah Durrani,"Rajiv Gandhi International Cricket Stadium, Dehradun"
+83,2019,2019-02-24,Afghanistan,normal,32,,Mohammad Nabi,Afghanistan,Ireland,Ireland,field,Ahmed Shah Durrani,Izatullah Safi,"Rajiv Gandhi International Cricket Stadium, Dehradun"
+84,2019,2019-02-01,South Africa,normal,,7,D van Niekerk,South Africa,Sri Lanka,Sri Lanka,bat,BM White,Lauren Agenbag,Newlands
+85,2019,2019-02-06,South Africa,normal,39,,S Luus,South Africa,Sri Lanka,Sri Lanka,field,LB Gcuma,BM White,SuperSport Park
+86,2019,2019-02-24,Australia,normal,,3,NM Coulter-Nile,India,Australia,Australia,field,C Shamshuddin,Nitin Menon,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+87,2019,2019-02-27,Australia,normal,,7,GJ Maxwell,India,Australia,Australia,field,AK Chaudhary,CK Nandan,M.Chinnaswamy Stadium
+88,2019,2019-07-12,Ireland,normal,,9,NA,Ireland,Zimbabwe,Ireland,field,M Hawthorne,R Black,"Bready Cricket Club, Magheramason"
+89,2019,2019-07-14,Zimbabwe,normal,,8,NA,Ireland,Zimbabwe,Zimbabwe,field,R Black,AJ Neill,Bready
+90,2019,2019-01-31,United Arab Emirates,normal,21,,Shaiman Anwar,United Arab Emirates,Nepal,Nepal,field,Akbar Ali,Iftikhar Ali,ICC Academy
+91,2019,2019-02-01,Nepal,normal,,4,DS Airee,United Arab Emirates,Nepal,United Arab Emirates,bat,Iftikhar Ali,Shiju Sam,ICC Academy
+92,2019,2019-02-03,Nepal,normal,14,,Karan KC,United Arab Emirates,Nepal,United Arab Emirates,field,Akbar Ali,Shiju Sam,ICC Academy
+93,2019,2019-03-04,England,normal,41,,TT Beaumont,India,England,India,field,N Pandit,A Deshmukh,Barsapara Cricket Stadium
+94,2019,2019-03-07,England,normal,,5,DN Wyatt,India,England,England,field,N Pandit,A Deshmukh,Barsapara Cricket Stadium
+95,2019,2019-03-09,England,normal,1,,KL Cross,India,England,England,bat,N Pandit,A Deshmukh,Barsapara Cricket Stadium
+96,2019,2019-01-31,West Indies,normal,71,,DJS Dottin,Pakistan,West Indies,West Indies,bat,Asif Yaqoob,Rashid Riaz,Southend Club Cricket Stadium
+97,2019,2019-02-01,West Indies,tie,,,SA Campbelle,Pakistan,West Indies,Pakistan,bat,Ahsan Raza,Rashid Riaz,Southend Club Cricket Stadium
+98,2019,2019-02-03,Pakistan,normal,12,,Nida Dar,Pakistan,West Indies,Pakistan,bat,Ahsan Raza,Asif Yaqoob,Southend Club Cricket Stadium
+99,2019,2019-02-13,Netherlands,normal,,7,TP Visee,Netherlands,Scotland,Netherlands,field,Rahul Asher,Ahsan Raza,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+100,2019,2019-02-13,Ireland,normal,15,,PR Stirling,Oman,Ireland,Oman,field,Rahul Asher,Ahsan Raza,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+101,2019,2019-02-15,Netherlands,normal,,8,RE van der Merwe,Oman,Netherlands,Netherlands,field,Rahul Asher,Ahsan Raza,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+102,2019,2019-02-15,Scotland,normal,,6,KJ Coetzer,Ireland,Scotland,Scotland,field,Rahul Asher,Ahsan Raza,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+103,2019,2019-02-17,Ireland,normal,,1,A Balbirnie,Ireland,Netherlands,Ireland,field,Rahul Asher,Ahsan Raza,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+104,2019,2019-02-17,Scotland,normal,,7,A Neill,Oman,Scotland,Scotland,field,Rahul Asher,Ahsan Raza,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+105,2019,2019-02-18,Thailand,normal,,6,C Sutthiruang,Thailand,China,Thailand,field,Sharfuddoula,Tabarak Dar,Terdthai Cricket Ground
+106,2019,2019-02-18,Malaysia,normal,63,,Mas Elysa,Kuwait,Malaysia,Kuwait,field,VK Jha,DN Subedi,Asian Institute of Technology Ground
+107,2019,2019-02-18,United Arab Emirates,normal,21,,S Venkataraman,Hong Kong,United Arab Emirates,United Arab Emirates,bat,VK Jha,V Kalidas,Asian Institute of Technology Ground
+108,2019,2019-02-19,Nepal,normal,34,,SR Magar,Malaysia,Nepal,Nepal,bat,Akbar Ali,Tabarak Dar,Terdthai Cricket Ground
+110,2019,2019-02-19,United Arab Emirates,normal,86,,CR Seneviratna,Kuwait,United Arab Emirates,United Arab Emirates,bat,DN Subedi,V Kalidas,Asian Institute of Technology Ground
+109,2019,2019-02-19,China,normal,,1,YS To,China,Hong Kong,China,field,Sharfuddoula,Akbar Ali,Terdthai Cricket Ground
+111,2019,2019-02-21,United Arab Emirates,normal,86,,CR Seneviratna,Malaysia,United Arab Emirates,United Arab Emirates,bat,Sharfuddoula,VK Jha,Terdthai Cricket Ground
+112,2019,2019-02-21,Thailand,normal,57,,C Sutthiruang,Thailand,Nepal,Thailand,bat,Akbar Ali,Tabarak Dar,Asian Institute of Technology Ground
+113,2019,2019-02-21,China,normal,,9,Zhang Chan,China,Kuwait,China,field,Akbar Ali,DN Subedi,Asian Institute of Technology Ground
+114,2019,2019-02-22,Nepal,normal,,7,Nary Thapa,Nepal,United Arab Emirates,United Arab Emirates,bat,V Kalidas,Tabarak Dar,Terdthai Cricket Ground
+115,2019,2019-02-22,Thailand,normal,82,,N Chaiwai,Thailand,Hong Kong,Thailand,bat,Sharfuddoula,DN Subedi,Asian Institute of Technology Ground
+116,2019,2019-02-22,China,normal,,8,F Song,China,Malaysia,Malaysia,bat,VK Jha,Tabarak Dar,Terdthai Cricket Ground
+117,2019,2019-02-24,United Arab Emirates,normal,27,,S Venkataraman,China,United Arab Emirates,China,field,Sharfuddoula,VK Jha,Terdthai Cricket Ground
+118,2019,2019-02-24,Thailand,normal,,9,S Tippoch,Thailand,Kuwait,Kuwait,bat,DN Subedi,V Kalidas,Asian Institute of Technology Ground
+119,2019,2019-02-24,Nepal,normal,,4,Nary Thapa,Hong Kong,Nepal,Hong Kong,bat,Akbar Ali,V Kalidas,Asian Institute of Technology Ground
+120,2019,2019-02-25,Thailand,normal,87,,N Chaiwai,Thailand,Malaysia,Malaysia,field,Sharfuddoula,DN Subedi,Terdthai Cricket Ground
+121,2019,2019-02-25,Nepal,normal,5,,SR Magar,China,Nepal,China,field,Sharfuddoula,V Kalidas,Terdthai Cricket Ground
+122,2019,2019-02-25,Hong Kong,normal,,9,M Yousaf,Hong Kong,Kuwait,Hong Kong,field,Akbar Ali,VK Jha,Asian Institute of Technology Ground
+123,2019,2019-02-27,Nepal,normal,30,,RC Belbashi,Kuwait,Nepal,Kuwait,field,Akbar Ali,Tabarak Dar,Asian Institute of Technology Ground
+124,2019,2019-02-27,Thailand,normal,50,,NA,Thailand,United Arab Emirates,Thailand,bat,VK Jha,Tabarak Dar,Asian Institute of Technology Ground
+125,2020,2020-02-21,India,normal,17,,Poonam Yadav,Australia,India,Australia,field,JM Williams,S George,Sydney Showground Stadium
+126,2020,2020-02-22,West Indies,normal,,7,SR Taylor,Thailand,West Indies,Thailand,bat,CA Polosak,Nitin Menon,W.A.C.A. Ground
+127,2020,2020-02-22,New Zealand,normal,,7,HNK Jensen,New Zealand,Sri Lanka,New Zealand,field,S Redfern,Ahsan Raza,W.A.C.A. Ground
+128,2020,2020-02-23,South Africa,normal,,6,D van Niekerk,England,South Africa,South Africa,field,CM Brown,L Rusere,W.A.C.A. Ground
+129,2020,2020-02-24,Australia,normal,,5,RL Haynes,Australia,Sri Lanka,Sri Lanka,bat,GO Brathwaite,Kim Cotton,W.A.C.A. Ground
+130,2020,2020-02-24,India,normal,18,,Shafali Verma,Bangladesh,India,Bangladesh,field,Lauren Agenbag,AG Wharf,W.A.C.A. Ground
+131,2020,2020-02-26,England,normal,98,,HC Knight,England,Thailand,Thailand,field,JM Williams,Ahsan Raza,Manuka Oval
+132,2020,2020-02-26,Pakistan,normal,,8,Javeria Khan,Pakistan,West Indies,West Indies,bat,CA Polosak,S George,Manuka Oval
+133,2020,2020-02-27,India,normal,3,,Shafali Verma,India,New Zealand,New Zealand,field,L Rusere,AG Wharf,Junction Oval
+134,2020,2020-02-27,Australia,normal,86,,AJ Healy,Australia,Bangladesh,Australia,bat,Nitin Menon,GO Brathwaite,Manuka Oval
+135,2020,2020-02-28,South Africa,normal,113,,L Lee,South Africa,Thailand,South Africa,bat,JM Williams,Kim Cotton,Manuka Oval
+136,2020,2020-02-28,England,normal,42,,HC Knight,England,Pakistan,Pakistan,field,CM Brown,Nitin Menon,Manuka Oval
+137,2020,2020-02-29,New Zealand,normal,17,,HNK Jensen,Bangladesh,New Zealand,New Zealand,bat,Lauren Agenbag,Ahsan Raza,Junction Oval
+138,2020,2020-02-29,India,normal,,7,RP Yadav,India,Sri Lanka,Sri Lanka,bat,S Redfern,S George,Junction Oval
+139,2020,2020-03-01,South Africa,normal,17,,L Wolvaardt,Pakistan,South Africa,South Africa,bat,GO Brathwaite,Kim Cotton,Sydney Showground Stadium
+140,2020,2020-03-01,England,normal,46,,NR Sciver,England,West Indies,England,bat,CM Brown,CA Polosak,Sydney Showground Stadium
+141,2020,2020-03-02,Sri Lanka,normal,,9,HASD Siriwardene,Bangladesh,Sri Lanka,Bangladesh,bat,S Redfern,AG Wharf,Junction Oval
+142,2020,2020-03-02,Australia,normal,4,,G Wareham,Australia,New Zealand,New Zealand,field,L Agenburg,L Rusere,Junction Oval
+143,2020,2020-03-03,NA,no result,,,NA,Pakistan,Thailand,Thailand,bat,CM Brown,CA Polosak,Sydney Showground Stadium
+144,2020,2020-03-05,Australia,normal,5,,MM Lanning,Australia,South Africa,South Africa,field,Nitin Menon,Kim Cotton,Sydney Cricket Ground
+145,2020,2020-03-08,Australia,normal,85,,AJ Healy,Australia,India,Australia,bat,Ahsan Raza,Kim Cotton,Melbourne Cricket Ground
+146,2019,2019-03-24,England,normal,,8,NA,Sri Lanka,England,Sri Lanka,bat,EJAPAM Jayasooriya,WN de Silva,P Sara Oval
+147,2019,2019-03-26,England,normal,,8,NA,Sri Lanka,England,Sri Lanka,bat,JWHD Boteju,RR Wimalasiri,P Sara Oval
+148,2019,2019-03-28,England,normal,96,,NA,Sri Lanka,England,Sri Lanka,field,RR Wimalasiri,ID Gunawardene,P Sara Oval
+149,2019,2019-03-22,Papua New Guinea,normal,133,,A Vala,Papua New Guinea,Philippines,Philippines,field,SD Fry,V Kalidas,Amini Park
+150,2019,2019-03-22,Papua New Guinea,normal,,8,TP Ura,Papua New Guinea,Vanuatu,Vanuatu,bat,Tabarak Dar,SD Fry,Amini Park
+151,2019,2019-03-23,Vanuatu,normal,63,,NA,Philippines,Vanuatu,Vanuatu,bat,A Kapa,Tabarak Dar,Amini Park
+152,2019,2019-03-23,NA,no result,,,NA,Papua New Guinea,Philippines,Papua New Guinea,bat,A Kapa,V Kalidas,Amini Park
+153,2019,2019-03-24,Philippines,normal,10,,DC Smith,Philippines,Vanuatu,Vanuatu,field,A Kapa,SD Fry,Amini Park
+154,2019,2019-03-24,Papua New Guinea,normal,,10,L Siaka,Papua New Guinea,Vanuatu,Vanuatu,bat,V Kalidas,Tabarak Dar,Amini Park
+155,2019,2019-05-15,Pakistan,normal,,7,Nida Dar,South Africa,Pakistan,Pakistan,field,Lauren Agenbag,AT Holdstock,LC de Villiers Oval
+156,2019,2019-05-18,South Africa,normal,,8,L Lee,South Africa,Pakistan,Pakistan,bat,BP Jele,AT Holdstock,City Oval
+157,2019,2019-05-19,Pakistan,normal,,4,Iram Javed,South Africa,Pakistan,Pakistan,field,BP Jele,Lauren Agenbag,City Oval
+158,2019,2019-05-22,South Africa,normal,,4,L Lee,South Africa,Pakistan,South Africa,field,Lauren Agenbag,AT Holdstock,Willowmoore Park
+159,2019,2019-05-23,South Africa,normal,,9,L Lee,South Africa,Pakistan,South Africa,field,BP Jele,Lauren Agenbag,Willowmoore Park
+160,2019,2019-03-15,NA,no result,,,NA,United Arab Emirates,United States of America,United Arab Emirates,field,Akbar Ali,Iftikhar Ali,ICC Academy
+161,2019,2019-03-16,United Arab Emirates,normal,24,,Shaiman Anwar,United Arab Emirates,United States of America,United Arab Emirates,bat,Akbar Ali,Shiju Sam,ICC Academy
+162,2019,2019-05-25,Italy,normal,,6,NA,Germany,Italy,Italy,field,Rizwan Akram,Adriaan van den Dries,Sportpark Maarschalkerweerd
+163,2019,2019-04-01,Namibia,normal,,7,NA,Namibia,Botswana,Namibia,field,Hannes van Vuuren,Hein Heydenrych,United Cricket Club Ground
+164,2019,2019-04-03,Namibia,normal,86,,NA,Namibia,Botswana,Namibia,bat,Hannes van Vuuren,Hein Heydenrych,United Cricket Club Ground
+165,2019,2019-04-03,Namibia,normal,88,,NA,Namibia,Botswana,Namibia,bat,Pieter Groenewald,Hannes van Vuuren,United Cricket Club Ground
+166,2019,2019-04-02,Namibia,normal,88,,NA,Namibia,Botswana,Botswana,field,Pieter Groenewald,Hein Heydenrych,United Cricket Club Ground
+167,2019,2019-04-02,Namibia,normal,,9,NA,Namibia,Botswana,Botswana,bat,Pieter Groenewald,Hein Heydenrych,United Cricket Club Ground
+168,2019,2019-05-05,Zimbabwe,normal,163,,SM Mayers,Zimbabwe,Mozambique,Zimbabwe,bat,A Louw,R D'Mello,Old Hararians
+169,2019,2019-05-05,Namibia,normal,39,,SA Wittmann,Kenya,Namibia,Kenya,field,Lauren Agenbag,Patric Makumbi,Takashinga Sports Club
+170,2019,2019-05-05,Uganda,normal,90,,D Busingye,Sierra Leone,Uganda,Uganda,bat,IO Oyieko,A Louw,Old Hararians
+171,2019,2019-05-06,Nigeria,normal,,8,B Etim,Mozambique,Nigeria,Nigeria,field,R D'Mello,Lauren Agenbag,Old Hararians
+172,2019,2019-05-06,Namibia,normal,14,,I van Zyl,Namibia,Uganda,Uganda,field,IO Oyieko,Lauren Agenbag,Old Hararians
+173,2019,2019-05-06,Zimbabwe,normal,92,,SM Mayers,Zimbabwe,Tanzania,Zimbabwe,bat,Justine Muzungu,PM Musoke,Takashinga Sports Club
+174,2019,2019-05-08,Rwanda,normal,,1,H Ishimwe,Mozambique,Rwanda,Mozambique,bat,Justine Muzungu,Lauren Agenbag,Old Hararians
+175,2019,2019-05-08,Uganda,normal,4,,C Aweko,Kenya,Uganda,Uganda,bat,A Louw,Justine Muzungu,Old Hararians
+176,2019,2019-05-08,Namibia,normal,,10,M Short,Namibia,Sierra Leone,Sierra Leone,bat,R D'Mello,PM Musoke,Takashinga Sports Club
+177,2019,2019-05-09,Zimbabwe,normal,82,,M Mupachikwa,Zimbabwe,Rwanda,Zimbabwe,bat,IO Oyieko,Patric Makumbi,Old Hararians
+178,2019,2019-05-11,Zimbabwe,normal,,10,N Mutasa,Zimbabwe,Nigeria,Nigeria,bat,R D'Mello,Patric Makumbi,Old Hararians
+179,2019,2019-05-11,Tanzania,normal,38,,FO Kibasu,Rwanda,Tanzania,Tanzania,bat,IO Oyieko,Justine Muzungu,Takashinga Sports Club
+180,2019,2019-05-12,Zimbabwe,normal,50,,CS Mugeri,Zimbabwe,Namibia,Namibia,field,IO Oyieko,Lauren Agenbag,Harare Sports Club
+181,2019,2019-05-06,Papua New Guinea,normal,57,,R Oa,Vanuatu,Papua New Guinea,Papua New Guinea,bat,Kim Cotton,IA Thomson,"Ground 1, Independence Park"
+182,2019,2019-05-06,Indonesia,normal,,7,Y Anggraeni,Indonesia,Japan,Japan,bat,ZK Shem,SJ Nogajski,"Ground 2, Independence Park"
+183,2019,2019-05-06,Papua New Guinea,normal,,7,NM Ambo,Indonesia,Papua New Guinea,Indonesia,bat,Suresh Subramanian,SJ Nogajski,"Ground 1, Independence Park"
+184,2019,2019-05-07,Papua New Guinea,normal,,10,R Oa,Fiji,Papua New Guinea,Fiji,bat,ZK Shem,Suresh Subramanian,"Ground 2, Independence Park"
+185,2019,2019-05-09,Samoa,normal,,8,RSM Lili'i,Vanuatu,Samoa,Vanuatu,bat,SJ Nogajski,IA Thomson,"Ground 1, Independence Park"
+186,2019,2019-05-09,Japan,normal,31,,N Tokizawa,Fiji,Japan,Japan,bat,Suresh Subramanian,Kim Cotton,"Ground 2, Independence Park"
+187,2019,2019-05-09,Papua New Guinea,normal,,10,K Arua,Japan,Papua New Guinea,Japan,bat,ZK Shem,IA Thomson,"Ground 1, Independence Park"
+189,2019,2019-05-10,Vanuatu,normal,,9,N Navaika,Vanuatu,Japan,Japan,bat,A Kapa,Suresh Subramanian,"Ground 2, Independence Park"
+188,2019,2019-05-10,Indonesia,normal,,8,N Sitompul,Fiji,Indonesia,Indonesia,field,Kim Cotton,ZK Shem,"Ground 1, Independence Park"
+190,2019,2019-05-10,Papua New Guinea,normal,,7,K Arua,Papua New Guinea,Samoa,Papua New Guinea,field,Suresh Subramanian,IA Thomson,"Ground 1, Independence Park"
+191,2019,2019-09-29,Australia,normal,41,,BL Mooney,Australia,Sri Lanka,Australia,bat,PJ Gillespie,SAJ Craig,North Sydney Oval
+192,2019,2019-09-30,Australia,normal,,9,BL Mooney,Australia,Sri Lanka,Sri Lanka,bat,CA Polosak,SAJ Craig,North Sydney Oval
+193,2019,2019-10-02,Australia,normal,132,,AJ Healy,Australia,Sri Lanka,Australia,bat,PJ Gillespie,CA Polosak,North Sydney Oval
+194,2019,2019-10-27,Australia,normal,134,,DA Warner,Australia,Sri Lanka,Sri Lanka,field,P Wilson,GA Abood,Adelaide Oval
+195,2019,2019-10-30,Australia,normal,,9,DA Warner,Australia,Sri Lanka,Sri Lanka,bat,P Wilson,GA Abood,"Brisbane Cricket Ground, Woolloongabba"
+196,2019,2019-11-01,Australia,normal,,7,DA Warner,Australia,Sri Lanka,Australia,field,P Wilson,SAJ Craig,Melbourne Cricket Ground
+197,2019,2019-11-03,NA,no result,,,NA,Australia,Pakistan,Australia,field,P Wilson,GA Abood,Sydney Cricket Ground
+198,2019,2019-11-05,Australia,normal,,7,SPD Smith,Australia,Pakistan,Pakistan,bat,GA Abood,SAJ Craig,Manuka Oval
+199,2019,2019-11-08,Australia,normal,,10,SA Abbott,Australia,Pakistan,Australia,field,P Wilson,SJ Nogajski,Perth Stadium
+200,2020,2020-01-31,India,normal,,5,HC Knight,England,India,India,field,CA Polosak,DM Koch,Manuka Oval
+201,2020,2020-02-01,England,tie,,,HC Knight,Australia,England,Australia,field,AK Wilds,DM Koch,Manuka Oval
+202,2020,2020-02-02,Australia,normal,,4,EA Perry,Australia,India,Australia,field,AK Wilds,CA Polosak,Manuka Oval
+203,2020,2020-02-07,England,normal,,4,A Shrubsole,England,India,England,field,CA Polosak,AK Wilds,Junction Oval
+204,2020,2020-02-08,India,normal,,7,A Gardner,Australia,India,India,field,AK Wilds,DM Koch,Junction Oval
+205,2020,2020-02-09,Australia,normal,16,,S Molineux,Australia,England,England,field,CA Polosak,DM Koch,Junction Oval
+206,2020,2020-02-12,Australia,normal,11,,JL Jonassen,Australia,India,Australia,bat,AK Wilds,DM Koch,Junction Oval
+207,2019,2019-05-18,United States of America,normal,37,,U Iftikhar,United States of America,Canada,Canada,field,AR Maddela,SN Bandekar,Central Broward Regional Park Stadium Turf Ground
+208,2019,2019-05-19,United States of America,normal,35,,S Sriharsha,United States of America,Canada,United States of America,bat,JM Williams,SN Bandekar,Central Broward Regional Park Stadium Turf Ground
+209,2019,2019-05-20,Namibia,normal,,9,SJ Baard,Ghana,Namibia,Namibia,field,Kehinde Olanbiwonnu,I Chabi,Kyambogo Cricket Oval
+210,2019,2019-05-20,Uganda,normal,52,,A Otwani,Uganda,Botswana,Botswana,field,Emmanuel Byiringiro,D Odhiambo,Lugogo Cricket Oval
+211,2019,2019-05-21,Kenya,normal,53,,RR Patel,Ghana,Kenya,Ghana,field,A Louw,Kehinde Olanbiwonnu,Kyambogo Cricket Oval
+212,2019,2019-05-21,Namibia,normal,42,,K Birkenstock,Uganda,Namibia,Namibia,bat,L Rusere,D Odhiambo,Kyambogo Cricket Oval
+213,2019,2019-05-21,Nigeria,normal,11,,I Danladi,Botswana,Nigeria,Nigeria,bat,Emmanuel Byiringiro,I Chabi,Lugogo Cricket Oval
+214,2019,2019-05-23,Uganda,normal,,7,Riazat Ali Shah,Uganda,Ghana,Ghana,bat,A Louw,D Odhiambo,Kyambogo Cricket Oval
+215,2019,2019-05-22,Nigeria,normal,28,,VD Adewoye,Ghana,Nigeria,Ghana,field,D Odhiambo,Kehinde Olanbiwonnu,Kyambogo Cricket Oval
+216,2019,2019-05-22,Namibia,normal,,10,C Viljoen,Botswana,Namibia,Botswana,bat,L Rusere,Emmanuel Byiringiro,Kyambogo Cricket Oval
+217,2019,2019-05-22,Kenya,normal,1,,RR Patel,Uganda,Kenya,Kenya,bat,I Chabi,A Louw,Lugogo Cricket Oval
+218,2019,2019-05-26,West Indies,normal,64,,NA,Ireland,West Indies,West Indies,bat,AA Baig,PA Reynolds,YMCA Cricket Club
+219,2019,2019-05-28,West Indies,normal,45,,NA,Ireland,West Indies,West Indies,bat,M Hawthorne,Philip Thompson,Sydney Parade
+220,2019,2019-05-29,West Indies,normal,72,,NA,Ireland,West Indies,Ireland,field,M Hawthorne,AA Baig,Sydney Parade
+221,2019,2019-06-15,Germany,normal,,5,NA,Guernsey,Germany,Germany,field,Adriaan van den Dries,AG Wharf,King George V Sports Ground
+222,2019,2019-06-17,Denmark,normal,46,,SA Ahmad,Denmark,Norway,Denmark,bat,HE Kearns,MV Waldron,King George V Sports Ground
+223,2019,2019-06-16,Jersey,normal,18,,NA,Denmark,Jersey,Denmark,field,Rizwan Akram,DA Haggo,King George V Sports Ground
+224,2019,2019-06-16,Italy,normal,11,,NA,Guernsey,Italy,Guernsey,field,AG Wharf,MV Waldron,College Field
+225,2019,2019-06-16,Jersey,normal,80,,BDH Stevens,Jersey,Norway,Jersey,bat,Adriaan van den Dries,DA Haggo,King George V Sports Ground
+226,2019,2019-06-18,NA,no result,,,NA,Guernsey,Denmark,Guernsey,field,Rizwan Akram,Adriaan van den Dries,King George V Sports Ground
+227,2019,2019-06-20,Germany,normal,,7,CAJ Meschede,Germany,Norway,Germany,field,HE Kearns,DA Haggo,College Field
+228,2019,2019-06-20,Germany,normal,,3,B Ward,Germany,Jersey,Germany,field,DA Haggo,AG Wharf,College Field
+229,2019,2019-06-19,Guernsey,normal,,4,NA,Guernsey,Norway,Guernsey,field,HE Kearns,Adriaan van den Dries,King George V Sports Ground
+230,2019,2019-06-19,Jersey,normal,73,,NA,Italy,Jersey,Italy,field,Rizwan Akram,AG Wharf,College Field
+231,2019,2019-06-19,Germany,normal,,7,NA,Denmark,Germany,Germany,field,HE Kearns,MV Waldron,King George V Sports Ground
+232,2020,2020-02-12,South Africa,normal,1,,L Ngidi,South Africa,England,England,field,BP Jele,AT Holdstock,Buffalo Park
+233,2020,2020-02-14,England,normal,2,,MM Ali,South Africa,England,South Africa,field,A Paleker,BP Jele,Kingsmead
+234,2020,2020-02-16,England,normal,,5,EJG Morgan,South Africa,England,South Africa,bat,A Paleker,AT Holdstock,SuperSport Park
+235,2020,2020-02-21,Australia,normal,107,,AC Agar,South Africa,Australia,South Africa,field,A Paleker,AT Holdstock,The Wanderers Stadium
+236,2020,2020-02-23,South Africa,normal,12,,Q de Kock,South Africa,Australia,South Africa,bat,A Paleker,BP Jele,St George's Park
+237,2020,2020-02-26,Australia,normal,97,,MA Starc,South Africa,Australia,South Africa,field,BP Jele,AT Holdstock,Newlands
+238,2019,2019-06-24,Malaysia,normal,,5,M Syahadat Ramli,Malaysia,Thailand,Malaysia,field,Mathan Kumar,V Kalidas,Kinrara Academy Oval
+239,2019,2019-06-26,Maldives,normal,,2,MNR Cooray,Maldives,Thailand,Thailand,bat,L Poobalan,V Kalidas,Kinrara Academy Oval
+240,2019,2019-06-27,Malaysia,normal,,8,Anwar Rahman,Malaysia,Thailand,Thailand,bat,Zaidan Taha,V Kalidas,Kinrara Academy Oval
+241,2019,2019-06-28,NA,no result,,,NA,Malaysia,Maldives,Malaysia,bat,V Kalidas,Izmir Azraf,Kinrara Academy Oval
+242,2019,2019-06-29,Thailand,normal,,5,N Pathan,Maldives,Thailand,Thailand,field,N Sivan,V Kalidas,Kinrara Academy Oval
+243,2019,2019-09-18,India,normal,,7,V Kohli,India,South Africa,India,field,C Shamshuddin,AK Chaudhary,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+244,2019,2019-09-22,South Africa,normal,,9,BE Hendricks,India,South Africa,India,bat,Nitin Menon,CK Nandan,M.Chinnaswamy Stadium
+245,2019,2019-11-03,Bangladesh,normal,,7,Mushfiqur Rahim,India,Bangladesh,Bangladesh,field,Nitin Menon,CK Nandan,Arun Jaitley Stadium
+246,2019,2019-11-07,India,normal,,8,RG Sharma,India,Bangladesh,India,field,C Shamshuddin,Nitin Menon,Saurashtra Cricket Association Stadium
+247,2019,2019-11-10,India,normal,30,,DL Chahar,India,Bangladesh,Bangladesh,field,AK Chaudhary,CK Nandan,"Vidarbha Cricket Association Stadium, Jamtha"
+248,2019,2019-12-06,India,normal,,6,V Kohli,India,West Indies,India,field,C Shamshuddin,Nitin Menon,"Rajiv Gandhi International Stadium, Uppal"
+249,2019,2019-12-08,West Indies,normal,,8,LMP Simmons,India,West Indies,West Indies,field,AK Chaudhary,CK Nandan,Greenfield International Stadium
+250,2019,2019-12-11,India,normal,67,,KL Rahul,India,West Indies,West Indies,field,Nitin Menon,CK Nandan,Wankhede Stadium
+252,2019,2019-11-03,New Zealand,normal,21,,MJ Santner,New Zealand,England,England,field,SB Haig,WR Knights,Westpac Stadium
+251,2019,2019-11-01,England,normal,,7,JM Vince,New Zealand,England,England,field,SB Haig,WR Knights,Hagley Oval
+253,2019,2019-11-05,New Zealand,normal,14,,C de Grandhomme,New Zealand,England,New Zealand,bat,CM Brown,WR Knights,Saxton Oval
+254,2019,2019-11-08,England,normal,76,,DJ Malan,New Zealand,England,New Zealand,field,SB Haig,CB Gaffaney,McLean Park
+255,2019,2019-11-10,England,tie,,,JM Bairstow,New Zealand,England,England,field,CB Gaffaney,WR Knights,Eden Park
+256,2020,2020-01-24,India,normal,,6,SS Iyer,New Zealand,India,India,field,CM Brown,SB Haig,Eden Park
+257,2020,2020-01-26,India,normal,,7,KL Rahul,New Zealand,India,New Zealand,bat,CM Brown,SB Haig,Eden Park
+258,2020,2020-01-29,India,tie,,,RG Sharma,New Zealand,India,New Zealand,field,CM Brown,SB Haig,Seddon Park
+259,2020,2020-01-31,India,tie,,,SN Thakur,New Zealand,India,New Zealand,field,CM Brown,SB Haig,Westpac Stadium
+260,2020,2020-02-02,India,normal,7,,JJ Bumrah,New Zealand,India,India,bat,CM Brown,SB Haig,Bay Oval
+261,2020,2020-02-02,New Zealand,normal,,9,NA,New Zealand,South Africa,New Zealand,field,JM Dempsey,Kim Cotton,Bay Oval
+262,2020,2020-02-06,New Zealand,normal,,5,NA,New Zealand,South Africa,New Zealand,field,CM Brown,Kim Cotton,Seddon Park
+263,2020,2020-02-09,South Africa,normal,,5,NA,New Zealand,South Africa,New Zealand,bat,BF Bowden,Kim Cotton,Basin Reserve
+264,2020,2020-02-10,New Zealand,normal,69,,NA,New Zealand,South Africa,South Africa,field,BF Bowden,GA Stirrat,Basin Reserve
+265,2019,2019-06-23,Netherlands,normal,49,,NA,Netherlands,Zimbabwe,Zimbabwe,field,HKG Jansen,Rizwan Akram,Hazelaarweg
+266,2019,2019-06-25,Zimbabwe,tie,,,NA,Netherlands,Zimbabwe,Netherlands,bat,Rizwan Akram,HKG Jansen,Hazelaarweg
+267,2019,2019-08-03,India,normal,,4,NA Saini,India,West Indies,India,field,N Duguid,GO Brathwaite,Central Broward Regional Park Stadium Turf Ground
+268,2019,2019-08-04,India,normal,22,,KH Pandya,India,West Indies,India,bat,N Duguid,GO Brathwaite,Central Broward Regional Park Stadium Turf Ground
+269,2019,2019-08-06,India,normal,,7,DL Chahar,West Indies,India,India,field,N Duguid,LS Reifer,"Providence Stadium, Guyana"
+270,2019,2019-06-19,Uganda,normal,30,,R Musamali,Rwanda,Uganda,Uganda,bat,John Mayeku,Jackson Nzayisenga,Gahanga International Cricket Stadium. Rwanda
+271,2019,2019-06-18,Rwanda,normal,,10,J Nyirankundineza,Rwanda,Mali,Mali,bat,Vicky Prajapati,Jackson Nzayisenga,Gahanga International Cricket Stadium. Rwanda
+272,2019,2019-06-18,Tanzania,normal,5,,M Pascal,Tanzania,Uganda,Tanzania,bat,John Mayeku,Vicky Prajapati,Gahanga International Cricket Stadium. Rwanda
+273,2019,2019-06-20,Guernsey,normal,6,,ND Laegsgaard,Guernsey,Denmark,Denmark,field,Rizwan Akram,Adriaan van den Dries,King George V Sports Ground
+274,2019,2019-06-20,Denmark,normal,30,,Zishan Shah,Denmark,Italy,Denmark,bat,Rizwan Akram,MV Waldron,King George V Sports Ground
+275,2019,2019-06-26,Netherlands,normal,7,,NA,Netherlands,Scotland,Scotland,field,AJT Dowdalls,WPM van Liemt,La Manga Club Top Ground
+276,2019,2019-06-27,Netherlands,normal,131,,NA,Germany,Netherlands,Germany,field,AJT Dowdalls,R Hassan,La Manga Club Top Ground
+277,2019,2019-06-27,Scotland,tie,,,NA,Netherlands,Scotland,Netherlands,field,AJT Dowdalls,WPM van Liemt,La Manga Club Top Ground
+278,2019,2019-06-29,Scotland,normal,107,,NA,Germany,Scotland,Germany,field,R Hassan,WPM van Liemt,La Manga Club Top Ground
+279,2019,2019-08-08,Ireland,normal,79,,NA,Netherlands,Ireland,Netherlands,field,Ryan Milne,PA Reynolds,Sportpark Het Schootsveld
+280,2019,2019-08-09,Scotland,normal,5,,NA,Netherlands,Scotland,Netherlands,bat,PA Reynolds,HKG Jansen,Sportpark Het Schootsveld
+281,2019,2019-08-09,Thailand,normal,4,,NA,Ireland,Thailand,Ireland,field,Ryan Milne,HKG Jansen,Sportpark Het Schootsveld
+282,2019,2019-08-10,Scotland,normal,11,,NA,Ireland,Scotland,Scotland,bat,Ryan Milne,WPM van Liemt,Sportpark Het Schootsveld
+283,2019,2019-08-12,Scotland,normal,,5,NA,Scotland,Thailand,Scotland,field,PA Reynolds,HKG Jansen,Sportpark Het Schootsveld
+284,2019,2019-08-12,NA,no result,,,NA,Netherlands,Ireland,Ireland,bat,Ryan Milne,PA Reynolds,Sportpark Het Schootsveld
+285,2019,2019-08-13,Thailand,normal,,7,NA,Ireland,Thailand,Ireland,bat,Ryan Milne,WPM van Liemt,Sportpark Het Schootsveld
+286,2019,2019-08-13,Scotland,normal,62,,NA,Netherlands,Scotland,Netherlands,field,PA Reynolds,WPM van Liemt,Sportpark Het Schootsveld
+287,2019,2019-08-14,Ireland,normal,,9,NA,Ireland,Scotland,Scotland,bat,Ryan Milne,PA Reynolds,Sportpark Het Schootsveld
+288,2019,2019-08-14,Thailand,normal,93,,NA,Netherlands,Thailand,Netherlands,field,HKG Jansen,Adriaan van den Dries,Sportpark Het Schootsveld
+289,2019,2019-07-22,Singapore,normal,33,,Janak Prakash,Singapore,Qatar,Singapore,bat,V Kalidas,BB Pradhan,Indian Association Ground
+290,2019,2019-07-22,Malaysia,normal,42,,Syed Aziz,Kuwait,Malaysia,Malaysia,bat,Tabarak Dar,BB Pradhan,Indian Association Ground
+291,2019,2019-07-23,Qatar,normal,,4,Inam-ul-Haq,Nepal,Qatar,Nepal,bat,V Kalidas,Tabarak Dar,Indian Association Ground
+292,2019,2019-07-24,Nepal,normal,,7,G Malla,Malaysia,Nepal,Nepal,field,V Kalidas,Tabarak Dar,Indian Association Ground
+293,2019,2019-07-26,Kuwait,normal,10,,Adnan Idrees,Kuwait,Qatar,Qatar,field,V Kalidas,BB Pradhan,Indian Association Ground
+294,2019,2019-07-26,Singapore,normal,,8,S Chandramohan,Singapore,Malaysia,Malaysia,bat,Tabarak Dar,BB Pradhan,Indian Association Ground
+295,2019,2019-07-27,Nepal,normal,,7,P Khadka,Kuwait,Nepal,Nepal,field,V Kalidas,Tabarak Dar,Indian Association Ground
+296,2019,2019-07-27,Qatar,normal,,4,Nouman Sarwar,Malaysia,Qatar,Malaysia,bat,Tabarak Dar,BB Pradhan,Indian Association Ground
+297,2019,2019-07-28,Singapore,normal,82,,TH David,Singapore,Nepal,Singapore,bat,V Kalidas,Tabarak Dar,Indian Association Ground
+298,2019,2019-08-05,United Arab Emirates,normal,,5,NA,Netherlands,United Arab Emirates,United Arab Emirates,field,Rizwan Akram,HKG Jansen,VRA Ground
+299,2019,2019-08-08,United Arab Emirates,normal,,7,NA,Netherlands,United Arab Emirates,Netherlands,bat,HKG Jansen,WPM van Liemt,Sportpark Westvliet
+300,2019,2019-07-13,Nepal,normal,,7,P Khadka,Malaysia,Nepal,Malaysia,bat,V Kalidas,D Sevakumaran,Kinrara Academy Oval
+301,2019,2019-07-14,Nepal,normal,6,,B Bhandari,Malaysia,Nepal,Nepal,bat,N Sivan,V Kalidas,Kinrara Academy Oval
+302,2019,2019-09-01,New Zealand,normal,,5,LRPL Taylor,Sri Lanka,New Zealand,Sri Lanka,bat,RR Wimalasiri,RMPJ Rambukwella,Pallekele International Cricket Stadium
+303,2019,2019-09-03,New Zealand,normal,,4,TG Southee,Sri Lanka,New Zealand,Sri Lanka,bat,RR Wimalasiri,LE Hannibal,Pallekele International Cricket Stadium
+304,2019,2019-09-06,Sri Lanka,normal,37,,SL Malinga,Sri Lanka,New Zealand,Sri Lanka,bat,LE Hannibal,RMPJ Rambukwella,Pallekele International Cricket Stadium
+305,2019,2019-11-14,West Indies,normal,30,,KA Pollard,Afghanistan,West Indies,Afghanistan,field,Ahmed Shah Pakteen,Ahmed Shah Durrani,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+306,2019,2019-11-16,Afghanistan,normal,41,,Karim Janat,Afghanistan,West Indies,Afghanistan,bat,Ahmed Shah Durrani,Izatullah Safi,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+307,2019,2019-11-17,Afghanistan,normal,29,,Rahmanullah Gurbaz,Afghanistan,West Indies,Afghanistan,bat,Ahmed Shah Pakteen,Izatullah Safi,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+308,2019,2019-09-07,Rwanda,normal,,4,S Sunday,Rwanda,Nigeria,Nigeria,bat,Eric Hirwa,Patric Makumbi,Gahanga International Cricket Stadium. Rwanda
+309,2019,2019-09-02,Bangladesh,normal,6,,Nahida Akter,Bangladesh,Papua New Guinea,Papua New Guinea,field,S Redfern,Eloise Sheridan,Forthill
+310,2019,2019-08-31,Scotland,normal,30,,KE Bryce,Scotland,United States of America,Scotland,bat,S Redfern,Kim Cotton,Forthill
+311,2019,2019-09-01,Thailand,normal,38,,C Sutthiruang,Namibia,Thailand,Thailand,bat,CA Polosak,Eloise Sheridan,Forthill
+312,2019,2019-09-01,Papua New Guinea,normal,,6,B Tau,Scotland,Papua New Guinea,Papua New Guinea,field,Lauren Agenbag,Kim Cotton,Lochlands
+313,2019,2019-09-01,Ireland,normal,19,,L Delany,Ireland,Netherlands,Ireland,bat,JM Williams,Eloise Sheridan,Forthill
+314,2019,2019-09-01,Bangladesh,normal,,8,Nahida Akter,Bangladesh,United States of America,United States of America,bat,Lauren Agenbag,S Redfern,Lochlands
+315,2019,2019-09-03,Thailand,normal,2,,S Laomi,Ireland,Thailand,Ireland,field,JM Williams,S Redfern,Forthill
+316,2019,2019-09-03,Netherlands,normal,,6,HDJ Siegers,Namibia,Netherlands,Namibia,bat,Lauren Agenbag,Kim Cotton,Lochlands
+317,2019,2019-09-03,Bangladesh,normal,13,,Nigar Sultana,Scotland,Bangladesh,Scotland,field,JM Williams,Eloise Sheridan,Forthill
+318,2019,2019-09-03,Papua New Guinea,normal,22,,S Jimmy,Papua New Guinea,United States of America,United States of America,field,CA Polosak,Lauren Agenbag,Lochlands
+319,2019,2019-09-05,Bangladesh,normal,,4,Sanjida Islam,Bangladesh,Ireland,Ireland,bat,S Redfern,Eloise Sheridan,Forthill
+320,2019,2019-09-05,Thailand,normal,,8,S Laomi,Papua New Guinea,Thailand,Papua New Guinea,bat,Eloise Sheridan,CA Polosak,Forthill
+321,2019,2019-09-05,Scotland,normal,,10,SJ Bryce,Scotland,Namibia,Scotland,field,Kim Cotton,JM Williams,Lochlands
+322,2019,2019-09-07,Ireland,normal,,8,KJ Garth,Ireland,Papua New Guinea,Ireland,field,Kim Cotton,CA Polosak,Forthill
+323,2019,2019-09-07,United States of America,normal,,6,S Ramautar,Namibia,United States of America,United States of America,field,S Redfern,Eloise Sheridan,Lochlands
+324,2019,2019-09-07,Bangladesh,normal,70,,Sanjida Islam,Bangladesh,Thailand,Bangladesh,bat,CA Polosak,JM Williams,Forthill
+325,2019,2019-09-07,Scotland,normal,70,,SJ Bryce,Scotland,Netherlands,Netherlands,field,Lauren Agenbag,S Redfern,Lochlands
+326,2019,2019-09-13,Bangladesh,normal,,3,Afif Hossain,Bangladesh,Zimbabwe,Bangladesh,field,Sharfuddoula,Masudur Rahman,"Shere Bangla National Stadium, Mirpur"
+327,2019,2019-09-14,Afghanistan,normal,28,,Najibullah Zadran,Afghanistan,Zimbabwe,Zimbabwe,field,Sharfuddoula,Gazi Sohel,"Shere Bangla National Stadium, Mirpur"
+328,2019,2019-09-15,Afghanistan,normal,25,,Mohammad Nabi,Bangladesh,Afghanistan,Afghanistan,bat,Masudur Rahman,Gazi Sohel,"Shere Bangla National Stadium, Mirpur"
+329,2019,2019-09-18,Bangladesh,normal,39,,Mahmudullah,Bangladesh,Zimbabwe,Zimbabwe,field,Tanvir Ahmed,Masudur Rahman,Zahur Ahmed Chowdhury Stadium
+330,2019,2019-09-20,Zimbabwe,normal,,7,CB Mpofu,Afghanistan,Zimbabwe,Afghanistan,bat,Sharfuddoula,Tanvir Ahmed,Zahur Ahmed Chowdhury Stadium
+331,2019,2019-09-21,Bangladesh,normal,,4,Shakib Al Hasan,Bangladesh,Afghanistan,Bangladesh,field,Masudur Rahman,Gazi Sohel,Zahur Ahmed Chowdhury Stadium
+332,2019,2019-09-19,Japan,normal,12,,S Miyaji,South Korea,Japan,South Korea,field,Ryu Roni,Shahid Gill,Yeonhui Cricket Ground
+333,2019,2019-09-19,Hong Kong,normal,5,,KY Chan,China,Hong Kong,Hong Kong,bat,Ryu Roni,Shahid Gill,Yeonhui Cricket Ground
+334,2019,2019-09-20,Japan,normal,,2,N Tokizawa,Hong Kong,Japan,Hong Kong,bat,Ryu Roni,Shahid Gill,Yeonhui Cricket Ground
+335,2019,2019-09-20,China,normal,81,,F Song,South Korea,China,South Korea,field,Ryu Roni,Shahid Gill,Yeonhui Cricket Ground
+336,2019,2019-09-22,China,normal,14,,Sun Meng Yao,China,Hong Kong,Hong Kong,field,Ryu Roni,Shahid Gill,Yeonhui Cricket Ground
+337,2019,2019-08-18,Bermuda,normal,6,,DMW Rawlins,Bermuda,United States of America,Bermuda,bat,N Duguid,H Grewal,"White Hill Field, Sandys Parish"
+338,2019,2019-08-18,Canada,normal,84,,Ravinderpal Singh,Canada,Cayman Islands,Canada,bat,JM Williams,Emmerson Carrington,"White Hill Field, Sandys Parish"
+339,2019,2019-08-19,NA,no result,,,NA,Bermuda,Canada,Bermuda,bat,N Duguid,JM Williams,National Stadium
+340,2019,2019-08-19,United States of America,normal,10,,NA,Cayman Islands,United States of America,United States of America,field,Emmerson Carrington,H Grewal,National Stadium
+341,2019,2019-08-21,Bermuda,normal,,6,NA,Bermuda,Cayman Islands,Cayman Islands,bat,JM Williams,H Grewal,"White Hill Field, Sandys Parish"
+342,2019,2019-08-21,Canada,normal,,4,NS Dhaliwal,Canada,United States of America,United States of America,bat,N Duguid,Emmerson Carrington,"White Hill Field, Sandys Parish"
+343,2019,2019-08-22,Canada,normal,,8,NS Dhaliwal,Canada,Cayman Islands,Canada,field,N Duguid,Emmerson Carrington,"White Hill Field, Sandys Parish"
+344,2019,2019-08-22,Bermuda,normal,,4,DAP Darrell,United States of America,Bermuda,Bermuda,field,JM Williams,H Grewal,Bermuda National Stadium
+345,2019,2019-08-24,United States of America,normal,,9,Steven Ryan Taylor,Cayman Islands,United States of America,Cayman Islands,bat,Emmerson Carrington,H Grewal,"White Hill Field, Sandys Parish"
+346,2019,2019-08-25,Canada,normal,15,,Ravinderpal Singh,Canada,United States of America,United States of America,field,JM Williams,Emmerson Carrington,"White Hill Field, Sandys Parish"
+347,2019,2019-08-25,Bermuda,normal,,6,AC Douglas,Bermuda,Cayman Islands,Cayman Islands,bat,N Duguid,H Grewal,"White Hill Field, Sandys Parish"
+348,2019,2019-08-19,Namibia,normal,93,,CG Williams,Namibia,Botswana,Botswana,field,Marthinus Louw,C Thorburn,United Cricket Club Ground
+349,2019,2019-08-20,Namibia,normal,124,,JP Kotze,Namibia,Botswana,Botswana,field,A Louw,Claus Schumacher,United Cricket Club Ground
+350,2019,2019-08-22,Namibia,normal,78,,SJ Baard,Namibia,Botswana,Namibia,bat,Marthinus Louw,C Thorburn,United Cricket Club Ground
+351,2019,2019-08-23,Namibia,normal,,8,MG Erasmus,Namibia,Botswana,Botswana,bat,JJ Luck,Marthinus Louw,United Cricket Club Ground
+352,2019,2019-10-05,Ireland,normal,,6,NA,Ireland,Netherlands,Ireland,field,Vinod Babu,Rashid Riaz,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+353,2019,2019-10-06,Oman,normal,43,,NA,Oman,Ireland,Ireland,field,Harikrishna Pillai,Rashid Riaz,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+354,2019,2019-10-06,Nepal,normal,,4,NA,Hong Kong,Nepal,Nepal,field,Rahul Asher,Rashid Riaz,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+355,2019,2019-10-07,Nepal,normal,,4,NA,Nepal,Netherlands,Nepal,field,Vinod Babu,Rashid Riaz,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+356,2019,2019-10-07,Ireland,normal,66,,NA,Hong Kong,Ireland,Ireland,bat,Harikrishna Pillai,Rashid Riaz,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+357,2019,2019-10-09,Ireland,normal,13,,NA,Ireland,Nepal,Ireland,bat,Rahul Asher,Vinod Babu,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+358,2019,2019-10-09,Oman,normal,,7,NA,Oman,Netherlands,Netherlands,bat,Harikrishna Pillai,Rahul Asher,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+359,2019,2019-10-10,Netherlands,normal,37,,NA,Hong Kong,Netherlands,Hong Kong,field,Harikrishna Pillai,Vinod Babu,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+360,2019,2019-10-10,Oman,normal,,6,NA,Oman,Nepal,Oman,field,Rahul Asher,Vinod Babu,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+361,2019,2019-08-28,Malaysia,normal,22,,Ainna Hamizah Hashim,Singapore,Malaysia,Singapore,field,Pramesh Parab,Sathish Balasubramaniam,Indian Association Ground
+362,2019,2019-08-29,Malaysia,normal,,9,WA Duraisingam,Singapore,Malaysia,Singapore,bat,Ravi Putcha,T Senthil Kumar,Indian Association Ground
+363,2019,2019-08-30,Malaysia,normal,30,,WA Duraisingam,Singapore,Malaysia,Malaysia,bat,Dharmalngam Suresh,Foyes Ahmed,Indian Association Ground
+364,2019,2019-09-14,Australia,normal,,6,MM Lanning,West Indies,Australia,West Indies,bat,Jonathan Blades,Verdayne Smith,"Kensington Oval, Barbados"
+365,2019,2019-09-16,Australia,normal,,9,AJ Healy,West Indies,Australia,Australia,field,Christopher Taylor,Verdayne Smith,"Kensington Oval, Barbados"
+366,2019,2019-09-18,Australia,normal,,9,JL Jonassen,West Indies,Australia,West Indies,bat,Christopher Taylor,Jonathan Blades,"Kensington Oval, Barbados"
+367,2019,2019-09-24,India,normal,11,,DB Sharma,India,South Africa,South Africa,field,J Madanagopal,Chirra Ravikanthreddy,Lalabhai Contractor Stadium
+368,2019,2019-10-01,India,normal,51,,Poonam Yadav,India,South Africa,South Africa,field,Chirra Ravikanthreddy,YC Barde,Lalabhai Contractor Stadium
+369,2019,2019-10-04,South Africa,normal,105,,L Lee,India,South Africa,South Africa,bat,YC Barde,Chirra Ravikanthreddy,Lalabhai Contractor Stadium
+370,2019,2019-10-05,Sri Lanka,normal,64,,MD Gunathilaka,Pakistan,Sri Lanka,Pakistan,field,Aleem Dar,Ahsan Raza,Gaddafi Stadium
+371,2019,2019-10-07,Sri Lanka,normal,35,,PBB Rajapaksa,Pakistan,Sri Lanka,Sri Lanka,bat,Asif Yaqoob,Aleem Dar,Gaddafi Stadium
+372,2019,2019-10-09,Sri Lanka,normal,13,,PWH de Silva,Pakistan,Sri Lanka,Sri Lanka,bat,Shozab Raza,Aleem Dar,Gaddafi Stadium
+373,2019,2019-10-18,Singapore,normal,2,,S Vijayakumar,Scotland,Singapore,Scotland,field,Ahsan Raza,R Black,ICC Academy
+374,2019,2019-10-18,Ireland,normal,,8,PR Stirling,Hong Kong,Ireland,Hong Kong,bat,SJ Nogajski,S Ravi,Sheikh Zayed Stadium
+375,2019,2019-10-18,Netherlands,normal,30,,MP O'Dowd,Kenya,Netherlands,Netherlands,bat,CM Brown,RR Wimalasiri,ICC Academy
+376,2019,2019-10-18,Oman,normal,,7,Fayyaz Butt,United Arab Emirates,Oman,Oman,field,A Paleker,AG Wharf,Sheikh Zayed Stadium
+377,2019,2019-10-19,Papua New Guinea,normal,,10,N Vanua,Bermuda,Papua New Guinea,Papua New Guinea,field,CM Brown,R Black,ICC Academy
+378,2019,2019-10-19,Jersey,normal,69,,JW Jenner,Jersey,Nigeria,Jersey,bat,LE Hannibal,AG Wharf,Sheikh Zayed Stadium
+379,2019,2019-10-19,Netherlands,normal,44,,RN ten Doeschate,Namibia,Netherlands,Netherlands,bat,Sharfuddoula,RR Wimalasiri,ICC Academy
+380,2019,2019-10-19,Scotland,normal,31,,RD Berrington,Kenya,Scotland,Scotland,bat,Ahmed Shah Pakteen,Ahsan Raza,ICC Academy Ground No 2
+381,2019,2019-10-19,United Arab Emirates,normal,,5,Rohan Mustafa,United Arab Emirates,Ireland,United Arab Emirates,field,SJ Nogajski,Rashid Riaz,Sheikh Zayed Stadium
+382,2019,2019-10-20,Papua New Guinea,normal,81,,A Vala,Namibia,Papua New Guinea,Papua New Guinea,bat,Ahmed Shah Pakteen,R Black,ICC Academy Ground No 2
+383,2019,2019-10-20,Canada,normal,53,,NR Kumar,Canada,Jersey,Jersey,field,LE Hannibal,Rashid Riaz,Tolerance Oval
+384,2019,2019-10-20,Singapore,normal,,5,NMS Param,Bermuda,Singapore,Bermuda,bat,CM Brown,Sharfuddoula,ICC Academy Ground No 2
+385,2019,2019-10-20,Oman,normal,,7,Aamir Kaleem,Hong Kong,Oman,Oman,field,A Paleker,S Ravi,Sheikh Zayed Stadium
+386,2019,2019-10-21,Scotland,normal,4,,Hamza Tahir,Papua New Guinea,Scotland,Scotland,bat,Ahsan Raza,Sharfuddoula,ICC Academy
+387,2019,2019-10-21,United Arab Emirates,normal,,8,Rameez Shahzad,United Arab Emirates,Hong Kong,Hong Kong,bat,AG Wharf,S Ravi,Sheikh Zayed Stadium
+388,2019,2019-10-21,Ireland,normal,35,,GJ Delany,Ireland,Oman,Oman,field,A Paleker,SJ Nogajski,Tolerance Oval
+389,2019,2019-10-21,Kenya,normal,45,,DM Gondaria,Bermuda,Kenya,Kenya,bat,Ahmed Shah Pakteen,RR Wimalasiri,ICC Academy
+390,2019,2019-10-21,Canada,normal,50,,NR Kumar,Canada,Nigeria,Canada,bat,LE Hannibal,Rashid Riaz,Sheikh Zayed Stadium
+391,2019,2019-10-22,Namibia,normal,24,,JJ Smit,Namibia,Scotland,Namibia,bat,CM Brown,SJ Nogajski,ICC Academy
+392,2019,2019-10-22,Netherlands,normal,,5,RE van der Merwe,Netherlands,Singapore,Singapore,bat,Ahsan Raza,R Black,ICC Academy
+393,2019,2019-10-22,Jersey,normal,35,,B Ward,United Arab Emirates,Jersey,Jersey,bat,Sharfuddoula,Ahmed Shah Pakteen,Tolerance Oval
+394,2019,2019-10-23,Namibia,normal,,6,BM Scholtz,Bermuda,Namibia,Namibia,field,A Paleker,Ahsan Raza,ICC Academy Ground No 2
+395,2019,2019-10-23,Oman,normal,,7,Aamir Kaleem,Nigeria,Oman,Nigeria,bat,Sharfuddoula,Rashid Riaz,Tolerance Oval
+396,2019,2019-10-23,Kenya,normal,,7,IA Karim,Kenya,Singapore,Singapore,bat,R Black,AG Wharf,ICC Academy Ground No 2
+397,2019,2019-10-23,Canada,normal,10,,NR Kumar,Canada,Ireland,Canada,bat,Ahmed Shah Pakteen,LE Hannibal,Sheikh Zayed Stadium
+398,2019,2019-10-23,Hong Kong,normal,8,,SS McKechnie,Hong Kong,Jersey,Hong Kong,bat,RR Wimalasiri,S Ravi,Sheikh Zayed Stadium
+399,2019,2019-10-24,Papua New Guinea,normal,,5,NA,Netherlands,Papua New Guinea,Netherlands,bat,AG Wharf,SJ Nogajski,ICC Academy
+400,2019,2019-10-24,United Arab Emirates,normal,,5,Zawar Farid,United Arab Emirates,Nigeria,United Arab Emirates,field,LE Hannibal,S Ravi,Tolerance Oval
+401,2019,2019-10-24,Hong Kong,normal,32,,KD Shah,Canada,Hong Kong,Hong Kong,bat,RR Wimalasiri,Rashid Riaz,Tolerance Oval
+402,2019,2019-10-24,Scotland,normal,46,,CS MacLeod,Bermuda,Scotland,Bermuda,field,CM Brown,A Paleker,Dubai International Cricket Stadium
+403,2019,2019-10-25,Papua New Guinea,normal,43,,D Ravu,Papua New Guinea,Singapore,Singapore,field,A Paleker,SJ Nogajski,Dubai International Cricket Stadium
+404,2019,2019-10-25,Ireland,normal,,8,MR Adair,Ireland,Jersey,Ireland,field,RR Wimalasiri,Ahsan Raza,Tolerance Oval
+405,2019,2019-10-25,Namibia,normal,87,,MG Erasmus,Kenya,Namibia,Namibia,bat,LE Hannibal,AG Wharf,Dubai International Cricket Stadium
+406,2019,2019-10-25,Oman,normal,,8,Jatinder Singh,Canada,Oman,Canada,bat,Sharfuddoula,R Black,Sheikh Zayed Stadium
+407,2019,2019-10-26,Ireland,normal,,8,CA Young,Ireland,Nigeria,Nigeria,bat,CM Brown,Ahmed Shah Pakteen,Sheikh Zayed Stadium
+408,2019,2019-10-26,Netherlands,normal,92,,CN Ackermann,Bermuda,Netherlands,Netherlands,bat,Rashid Riaz,S Ravi,Dubai International Cricket Stadium
+409,2019,2019-10-26,Namibia,normal,87,,MG Erasmus,Namibia,Singapore,Singapore,field,LE Hannibal,SJ Nogajski,Dubai International Cricket Stadium
+410,2019,2019-10-27,Papua New Guinea,normal,45,,N Vanua,Kenya,Papua New Guinea,Kenya,field,AG Wharf,S Ravi,Dubai International Cricket Stadium
+411,2019,2019-10-27,Hong Kong,normal,,5,Mohammad Ghazanfar,Hong Kong,Nigeria,Nigeria,bat,Sharfuddoula,RR Wimalasiri,Tolerance Oval
+412,2019,2019-10-27,Jersey,normal,14,,NA,Jersey,Oman,Oman,field,CM Brown,R Black,Sheikh Zayed Stadium
+413,2019,2019-10-27,Netherlands,normal,,4,PM Seelaar,Netherlands,Scotland,Netherlands,field,A Paleker,Rashid Riaz,Dubai International Cricket Stadium
+414,2019,2019-10-27,United Arab Emirates,normal,14,,Muhammad Usman,United Arab Emirates,Canada,Canada,field,Ahmed Shah Pakteen,Ahsan Raza,Sheikh Zayed Stadium
+415,2019,2019-10-29,Netherlands,normal,,8,BD Glover,United Arab Emirates,Netherlands,United Arab Emirates,bat,LE Hannibal,R Black,Dubai International Cricket Stadium
+416,2019,2019-10-29,Namibia,normal,54,,JJ Smit,Namibia,Oman,Namibia,bat,CM Brown,S Ravi,Dubai International Cricket Stadium
+417,2019,2019-10-30,Scotland,normal,90,,HG Munsey,United Arab Emirates,Scotland,Scotland,bat,Ahsan Raza,AG Wharf,Dubai International Cricket Stadium
+418,2019,2019-10-30,Oman,normal,12,,Jatinder Singh,Hong Kong,Oman,Oman,bat,A Paleker,SJ Nogajski,Dubai International Cricket Stadium
+419,2019,2019-10-31,Scotland,normal,,5,MH Cross,Oman,Scotland,Oman,bat,RR Wimalasiri,Rashid Riaz,ICC Academy
+420,2019,2019-11-01,Netherlands,normal,21,,RE van der Merwe,Ireland,Netherlands,Ireland,field,Sharfuddoula,AG Wharf,Dubai International Cricket Stadium
+421,2019,2019-11-01,Papua New Guinea,normal,18,,N Vanua,Namibia,Papua New Guinea,Papua New Guinea,bat,A Paleker,SJ Nogajski,Dubai International Cricket Stadium
+422,2019,2019-11-02,Ireland,normal,27,,Simi Singh,Ireland,Namibia,Ireland,bat,A Paleker,AG Wharf,Dubai International Cricket Stadium
+423,2019,2019-11-02,Netherlands,normal,,7,BD Glover,Netherlands,Papua New Guinea,Papua New Guinea,bat,Ahsan Raza,SJ Nogajski,Dubai International Cricket Stadium
+424,2019,2019-09-16,Scotland,normal,58,,HG Munsey,Netherlands,Scotland,Netherlands,field,DH Mclean,AJ Neill,"The Village, Malahide"
+425,2019,2019-09-17,Ireland,normal,,4,A Balbirnie,Ireland,Scotland,Scotland,bat,Rizwan Akram,AJ Neill,"The Village, Malahide"
+426,2019,2019-09-18,Netherlands,normal,,6,BN Cooper,Ireland,Netherlands,Ireland,bat,Rizwan Akram,DH Mclean,"The Village, Malahide"
+427,2019,2019-09-19,Scotland,normal,,6,NA,Netherlands,Scotland,Netherlands,bat,DH Mclean,AJ Neill,"The Village, Malahide"
+428,2019,2019-10-25,Spain,normal,,8,NA,Spain,Portugal,Spain,field,,,La Manga Club Bottom Ground
+429,2019,2019-10-26,Portugal,normal,,6,NA,Gibraltar,Portugal,Gibraltar,bat,,,La Manga Club Bottom Ground
+431,2019,2019-10-26,Spain,normal,29,,NA,Spain,Portugal,Portugal,field,,,La Manga Club Bottom Ground
+430,2019,2019-10-26,Spain,normal,,8,NA,Spain,Gibraltar,Spain,field,,,La Manga Club Bottom Ground
+432,2019,2019-10-27,Spain,normal,,6,NA,Spain,Gibraltar,Spain,field,,,La Manga Club Bottom Ground
+433,2019,2019-09-27,Zimbabwe,normal,,5,R Mutumbami,Nepal,Zimbabwe,Nepal,bat,Akbar Ali,A Natarajan,Indian Association Ground
+434,2019,2019-09-28,Nepal,normal,,9,P Khadka,Singapore,Nepal,Singapore,bat,Akbar Ali,Hardeep Jadeja,Indian Association Ground
+435,2019,2019-09-29,Singapore,normal,4,,SC Williams,Singapore,Zimbabwe,Singapore,bat,Akbar Ali,B Manikandan,Indian Association Ground
+436,2019,2019-10-01,Zimbabwe,normal,40,,SC Williams,Nepal,Zimbabwe,Nepal,field,Akbar Ali,T Senthil Kumar,Indian Association Ground
+437,2019,2019-10-03,Zimbabwe,normal,,8,PJ Moor,Singapore,Zimbabwe,Zimbabwe,field,Hardeep Jadeja,A Natarajan,Indian Association Ground
+438,2019,2019-09-29,Vanuatu,normal,17,,J Rasu,Malaysia,Vanuatu,Vanuatu,bat,D Sevakumaran,Izmir Azraf,Kinrara Academy Oval
+439,2019,2019-10-01,Vanuatu,normal,51,,PK Matautaava,Malaysia,Vanuatu,Vanuatu,bat,Rudy Ismandy,V Kalidas,Kinrara Academy Oval
+440,2019,2019-10-02,Malaysia,normal,26,,N Nipiko,Malaysia,Vanuatu,Malaysia,bat,Zaidan Taha,Mathan Kumar,Kinrara Academy Oval
+441,2019,2019-10-03,Vanuatu,normal,,6,J Rasu,Malaysia,Vanuatu,Malaysia,bat,Rudy Ismandy,V Kalidas,Kinrara Academy Oval
+442,2019,2019-10-04,Malaysia,normal,22,,Syed Aziz,Malaysia,Vanuatu,Malaysia,bat,Rudy Ismandy,N Sivan,Kinrara Academy Oval
+443,2020,2020-01-07,India,normal,,7,NA Saini,India,Sri Lanka,India,field,C Shamshuddin,AK Chaudhary,Holkar Cricket Stadium
+444,2020,2020-01-10,India,normal,78,,SN Thakur,India,Sri Lanka,Sri Lanka,field,Nitin Menon,VK Sharma,Maharashtra Cricket Association Stadium
+445,2019,2019-11-09,India,normal,84,,Shafali Verma,West Indies,India,West Indies,field,JM Williams,Zahid Bassarath,"Darren Sammy National Cricket Stadium, St Lucia"
+446,2019,2019-11-10,India,normal,,10,DB Sharma,West Indies,India,West Indies,bat,PA Gustard,JM Williams,"Darren Sammy National Cricket Stadium, St Lucia"
+447,2019,2019-11-14,India,normal,,7,JI Rodrigues,West Indies,India,West Indies,bat,PA Gustard,Zahid Bassarath,"Providence Stadium, Guyana"
+448,2019,2019-11-17,India,normal,5,,HK Matthews,West Indies,India,West Indies,field,JM Williams,Zahid Bassarath,"Providence Stadium, Guyana"
+449,2019,2019-11-20,India,normal,61,,V Krishnamurthy,West Indies,India,India,bat,PA Gustard,JM Williams,"Providence Stadium, Guyana"
+450,2019,2019-10-03,India,normal,,5,H Kaur,India,South Africa,India,field,J Madanagopal,YC Barde,Lalabhai Contractor Stadium
+451,2020,2020-01-15,Ireland,normal,4,,PR Stirling,West Indies,Ireland,Ireland,bat,PA Gustard,GO Brathwaite,"National Cricket Stadium, Grenada"
+452,2020,2020-01-18,NA,no result,,,NA,West Indies,Ireland,West Indies,field,PA Gustard,GO Brathwaite,"Warner Park, St Kitts"
+453,2020,2020-01-19,West Indies,normal,,9,LMP Simmons,West Indies,Ireland,West Indies,field,PA Gustard,GO Brathwaite,"Warner Park, St Kitts"
+454,2019,2019-10-26,Pakistan,normal,14,,Bismah Maroof,Pakistan,Bangladesh,Pakistan,bat,Asif Yaqoob,Tariq Rasheed,Gaddafi Stadium
+455,2020,2020-03-08,Spain,normal,,9,NA,Spain,Germany,Spain,field,,,Desert Springs Cricket Ground
+456,2020,2020-03-08,Germany,normal,58,,NA,Spain,Germany,Spain,field,,,Desert Springs Cricket Ground
+457,2019,2019-12-17,England,normal,29,,AE Jones,England,Pakistan,Pakistan,field,Ghaffar Kazmi,Khalid Mahmood,Kinrara Academy Oval
+458,2019,2019-12-19,England,normal,84,,AE Jones,England,Pakistan,England,bat,Ghaffar Kazmi,Khalid Mahmood,Kinrara Academy Oval
+459,2019,2019-12-20,England,normal,26,,HC Knight,England,Pakistan,England,bat,Ghaffar Kazmi,Khalid Mahmood,Kinrara Academy Oval
+460,2019,2019-12-05,Nepal,normal,141,,G Malla,Nepal,Bhutan,Bhutan,field,ID Gunawardene,BB Pradhan,Tribhuvan University International Cricket Ground
+461,2019,2019-12-06,Nepal,normal,84,,Karan KC,Nepal,Maldives,Nepal,bat,BB Pradhan,ID Gunawardene,Tribhuvan University International Cricket Ground
+462,2019,2019-12-07,Maldives,normal,,8,Ibrahim Hassan,Bhutan,Maldives,Maldives,field,ID Gunawardene,BB Pradhan,Tribhuvan University International Cricket Ground
+463,2019,2019-12-09,Nepal,normal,,5,LN Rajbanshi,Nepal,Maldives,Nepal,field,ID Gunawardene,BB Pradhan,Tribhuvan University International Cricket Ground
+464,2019,2019-12-02,Nepal,normal,,10,Anjali Chand,Nepal,Maldives,Maldives,bat,Adhip Pradhan,Basu Karn,Pokhara Rangasala
+465,2019,2019-12-07,Nepal,normal,,10,Anjali Chand,Nepal,Maldives,Maldives,bat,Manjul Bhattarai,Hiralal Raut,Pokhara Rangasala
+466,2020,2020-01-24,Pakistan,normal,,5,Shoaib Malik,Pakistan,Bangladesh,Bangladesh,bat,Shozab Raza,Ahsan Raza,Gaddafi Stadium
+467,2020,2020-01-25,Pakistan,normal,,9,Babar Azam,Pakistan,Bangladesh,Bangladesh,bat,Shozab Raza,Ahsan Raza,Gaddafi Stadium
+468,2020,2020-03-04,West Indies,normal,25,,O Thomas,Sri Lanka,West Indies,West Indies,bat,RMPJ Rambukwella,RSA Palliyaguruge,Pallekele International Cricket Stadium
+469,2020,2020-03-06,West Indies,normal,,7,AD Russell,Sri Lanka,West Indies,West Indies,field,RR Wimalasiri,LE Hannibal,Pallekele International Cricket Stadium
+470,2020,2020-03-09,Bangladesh,normal,48,,Soumya Sarkar,Bangladesh,Zimbabwe,Zimbabwe,field,Tanvir Ahmed,Sharfuddoula,"Shere Bangla National Stadium, Mirpur"
+471,2020,2020-03-11,Bangladesh,normal,,9,Liton Das,Bangladesh,Zimbabwe,Bangladesh,field,Masudur Rahman,Gazi Sohel,"Shere Bangla National Stadium, Mirpur"
+472,2020,2020-02-04,Germany,normal,115,,CM Gough,Oman,Germany,Oman,field,Azad KR,Samir Parker,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+473,2020,2020-02-05,Germany,normal,,6,AM Healey,Oman,Germany,Oman,bat,Samir Parker,Afzalkhan Pathan,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+474,2020,2020-02-07,Germany,normal,19,,JE Ronalds,Oman,Germany,Germany,bat,Azad KR,Samir Parker,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+475,2020,2020-02-08,Germany,normal,23,,ST Frohnmayer,Oman,Germany,Germany,bat,Azad KR,Afzalkhan Pathan,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+476,2020,2020-02-20,Malaysia,normal,21,,Khizar Hayat,Malaysia,Hong Kong,Malaysia,bat,V Kalidas,D Sevakumaran,Kinrara Academy Oval
+477,2020,2020-02-21,Malaysia,normal,35,,Virandeep Singh,Malaysia,Hong Kong,Malaysia,bat,Mathan Kumar,V Kalidas,Kinrara Academy Oval
+478,2020,2020-02-23,Malaysia,normal,8,,Ahmed Faiz Mohammad Noor,Malaysia,Hong Kong,Malaysia,bat,Rudy Ismandy,N Sivan,Kinrara Academy Oval
+479,2020,2020-02-24,Malaysia,normal,13,,Virandeep Singh,Malaysia,Hong Kong,Malaysia,bat,L Poobalan,V Kalidas,Kinrara Academy Oval
+480,2020,2020-02-26,Malaysia,normal,,6,KD Shah,Malaysia,Hong Kong,Hong Kong,bat,Nasir Ali,V Kalidas,Kinrara Academy Oval
+481,2020,2020-02-25,Oman,normal,,10,Khawar Ali,Oman,Maldives,Oman,field,Riyaz Kurupkar,Mohammed Younis,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+482,2020,2020-02-25,United Arab Emirates,normal,12,,Chirag Suri,Saudi Arabia,United Arab Emirates,United Arab Emirates,bat,Afzal Pathan,Imran Mustafa,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+483,2020,2020-02-25,Bahrain,normal,,6,Sarfaraz Ali,Bahrain,Qatar,Qatar,bat,Anantha Rajamani,Afzal Pathan,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+484,2020,2020-02-25,Kuwait,normal,,8,MNM Aslam,Iran,Kuwait,Kuwait,field,Riyaz Kurupkar,Rahat Ali Chaudhry,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+485,2020,2020-02-26,Kuwait,normal,87,,R Sandaruwan,Kuwait,Bahrain,Bahrain,field,Riyaz Kurupkar,Rahat Ali Chaudhry,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+486,2020,2020-02-26,United Arab Emirates,normal,28,,Junaid Siddique (2),Qatar,United Arab Emirates,United Arab Emirates,bat,Imran Mustafa,Afzalkhan Pathan,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+487,2020,2020-02-27,United Arab Emirates,normal,102,,Sultan Ahmed (2),Kuwait,United Arab Emirates,Kuwait,field,Afzalkhan Pathan,Rahat Ali Chaudhry,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+488,2020,2020-03-06,Afghanistan,normal,11,,Rashid Khan,Afghanistan,Ireland,Ireland,bat,Bismillah Shinwari,Ahmed Shah Durrani,Greater Noida Sports Complex Ground
+489,2020,2020-03-08,Afghanistan,normal,21,,Mujeeb Ur Rahman,Afghanistan,Ireland,Afghanistan,bat,Ahmed Shah Pakteen,Izatullah Safi,Greater Noida Sports Complex Ground
+490,2020,2020-03-10,Ireland,tie,,,KJ O'Brien,Afghanistan,Ireland,Ireland,bat,Bismillah Shinwari,Ahmed Shah Pakteen,Greater Noida Sports Complex Ground
+491,2020,2020-02-29,Singapore,normal,43,,Sidhant Singh,Thailand,Singapore,Thailand,field,SV Sarda,V Kalidas,Terdthai Cricket Ground
+492,2020,2020-03-01,Hong Kong,normal,43,,Haroon Arshad,Hong Kong,Nepal,Nepal,field,Arif Ansari,V Kalidas,Terdthai Cricket Ground
+493,2020,2020-03-01,Malaysia,normal,,8,Pavandeep Singh,Thailand,Malaysia,Thailand,bat,B Manikandan,Sanjay Gurung,Terdthai Cricket Ground
+494,2020,2020-03-03,Singapore,normal,128,,NA,Malaysia,Singapore,Singapore,bat,Arif Ansari,AK Rana,Terdthai Cricket Ground
+495,2020,2020-03-03,Hong Kong,normal,,8,NA,Thailand,Hong Kong,Thailand,bat,V Kalidas,Sanjay Gurung,Terdthai Cricket Ground
+496,2020,2020-03-04,Nepal,normal,,9,Karan KC,Thailand,Nepal,Thailand,bat,B Manikandan,Sanjay Gurung,Terdthai Cricket Ground
+497,2020,2020-03-04,Singapore,normal,16,,Manpreet Singh,Hong Kong,Singapore,Singapore,bat,Samad Akbar,V Kalidas,Terdthai Cricket Ground
+498,2020,2020-03-06,Hong Kong,normal,,6,NA,Hong Kong,Malaysia,Malaysia,bat,B Manikandan,Sanjay Gurung,Terdthai Cricket Ground
+499,2005,2005-06-13,England,normal,100,,KP Pietersen,England,Australia,England,bat,NJ Llong,JW Lloyds,The Rose Bowl
+500,2005,2005-02-17,Australia,normal,44,,RT Ponting,New Zealand,Australia,Australia,bat,BF Bowden,AL Hill,Eden Park
+501,2005,2005-10-21,New Zealand,normal,,5,JS Patel,South Africa,New Zealand,New Zealand,field,IL Howell,BG Jerling,New Wanderers Stadium
+502,2006,2006-08-28,Pakistan,normal,,5,Shahid Afridi,England,Pakistan,England,bat,PJ Hartley,NJ Llong,County Ground
+503,2006,2006-06-15,Sri Lanka,normal,2,,ST Jayasuriya,England,Sri Lanka,Sri Lanka,bat,IJ Gould,NJ Llong,The Rose Bowl
+504,2006,2006-01-09,Australia,normal,95,,DR Martyn,Australia,South Africa,Australia,bat,BNJ Oxenford,RL Parry,"Brisbane Cricket Ground, Woolloongabba"
+505,2006,2006-02-16,NA,tie,,,DR Smith,New Zealand,West Indies,New Zealand,field,BF Bowden,AL Hill,Eden Park
+506,2006,2006-02-24,South Africa,normal,2,,GC Smith,South Africa,Australia,South Africa,bat,M Erasmus,KH Hurter,New Wanderers Stadium
+507,2007,2007-01-09,Australia,normal,77,,CL White,Australia,England,Australia,bat,PD Parker,RL Parry,Sydney Cricket Ground
+508,2006,2006-12-22,Sri Lanka,normal,18,,ST Jayasuriya,New Zealand,Sri Lanka,New Zealand,bat,AL Hill,EA Watkin,Westpac Stadium
+509,2006,2006-12-26,New Zealand,normal,,5,JEC Franklin,New Zealand,Sri Lanka,New Zealand,field,BF Bowden,AL Hill,Eden Park
+510,2006,2006-12-01,India,normal,,6,KD Karthik,South Africa,India,South Africa,bat,IL Howell,BG Jerling,New Wanderers Stadium
+511,2007,2007-06-28,West Indies,normal,15,,PD Collingwood,England,West Indies,West Indies,bat,PJ Hartley,NJ Llong,Kennington Oval
+512,2007,2007-06-29,England,normal,,5,OA Shah,England,West Indies,West Indies,bat,IJ Gould,NJ Llong,Kennington Oval
+513,2007,2007-09-11,South Africa,normal,,8,CH Gayle,South Africa,West Indies,South Africa,field,MR Benson,DJ Harper,New Wanderers Stadium
+514,2007,2007-09-12,New Zealand,normal,,9,MR Gillespie,Kenya,New Zealand,New Zealand,field,BR Doctrove,SJA Taufel,Kingsmead
+515,2007,2007-09-12,Pakistan,normal,51,,Shahid Afridi,Pakistan,Scotland,Scotland,field,SJ Davis,SJA Taufel,Kingsmead
+516,2007,2007-09-12,Zimbabwe,normal,,5,BRM Taylor,Australia,Zimbabwe,Australia,bat,Asad Rauf,AL Hill,Newlands
+517,2007,2007-09-13,Bangladesh,normal,,6,Mohammad Ashraful,Bangladesh,West Indies,Bangladesh,field,MR Benson,NJ Llong,New Wanderers Stadium
+518,2007,2007-09-13,England,normal,50,,KP Pietersen,England,Zimbabwe,England,bat,Asad Rauf,AL Hill,Newlands
+519,2007,2007-09-14,Sri Lanka,normal,172,,ST Jayasuriya,Kenya,Sri Lanka,Kenya,field,DJ Harper,NJ Llong,New Wanderers Stadium
+520,2007,2007-09-14,Australia,normal,,8,NW Bracken,Australia,England,England,bat,Asad Rauf,IL Howell,Newlands
+521,2007,2007-09-14,NA,tie,,,Mohammad Asif,India,Pakistan,Pakistan,field,BR Doctrove,SJA Taufel,Kingsmead
+522,2007,2007-09-15,Sri Lanka,normal,,7,ST Jayasuriya,New Zealand,Sri Lanka,New Zealand,bat,MR Benson,DJ Harper,New Wanderers Stadium
+523,2007,2007-09-15,South Africa,normal,,7,M Morkel,South Africa,Bangladesh,South Africa,field,Asad Rauf,AL Hill,Newlands
+524,2007,2007-09-16,New Zealand,normal,10,,DL Vettori,India,New Zealand,India,field,MR Benson,NJ Llong,New Wanderers Stadium
+525,2007,2007-09-16,Australia,normal,,9,B Lee,Australia,Bangladesh,Australia,field,Asad Rauf,IL Howell,Newlands
+526,2007,2007-09-16,South Africa,normal,19,,JA Morkel,South Africa,England,England,field,Asad Rauf,AL Hill,Newlands
+527,2007,2007-09-17,Pakistan,normal,33,,Younis Khan,Pakistan,Sri Lanka,Sri Lanka,field,DJ Harper,NJ Llong,New Wanderers Stadium
+528,2007,2007-09-18,New Zealand,normal,5,,CD McMillan,England,New Zealand,England,field,BR Doctrove,SJA Taufel,Kingsmead
+529,2007,2007-09-18,Pakistan,normal,,6,Misbah-ul-Haq,Australia,Pakistan,Pakistan,field,MR Benson,NJ Llong,New Wanderers Stadium
+530,2007,2007-09-18,Sri Lanka,normal,64,,CRD Fernando,Bangladesh,Sri Lanka,Bangladesh,field,MR Benson,DJ Harper,New Wanderers Stadium
+531,2007,2007-09-19,South Africa,normal,,6,JM Kemp,South Africa,New Zealand,South Africa,field,BR Doctrove,SJA Taufel,Kingsmead
+532,2007,2007-09-19,India,normal,18,,Yuvraj Singh,England,India,India,bat,BR Doctrove,SJA Taufel,Kingsmead
+533,2007,2007-09-20,Australia,normal,,10,SR Clark,Australia,Sri Lanka,Australia,field,Asad Rauf,IL Howell,Newlands
+534,2007,2007-09-20,Pakistan,normal,,4,Junaid Siddique,Bangladesh,Pakistan,Pakistan,field,AL Hill,IL Howell,Newlands
+535,2007,2007-09-20,India,normal,37,,RG Sharma,South Africa,India,India,bat,BR Doctrove,SJA Taufel,Kingsmead
+536,2007,2007-09-22,Pakistan,normal,,6,Umar Gul,New Zealand,Pakistan,New Zealand,bat,DJ Harper,SJA Taufel,Newlands
+537,2007,2007-09-22,India,normal,15,,Yuvraj Singh,Australia,India,India,bat,Asad Rauf,MR Benson,Kingsmead
+538,2007,2007-09-24,India,normal,5,,IK Pathan,India,Pakistan,India,bat,MR Benson,SJA Taufel,New Wanderers Stadium
+539,2007,2007-12-11,Australia,normal,54,,A Symonds,Australia,New Zealand,Australia,bat,SJ Davis,PD Parker,Western Australia Cricket Association Ground
+540,2008,2008-02-01,Australia,normal,,9,MJ Clarke,Australia,India,India,bat,BNJ Oxenford,SJA Taufel,Melbourne Cricket Ground
+541,2008,2008-06-13,England,normal,,9,IR Bell,England,New Zealand,England,field,IJ Gould,PJ Hartley,Old Trafford
+542,2007,2007-10-20,India,normal,,7,G Gambhir,India,Australia,Australia,bat,AM Saheba,SL Shastri,Brabourne Stadium
+543,2007,2007-11-23,South Africa,normal,,3,AB de Villiers,South Africa,New Zealand,South Africa,field,IL Howell,BG Jerling,New Wanderers Stadium
+544,2008,2008-01-18,South Africa,normal,,4,SM Pollock,South Africa,West Indies,South Africa,field,BG Jerling,RE Koertzen,New Wanderers Stadium
+545,2008,2008-02-05,England,normal,32,,AD Mascarenhas,New Zealand,England,New Zealand,field,GAV Baxter,BF Bowden,Eden Park
+546,2008,2008-02-07,England,normal,50,,PD Collingwood,New Zealand,England,England,bat,GAV Baxter,BF Bowden,Jade Stadium
+547,2007,2007-09-01,Bangladesh,normal,,5,Nazimuddin,Kenya,Bangladesh,Bangladesh,field,R D'Mello,SR Modi,Gymkhana Club Ground
+548,2007,2007-09-02,Pakistan,normal,30,,Imran Nazir,Bangladesh,Pakistan,Bangladesh,field,R D'Mello,SR Modi,Gymkhana Club Ground
+549,2007,2007-09-04,Pakistan,normal,,8,Younis Khan,Kenya,Pakistan,Kenya,bat,SR Modi,IO Oyieko,Gymkhana Club Ground
+550,2007,2007-12-16,West Indies,normal,,5,JE Taylor,South Africa,West Indies,West Indies,field,IL Howell,BG Jerling,St George's Park
+551,2008,2008-06-20,West Indies,normal,,7,XM Marshall,West Indies,Australia,West Indies,field,BR Doctrove,CR Duncan,"Kensington Oval, Bridgetown"
+552,2008,2008-04-20,Pakistan,normal,102,,Misbah-ul-Haq,Pakistan,Bangladesh,Pakistan,bat,Nadeem Ghauri,Zameer Haider,National Stadium
+553,2009,2009-08-30,NA,no result,,,NA,England,Australia,England,field,IJ Gould,RA Kettleborough,Old Trafford
+554,2008,2008-11-05,South Africa,normal,12,,Abdur Razzak,South Africa,Bangladesh,Bangladesh,field,M Erasmus,BG Jerling,New Wanderers Stadium
+555,2009,2009-03-27,South Africa,normal,,4,DJ Hussey,South Africa,Australia,South Africa,field,M Erasmus,RE Koertzen,New Wanderers Stadium
+556,2009,2009-03-29,South Africa,normal,17,,RE van der Merwe,South Africa,Australia,Australia,field,M Erasmus,BG Jerling,SuperSport Park
+557,2009,2009-01-11,Australia,normal,52,,DA Warner,Australia,South Africa,Australia,bat,BNJ Oxenford,RJ Tucker,Melbourne Cricket Ground
+558,2009,2009-01-13,Australia,normal,,6,MEK Hussey,Australia,South Africa,South Africa,bat,PR Reiffel,RJ Tucker,"Brisbane Cricket Ground, Woolloongabba"
+559,2009,2009-02-15,Australia,normal,1,,NW Bracken,Australia,New Zealand,Australia,bat,BNJ Oxenford,PR Reiffel,Sydney Cricket Ground
+560,2009,2009-03-15,West Indies,normal,,6,RR Sarwan,West Indies,England,West Indies,field,CR Duncan,NA Malcolm,"Queen's Park Oval, Port of Spain"
+561,2008,2008-08-03,Scotland,normal,,8,JD Nel,Bermuda,Scotland,Scotland,field,NG Bagh,Sarika Prasad,"Civil Service Cricket Club, Stormont"
+562,2009,2009-06-18,New Zealand,normal,52,,AL Watkins,India,New Zealand,New Zealand,bat,Asad Rauf,MR Benson,Trent Bridge
+563,2009,2009-06-19,England,normal,,8,SC Taylor,England,Australia,England,field,BR Doctrove,AL Hill,Kennington Oval
+565,2009,2009-06-06,New Zealand,normal,,7,IG Butler,New Zealand,Scotland,New Zealand,field,BR Doctrove,DJ Harper,Kennington Oval
+564,2009,2009-06-05,Netherlands,normal,,4,TN de Grooth,England,Netherlands,Netherlands,field,SJ Davis,EAR de Silva,Lord's
+566,2009,2009-06-06,West Indies,normal,,7,CH Gayle,Australia,West Indies,Australia,bat,Aleem Dar,Asad Rauf,Kennington Oval
+567,2009,2009-06-06,India,normal,25,,PP Ojha,Bangladesh,India,India,bat,BF Bowden,SJA Taufel,Trent Bridge
+568,2009,2009-06-07,South Africa,normal,130,,AB de Villiers,Scotland,South Africa,Scotland,field,Asad Rauf,AM Saheba,Kennington Oval
+569,2009,2009-06-07,England,normal,48,,LJ Wright,England,Pakistan,Pakistan,field,BR Doctrove,DJ Harper,Kennington Oval
+570,2009,2009-06-08,Ireland,normal,,6,NJ O'Brien,Bangladesh,Ireland,Ireland,field,NJ Llong,SJA Taufel,Trent Bridge
+571,2009,2009-06-08,Sri Lanka,normal,,6,KC Sangakkara,Australia,Sri Lanka,Sri Lanka,field,BF Bowden,IJ Gould,Trent Bridge
+572,2009,2009-06-09,Pakistan,normal,82,,Kamran Akmal,Netherlands,Pakistan,Pakistan,bat,BR Doctrove,AM Saheba,Lord's
+574,2009,2009-06-10,India,normal,,8,Z Khan,India,Ireland,India,field,IJ Gould,NJ Llong,Trent Bridge
+573,2009,2009-06-09,South Africa,normal,1,,RE van der Merwe,New Zealand,South Africa,New Zealand,field,Asad Rauf,DJ Harper,Lord's
+575,2009,2009-06-10,Sri Lanka,normal,15,,ST Jayasuriya,Sri Lanka,West Indies,West Indies,field,BF Bowden,SJA Taufel,Trent Bridge
+576,2009,2009-06-11,New Zealand,normal,83,,AJ Redmond,Ireland,New Zealand,Ireland,field,EAR de Silva,M Erasmus,Trent Bridge
+577,2009,2009-06-11,South Africa,normal,,7,JH Kallis,England,South Africa,England,bat,SJ Davis,AL Hill,Trent Bridge
+578,2009,2009-06-12,Sri Lanka,normal,19,,TM Dilshan,Pakistan,Sri Lanka,Sri Lanka,bat,MR Benson,RE Koertzen,Lord's
+579,2009,2009-06-12,West Indies,normal,,7,DJ Bravo,India,West Indies,India,bat,Aleem Dar,RE Koertzen,Lord's
+580,2009,2009-06-13,South Africa,normal,20,,WD Parnell,South Africa,West Indies,West Indies,field,Aleem Dar,MR Benson,Kennington Oval
+581,2009,2009-06-13,Pakistan,normal,,6,Umar Gul,New Zealand,Pakistan,New Zealand,bat,MR Benson,RJ Tucker,Kennington Oval
+582,2009,2009-06-14,Sri Lanka,normal,9,,DPMD Jayawardene,Ireland,Sri Lanka,Sri Lanka,bat,M Erasmus,AL Hill,Lord's
+583,2009,2009-06-14,England,normal,3,,RJ Sidebottom,England,India,India,field,SJ Davis,EAR de Silva,Lord's
+584,2009,2009-06-15,West Indies,normal,,5,RR Sarwan,England,West Indies,England,bat,Aleem Dar,RE Koertzen,Kennington Oval
+585,2009,2009-06-15,Pakistan,normal,39,,Kamran Akmal,Ireland,Pakistan,Pakistan,bat,RE Koertzen,RJ Tucker,Kennington Oval
+586,2009,2009-06-16,Sri Lanka,normal,48,,BAW Mendis,New Zealand,Sri Lanka,Sri Lanka,bat,SJ Davis,SJA Taufel,Trent Bridge
+587,2009,2009-06-16,South Africa,normal,12,,AB de Villiers,India,South Africa,South Africa,bat,BF Bowden,IJ Gould,Trent Bridge
+588,2009,2009-06-18,Pakistan,normal,7,,Shahid Afridi,Pakistan,South Africa,Pakistan,bat,BF Bowden,SJ Davis,Trent Bridge
+589,2009,2009-06-19,Sri Lanka,normal,57,,TM Dilshan,Sri Lanka,West Indies,West Indies,field,Aleem Dar,RE Koertzen,Kennington Oval
+590,2009,2009-06-21,Pakistan,normal,,8,Shahid Afridi,Pakistan,Sri Lanka,Sri Lanka,bat,DJ Harper,SJA Taufel,Lord's
+591,2008,2008-08-04,Ireland,normal,,4,AC Botha,Ireland,Kenya,Ireland,field,DB Hair,Sarika Prasad,"Civil Service Cricket Club, Stormont"
+593,2008,2008-10-11,Pakistan,normal,,3,Shoaib Malik,Pakistan,Sri Lanka,Pakistan,field,K Bayney,MR Benson,Maple Leaf North-West Ground
+592,2008,2008-08-04,Netherlands,normal,,5,RN ten Doeschate,Netherlands,Scotland,Netherlands,field,NG Bagh,PK Baldwin,"Civil Service Cricket Club, Stormont"
+594,2008,2008-10-13,Sri Lanka,normal,,5,ST Jayasuriya,Pakistan,Sri Lanka,Sri Lanka,field,K Bayney,MR Benson,Maple Leaf North-West Ground
+595,2009,2009-02-27,New Zealand,normal,,5,BB McCullum,New Zealand,India,New Zealand,field,GAV Baxter,AL Hill,Westpac Stadium
+596,2008,2008-12-26,West Indies,tie,,,CH Gayle,New Zealand,West Indies,New Zealand,bat,BF Bowden,AL Hill,Eden Park
+597,2008,2008-12-28,New Zealand,normal,36,,JD Ryder,New Zealand,West Indies,New Zealand,bat,GAV Baxter,EA Watkin,Seddon Park
+598,2009,2009-02-25,New Zealand,normal,,7,BB McCullum,New Zealand,India,New Zealand,field,GAV Baxter,EA Watkin,AMI Stadium
+599,2009,2009-02-10,India,normal,,3,YK Pathan,Sri Lanka,India,Sri Lanka,bat,MG Silva,TH Wijewardene,R Premadasa Stadium
+600,2009,2009-11-13,England,normal,1,,EJG Morgan,South Africa,England,South Africa,field,M Erasmus,BG Jerling,New Wanderers Stadium
+601,2009,2009-11-15,South Africa,normal,84,,LE Bosman,South Africa,England,South Africa,bat,M Erasmus,BG Jerling,SuperSport Park
+602,2009,2009-06-25,Australia,normal,34,,S Nitschke,England,Australia,Australia,bat,SA Garratt,P Willey,County Ground
+603,2009,2009-05-07,Pakistan,normal,,7,Shahid Afridi,Australia,Pakistan,Pakistan,field,Aleem Dar,Zameer Haider,Dubai International Cricket Stadium
+604,2009,2009-08-02,West Indies,normal,,5,DJG Sammy,West Indies,Bangladesh,Bangladesh,bat,CR Duncan,NA Malcolm,"Warner Park, Basseterre"
+605,2009,2009-08-12,Pakistan,normal,52,,Shahid Afridi,Sri Lanka,Pakistan,Pakistan,bat,EAR de Silva,TH Wijewardene,R Premadasa Stadium
+606,2009,2009-09-02,New Zealand,normal,3,,DL Vettori,Sri Lanka,New Zealand,New Zealand,bat,EAR de Silva,HDPK Dharmasena,R Premadasa Stadium
+607,2009,2009-09-04,New Zealand,normal,22,,JD Ryder,Sri Lanka,New Zealand,New Zealand,bat,MG Silva,TH Wijewardene,R Premadasa Stadium
+608,2010,2010-02-21,Australia,normal,38,,SW Tait,Australia,West Indies,Australia,bat,BNJ Oxenford,PR Reiffel,Bellerive Oval
+609,2010,2010-02-23,Australia,normal,,8,DA Warner,Australia,West Indies,West Indies,bat,BNJ Oxenford,RJ Tucker,Sydney Cricket Ground
+610,2010,2010-02-05,Australia,normal,2,,SW Tait,Australia,Pakistan,Australia,bat,PR Reiffel,RJ Tucker,Melbourne Cricket Ground
+611,2010,2010-04-30,West Indies,normal,70,,DJG Sammy,West Indies,Ireland,West Indies,bat,Asad Rauf,BF Bowden,Providence Stadium
+612,2010,2010-04-30,New Zealand,normal,,2,NL McCullum,New Zealand,Sri Lanka,Sri Lanka,bat,SJ Davis,RE Koertzen,Providence Stadium
+613,2010,2010-05-01,India,normal,,7,A Nehra,Afghanistan,India,India,field,Aleem Dar,M Erasmus,"Beausejour Stadium, Gros Islet"
+614,2010,2010-05-01,Pakistan,normal,21,,Salman Butt,Bangladesh,Pakistan,Pakistan,bat,EAR de Silva,RJ Tucker,"Beausejour Stadium, Gros Islet"
+615,2010,2010-05-04,NA,no result,,,NA,England,Ireland,Ireland,field,BF Bowden,AL Hill,Providence Stadium
+616,2010,2010-05-02,India,normal,14,,SK Raina,India,South Africa,South Africa,field,Aleem Dar,SJA Taufel,"Beausejour Stadium, Gros Islet"
+617,2010,2010-05-02,Australia,normal,34,,SR Watson,Australia,Pakistan,Australia,bat,EAR de Silva,SK Tarapore,"Beausejour Stadium, Gros Islet"
+618,2010,2010-05-04,New Zealand,normal,7,,NL McCullum,New Zealand,Zimbabwe,New Zealand,field,Asad Rauf,SJ Davis,Providence Stadium
+619,2010,2010-05-03,West Indies,normal,,8,DJG Sammy,West Indies,England,West Indies,field,AL Hill,RE Koertzen,Providence Stadium
+620,2010,2010-05-03,Sri Lanka,normal,14,,DPMD Jayawardene,Sri Lanka,Zimbabwe,Sri Lanka,bat,BR Doctrove,IJ Gould,Providence Stadium
+621,2010,2010-05-05,South Africa,normal,59,,M Morkel,Afghanistan,South Africa,Afghanistan,field,IJ Gould,SJA Taufel,"Kensington Oval, Bridgetown"
+622,2010,2010-05-05,Australia,normal,27,,MEK Hussey,Australia,Bangladesh,Australia,bat,Aleem Dar,BR Doctrove,"Kensington Oval, Bridgetown"
+623,2010,2010-05-06,England,normal,,6,KP Pietersen,England,Pakistan,England,field,BF Bowden,RE Koertzen,"Kensington Oval, Bridgetown"
+624,2010,2010-05-06,South Africa,normal,13,,JA Morkel,New Zealand,South Africa,South Africa,bat,Aleem Dar,SJ Davis,"Kensington Oval, Bridgetown"
+625,2010,2010-05-07,Australia,normal,49,,DA Warner,Australia,India,India,field,BF Bowden,BR Doctrove,"Kensington Oval, Bridgetown"
+626,2010,2010-05-07,Sri Lanka,normal,57,,DPMD Jayawardene,West Indies,Sri Lanka,Sri Lanka,bat,RE Koertzen,SJA Taufel,"Kensington Oval, Bridgetown"
+627,2010,2010-05-08,New Zealand,normal,1,,IG Butler,New Zealand,Pakistan,Pakistan,field,BR Doctrove,IJ Gould,"Kensington Oval, Bridgetown"
+628,2010,2010-05-08,England,normal,39,,KP Pietersen,England,South Africa,England,bat,Aleem Dar,SJ Davis,"Kensington Oval, Bridgetown"
+629,2010,2010-05-09,West Indies,normal,14,,CH Gayle,West Indies,India,India,field,BF Bowden,SJA Taufel,"Kensington Oval, Bridgetown"
+630,2010,2010-05-09,Australia,normal,81,,CL White,Australia,Sri Lanka,Australia,bat,IJ Gould,RE Koertzen,"Kensington Oval, Bridgetown"
+631,2010,2010-05-10,Pakistan,normal,11,,Umar Akmal,Pakistan,South Africa,Pakistan,bat,BR Doctrove,IJ Gould,"Beausejour Stadium, Gros Islet"
+632,2010,2010-05-10,England,normal,,3,TT Bresnan,England,New Zealand,New Zealand,bat,SJ Davis,SJA Taufel,"Beausejour Stadium, Gros Islet"
+633,2010,2010-05-11,Sri Lanka,normal,,5,AD Mathews,India,Sri Lanka,India,bat,Aleem Dar,SJ Davis,"Beausejour Stadium, Gros Islet"
+634,2010,2010-05-11,Australia,normal,,6,SPD Smith,West Indies,Australia,West Indies,bat,BF Bowden,RE Koertzen,"Beausejour Stadium, Gros Islet"
+635,2010,2010-05-13,England,normal,,7,SCJ Broad,England,Sri Lanka,Sri Lanka,bat,Aleem Dar,SJA Taufel,"Beausejour Stadium, Gros Islet"
+636,2010,2010-05-14,Australia,normal,,3,MEK Hussey,Australia,Pakistan,Australia,field,BR Doctrove,IJ Gould,"Beausejour Stadium, Gros Islet"
+637,2010,2010-05-16,England,normal,,7,C Kieswetter,Australia,England,England,field,Aleem Dar,BR Doctrove,"Kensington Oval, Bridgetown"
+638,2010,2010-05-13,Australia,normal,,7,AJ Blackwell,Australia,India,India,bat,M Erasmus,AL Hill,"Beausejour Stadium, Gros Islet"
+639,2010,2010-05-14,New Zealand,normal,56,,SJ McGlashan,West Indies,New Zealand,West Indies,field,EAR de Silva,RJ Tucker,"Beausejour Stadium, Gros Islet"
+640,2010,2010-05-16,Australia,normal,3,,EA Perry,Australia,New Zealand,Australia,bat,EAR de Silva,M Erasmus,"Kensington Oval, Bridgetown"
+641,2009,2009-10-28,West Indies,normal,2,,DJS Dottin,South Africa,West Indies,South Africa,field,AT Holdstock,CD Isaacs,Boland Bank Park
+642,2010,2010-02-03,New Zealand,normal,,10,DL Vettori,New Zealand,Bangladesh,Bangladesh,bat,GAV Baxter,CB Gaffaney,Seddon Park
+643,2010,2010-02-26,Australia,normal,,6,MG Johnson,New Zealand,Australia,New Zealand,bat,GAV Baxter,BF Bowden,Westpac Stadium
+644,2010,2010-02-28,New Zealand,tie,,,BB McCullum,New Zealand,Australia,New Zealand,bat,CB Gaffaney,AL Hill,AMI Stadium
+645,2010,2010-07-05,Pakistan,normal,23,,Umar Akmal,Australia,Pakistan,Pakistan,bat,Aleem Dar,Asad Rauf,Edgbaston
+646,2010,2010-07-06,Pakistan,normal,11,,Mohammad Amir,Australia,Pakistan,Pakistan,bat,Asad Rauf,Zameer Haider,Edgbaston
+647,2010,2010-09-05,England,normal,,5,MH Yardy,England,Pakistan,England,field,RA Kettleborough,NJ Llong,Sophia Gardens
+648,2010,2010-09-07,England,normal,,6,TT Bresnan,England,Pakistan,Pakistan,bat,IJ Gould,RK Illingworth,Sophia Gardens
+649,2009,2009-11-12,Pakistan,normal,49,,Imran Nazir,New Zealand,Pakistan,New Zealand,field,Nadeem Ghauri,Zameer Haider,Dubai International Cricket Stadium
+650,2009,2009-11-13,Pakistan,normal,7,,Umar Akmal,New Zealand,Pakistan,Pakistan,bat,Nadeem Ghauri,Zameer Haider,Dubai International Cricket Stadium
+651,2009,2009-12-09,Sri Lanka,normal,29,,KC Sangakkara,India,Sri Lanka,India,field,AM Saheba,SK Tarapore,"Vidarbha Cricket Association Stadium, Jamtha"
+652,2009,2009-12-12,India,normal,,6,Yuvraj Singh,India,Sri Lanka,Sri Lanka,bat,SS Hazare,SK Tarapore,"Punjab Cricket Association Stadium, Mohali"
+653,2010,2010-02-28,Zimbabwe,normal,26,,AG Cremer,West Indies,Zimbabwe,Zimbabwe,bat,CR Duncan,NA Malcolm,"Queen's Park Oval, Port of Spain"
+654,2010,2010-05-19,South Africa,normal,13,,R McLaren,West Indies,South Africa,West Indies,field,CR Duncan,NA Malcolm,"Sir Vivian Richards Stadium, North Sound"
+655,2010,2010-02-09,Afghanistan,normal,13,,Mohammad Nabi,Afghanistan,Ireland,Ireland,field,JJ Luck,SR Modi,Dubai International Cricket Stadium
+656,2010,2010-02-09,Netherlands,normal,,6,B Zuiderent,Canada,Netherlands,Canada,bat,Aleem Dar,SR Modi,Dubai International Cricket Stadium
+657,2010,2010-02-10,Kenya,normal,,9,AA Obanda,Canada,Kenya,Kenya,field,JJ Luck,Sarika Prasad,Dubai International Cricket Stadium
+658,2010,2010-02-11,Ireland,normal,37,,DT Johnston,Ireland,Scotland,Ireland,bat,Aleem Dar,PK Baldwin,Dubai International Cricket Stadium
+659,2010,2010-02-12,Netherlands,normal,,4,RN ten Doeschate,Afghanistan,Netherlands,Netherlands,field,SR Modi,Sarika Prasad,Dubai International Cricket Stadium
+660,2010,2010-02-13,Ireland,normal,65,,AR Cusack,Ireland,Netherlands,Ireland,bat,Aleem Dar,SR Modi,Dubai International Cricket Stadium
+661,2010,2010-02-13,Afghanistan,normal,,8,Mohammad Shahzad,Afghanistan,Ireland,Ireland,bat,PK Baldwin,Sarika Prasad,Dubai International Cricket Stadium
+662,2010,2010-02-19,England,normal,,7,EJG Morgan,England,Pakistan,Pakistan,bat,EAR de Silva,HDPK Dharmasena,Dubai International Cricket Stadium
+663,2010,2010-02-20,Pakistan,normal,,4,Abdul Razzaq,England,Pakistan,Pakistan,field,EAR de Silva,Enamul Haque,Dubai International Cricket Stadium
+664,2010,2010-10-31,Sri Lanka,normal,,7,S Randiv,Australia,Sri Lanka,Australia,bat,BNJ Oxenford,PR Reiffel,Western Australia Cricket Association Ground
+665,2011,2011-01-12,England,normal,,1,SR Watson,Australia,England,Australia,bat,SD Fry,BNJ Oxenford,Adelaide Oval
+666,2011,2011-01-14,Australia,normal,4,,AJ Finch,Australia,England,Australia,bat,BNJ Oxenford,PR Reiffel,Melbourne Cricket Ground
+667,2010,2010-05-20,South Africa,normal,1,,J Botha,West Indies,South Africa,West Indies,field,CR Duncan,NA Malcolm,"Sir Vivian Richards Stadium, North Sound"
+668,2010,2010-06-12,India,normal,,6,YK Pathan,Zimbabwe,India,India,field,O Chirombe,RB Tiffin,Harare Sports Club
+669,2010,2010-06-13,India,normal,,7,SK Raina,Zimbabwe,India,India,field,O Chirombe,RB Tiffin,Harare Sports Club
+670,2010,2010-05-22,New Zealand,normal,28,,SB Styris,New Zealand,Sri Lanka,New Zealand,bat,M Erasmus,IJ Gould,Central Broward Regional Park Stadium Turf Ground
+672,2010,2010-10-27,South Africa,normal,,6,J Theron,Pakistan,South Africa,Pakistan,bat,Asad Rauf,Nadeem Ghauri,Sheikh Zayed Stadium
+671,2010,2010-05-23,Sri Lanka,normal,,7,KMDN Kulasekara,New Zealand,Sri Lanka,New Zealand,bat,M Erasmus,RJ Tucker,Central Broward Regional Park Stadium Turf Ground
+673,2010,2010-10-08,South Africa,normal,,7,GC Smith,South Africa,Zimbabwe,Zimbabwe,bat,JD Cloete,BG Jerling,OUTsurance Oval
+674,2010,2010-10-10,South Africa,normal,8,,JP Duminy,South Africa,Zimbabwe,South Africa,bat,S George,BG Jerling,De Beers Diamond Oval
+675,2011,2011-01-09,India,normal,21,,RG Sharma,South Africa,India,India,bat,M Erasmus,BG Jerling,Moses Mabhida Stadium
+676,2010,2010-12-26,New Zealand,normal,,5,TG Southee,New Zealand,Pakistan,New Zealand,field,BF Bowden,BG Frost,Eden Park
+678,2010,2010-12-30,Pakistan,normal,103,,Abdul Razzaq,New Zealand,Pakistan,Pakistan,bat,GAV Baxter,CB Gaffaney,AMI Stadium
+677,2010,2010-12-28,New Zealand,normal,39,,NL McCullum,New Zealand,Pakistan,Pakistan,field,GAV Baxter,CB Gaffaney,Seddon Park
+679,2011,2011-06-25,Sri Lanka,normal,,9,DPMD Jayawardene,England,Sri Lanka,Sri Lanka,field,RA Kettleborough,NJ Llong,County Ground
+681,2010,2010-12-30,Australia,normal,,4,SJ Coyte,New Zealand,Australia,New Zealand,bat,WR Knights,DG Paterson,Saxton Oval
+680,2011,2011-08-31,England,normal,,6,JW Dernbach,England,India,India,bat,RJ Bailey,RK Illingworth,Old Trafford
+682,2010,2010-10-26,South Africa,normal,,6,JP Duminy,Pakistan,South Africa,Pakistan,bat,Ahsan Raza,Asad Rauf,Sheikh Zayed Stadium
+683,2011,2011-04-21,West Indies,normal,7,,D Bishoo,West Indies,Pakistan,West Indies,bat,NA Malcolm,PJ Nero,"Beausejour Stadium, Gros Islet"
+685,2011,2011-06-26,England,normal,46,,SC Taylor,England,India,England,bat,PK Baldwin,TE Jesty,County Ground
+684,2011,2011-06-04,India,normal,16,,S Badrinath,West Indies,India,West Indies,field,NA Malcolm,PJ Nero,"Queen's Park Oval, Port of Spain"
+686,2011,2011-10-13,Australia,normal,,5,SR Watson,South Africa,Australia,South Africa,bat,M Erasmus,AT Holdstock,Newlands
+687,2011,2011-10-16,South Africa,normal,,3,J Theron,South Africa,Australia,Australia,bat,JD Cloete,S George,New Wanderers Stadium
+688,2011,2011-08-06,Sri Lanka,normal,35,,TM Dilshan,Sri Lanka,Australia,Australia,field,EAR de Silva,RSA Palliyaguruge,Pallekele International Cricket Stadium
+689,2011,2011-08-08,Sri Lanka,normal,8,,BAW Mendis,Sri Lanka,Australia,Sri Lanka,bat,REJ Martinesz,RSA Palliyaguruge,Pallekele International Cricket Stadium
+690,2012,2012-02-01,Australia,normal,31,,MS Wade,Australia,India,India,field,BNJ Oxenford,PR Reiffel,Stadium Australia
+691,2012,2012-02-03,India,normal,,8,RA Jadeja,Australia,India,Australia,bat,SD Fry,BNJ Oxenford,Melbourne Cricket Ground
+693,2012,2012-02-14,New Zealand,normal,,5,JEC Franklin,New Zealand,Zimbabwe,Zimbabwe,bat,CB Gaffaney,AL Hill,Seddon Park
+692,2012,2012-02-11,New Zealand,normal,,7,MJ Guptill,New Zealand,Zimbabwe,Zimbabwe,bat,GAV Baxter,BG Frost,Eden Park
+694,2012,2012-02-17,New Zealand,normal,,6,MJ Guptill,New Zealand,South Africa,New Zealand,field,GAV Baxter,BG Frost,Westpac Stadium
+696,2012,2012-02-22,South Africa,normal,3,,J Botha,New Zealand,South Africa,New Zealand,field,GAV Baxter,CB Gaffaney,Eden Park
+695,2012,2012-02-19,South Africa,normal,,8,RE Levi,New Zealand,South Africa,South Africa,field,GAV Baxter,CB Gaffaney,Seddon Park
+697,2011,2011-10-29,England,normal,,6,KP Pietersen,India,England,India,bat,S Asnani,S Ravi,Eden Gardens
+698,2011,2011-09-16,Pakistan,normal,85,,Mohammad Hafeez,Zimbabwe,Pakistan,Zimbabwe,field,TJ Matibiri,RB Tiffin,Harare Sports Club
+699,2011,2011-09-18,Pakistan,normal,5,,Mohammad Hafeez,Zimbabwe,Pakistan,Pakistan,bat,O Chirombe,TJ Matibiri,Harare Sports Club
+700,2011,2011-09-23,England,normal,,10,RS Bopara,England,West Indies,England,field,RJ Bailey,NJ Llong,Kennington Oval
+701,2011,2011-09-25,West Indies,normal,25,,GE Mathurin,England,West Indies,England,field,RK Illingworth,NJ Llong,Kennington Oval
+702,2011,2011-10-15,New Zealand,normal,,10,BB McCullum,Zimbabwe,New Zealand,New Zealand,field,TJ Matibiri,RB Tiffin,Harare Sports Club
+703,2011,2011-10-17,New Zealand,normal,34,,MJ Guptill,Zimbabwe,New Zealand,Zimbabwe,field,O Chirombe,TJ Matibiri,Harare Sports Club
+704,2011,2011-10-29,NA,no result,,,NA,South Africa,England,South Africa,bat,R Ellis,CD Isaacs,Senwes Park
+705,2012,2012-02-17,England,normal,,6,A Shrubsole,New Zealand,England,England,field,CB Gaffaney,PD Jones,Westpac Stadium
+706,2012,2012-02-19,England,normal,48,,LA Marsh,New Zealand,England,New Zealand,field,BG Frost,PD Jones,Seddon Park
+707,2012,2012-02-22,England,normal,10,,JL Gunn,New Zealand,England,New Zealand,field,BG Frost,DJ Walker,Eden Park
+708,2011,2011-11-25,Pakistan,normal,,5,Aizaz Cheema,Pakistan,Sri Lanka,Sri Lanka,bat,Ahsan Raza,Zameer Haider,Sheikh Zayed Stadium
+709,2012,2012-02-23,Pakistan,normal,8,,Umar Gul,England,Pakistan,England,field,Ahsan Raza,Shozab Raza,Dubai International Cricket Stadium
+710,2012,2012-02-25,England,normal,38,,JM Bairstow,England,Pakistan,England,bat,Ahsan Raza,Zameer Haider,Dubai International Cricket Stadium
+711,2012,2012-02-27,England,normal,5,,KP Pietersen,England,Pakistan,England,bat,Shozab Raza,Zameer Haider,Sheikh Zayed Stadium
+712,2011,2011-10-11,Bangladesh,normal,,3,Mushfiqur Rahim,Bangladesh,West Indies,Bangladesh,field,Enamul Haque,Nadir Shah,Shere Bangla National Stadium
+713,2012,2012-09-18,Sri Lanka,normal,82,,BAW Mendis,Sri Lanka,Zimbabwe,Zimbabwe,field,IJ Gould,RJ Tucker,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+714,2012,2012-09-19,Australia,normal,,7,SR Watson,Australia,Ireland,Ireland,bat,Aleem Dar,HDPK Dharmasena,R Premadasa Stadium
+715,2012,2012-09-19,India,normal,23,,V Kohli,Afghanistan,India,Afghanistan,field,Asad Rauf,SJA Taufel,R Premadasa Stadium
+716,2012,2012-09-20,South Africa,normal,,10,JH Kallis,South Africa,Zimbabwe,South Africa,field,SJ Davis,RA Kettleborough,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+717,2012,2012-09-21,New Zealand,normal,59,,BB McCullum,Bangladesh,New Zealand,Bangladesh,field,M Erasmus,NJ Llong,Pallekele International Cricket Stadium
+718,2012,2012-09-21,England,normal,116,,LJ Wright,Afghanistan,England,Afghanistan,field,HDPK Dharmasena,SJA Taufel,R Premadasa Stadium
+719,2012,2012-09-22,South Africa,normal,32,,AB de Villiers,Sri Lanka,South Africa,Sri Lanka,field,RA Kettleborough,RJ Tucker,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+720,2012,2012-09-22,Australia,normal,17,,SR Watson,Australia,West Indies,West Indies,bat,Aleem Dar,Asad Rauf,R Premadasa Stadium
+721,2012,2012-09-23,Pakistan,normal,13,,Nasir Jamshed,New Zealand,Pakistan,Pakistan,bat,M Erasmus,BNJ Oxenford,Pallekele International Cricket Stadium
+722,2012,2012-09-23,India,normal,90,,Harbhajan Singh,England,India,England,field,Aleem Dar,SJA Taufel,R Premadasa Stadium
+723,2012,2012-09-24,NA,no result,,,NA,Ireland,West Indies,West Indies,field,Asad Rauf,HDPK Dharmasena,R Premadasa Stadium
+724,2012,2012-09-25,Pakistan,normal,,8,Imran Nazir,Bangladesh,Pakistan,Bangladesh,bat,SJ Davis,IJ Gould,Pallekele International Cricket Stadium
+725,2012,2012-09-27,Sri Lanka,tie,,,TM Dilshan,Sri Lanka,New Zealand,New Zealand,bat,Aleem Dar,SJA Taufel,Pallekele International Cricket Stadium
+726,2012,2012-09-27,West Indies,normal,15,,J Charles,England,West Indies,West Indies,bat,Asad Rauf,SJ Davis,Pallekele International Cricket Stadium
+727,2012,2012-09-28,Pakistan,normal,,2,Umar Gul,Pakistan,South Africa,South Africa,bat,IJ Gould,RJ Tucker,R Premadasa Stadium
+728,2012,2012-09-28,Australia,normal,,9,SR Watson,Australia,India,India,bat,HDPK Dharmasena,RA Kettleborough,R Premadasa Stadium
+729,2012,2012-09-29,England,normal,,6,LJ Wright,England,New Zealand,New Zealand,bat,Asad Rauf,SJA Taufel,Pallekele International Cricket Stadium
+730,2012,2012-09-29,Sri Lanka,normal,,9,DPMD Jayawardene,Sri Lanka,West Indies,West Indies,bat,Aleem Dar,SJ Davis,Pallekele International Cricket Stadium
+731,2012,2012-09-30,Australia,normal,,8,SR Watson,Australia,South Africa,Australia,field,HDPK Dharmasena,IJ Gould,R Premadasa Stadium
+732,2012,2012-09-30,India,normal,,8,V Kohli,India,Pakistan,Pakistan,bat,RA Kettleborough,RJ Tucker,R Premadasa Stadium
+733,2012,2012-10-01,West Indies,tie,,,SP Narine,New Zealand,West Indies,New Zealand,field,Aleem Dar,Asad Rauf,Pallekele International Cricket Stadium
+734,2012,2012-10-01,Sri Lanka,normal,19,,SL Malinga,Sri Lanka,England,England,field,SJ Davis,SJA Taufel,Pallekele International Cricket Stadium
+735,2012,2012-10-02,Pakistan,normal,32,,Raza Hasan,Australia,Pakistan,Australia,field,IJ Gould,RA Kettleborough,R Premadasa Stadium
+736,2012,2012-10-02,India,normal,1,,Yuvraj Singh,India,South Africa,South Africa,field,HDPK Dharmasena,RJ Tucker,R Premadasa Stadium
+737,2012,2012-10-04,Sri Lanka,normal,16,,DPMD Jayawardene,Sri Lanka,Pakistan,Sri Lanka,bat,SJA Taufel,RJ Tucker,R Premadasa Stadium
+738,2012,2012-10-05,West Indies,normal,74,,CH Gayle,Australia,West Indies,West Indies,bat,Aleem Dar,HDPK Dharmasena,R Premadasa Stadium
+739,2012,2012-10-07,West Indies,normal,36,,MN Samuels,Sri Lanka,West Indies,West Indies,bat,Aleem Dar,SJA Taufel,R Premadasa Stadium
+740,2012,2012-09-26,South Africa,normal,,6,T Chetty,Sri Lanka,South Africa,South Africa,field,BF Bowden,AL Hill,Galle International Stadium
+741,2012,2012-09-26,West Indies,normal,,7,DJS Dottin,New Zealand,West Indies,West Indies,field,NJ Llong,BNJ Oxenford,Galle International Stadium
+742,2012,2012-09-27,England,normal,43,,LA Marsh,England,Pakistan,Pakistan,field,AL Hill,BNJ Oxenford,Galle International Stadium
+743,2012,2012-09-27,Australia,normal,,8,EA Osborne,Australia,India,India,bat,BF Bowden,M Erasmus,Galle International Stadium
+744,2012,2012-09-28,New Zealand,normal,22,,SFM Devine,New Zealand,South Africa,South Africa,field,NJ Llong,BNJ Oxenford,Galle International Stadium
+745,2012,2012-09-28,Sri Lanka,normal,5,,CR Seneviratna,Sri Lanka,West Indies,West Indies,field,BF Bowden,AL Hill,Galle International Stadium
+746,2012,2012-09-29,Australia,normal,25,,JE Cameron,Australia,Pakistan,Australia,bat,BF Bowden,NJ Llong,Galle International Stadium
+747,2012,2012-09-29,England,normal,,9,CM Edwards,England,India,India,bat,AL Hill,BNJ Oxenford,Galle International Stadium
+748,2012,2012-09-30,West Indies,normal,,10,SR Taylor,South Africa,West Indies,West Indies,field,AL Hill,NJ Llong,Galle International Stadium
+749,2012,2012-09-30,New Zealand,normal,,8,SJ McGlashan,Sri Lanka,New Zealand,Sri Lanka,bat,M Erasmus,BNJ Oxenford,Galle International Stadium
+750,2012,2012-10-01,Pakistan,normal,1,,Nida Dar,India,Pakistan,Pakistan,bat,BF Bowden,NJ Llong,Galle International Stadium
+751,2012,2012-10-01,England,normal,,7,SJ Taylor,Australia,England,Australia,bat,M Erasmus,AL Hill,Galle International Stadium
+752,2012,2012-10-04,England,normal,,7,CM Edwards,England,New Zealand,England,field,M Erasmus,BNJ Oxenford,R Premadasa Stadium
+754,2012,2012-10-07,Australia,normal,4,,JE Cameron,Australia,England,England,field,BF Bowden,M Erasmus,R Premadasa Stadium
+753,2012,2012-10-05,Australia,normal,28,,EA Perry,Australia,West Indies,Australia,bat,BF Bowden,AL Hill,R Premadasa Stadium
+755,2012,2012-06-24,England,normal,,7,AD Hales,England,West Indies,West Indies,bat,RK Illingworth,RA Kettleborough,Trent Bridge
+756,2012,2012-09-08,South Africa,normal,,7,DW Steyn,England,South Africa,South Africa,field,RJ Bailey,RK Illingworth,Riverside Ground
+757,2012,2012-09-10,NA,no result,,,NA,England,South Africa,England,field,RJ Bailey,RK Illingworth,Old Trafford
+758,2012,2012-09-12,England,normal,28,,JC Buttler,England,South Africa,South Africa,field,RJ Bailey,RK Illingworth,Edgbaston
+759,2011,2011-11-29,Pakistan,normal,50,,Mohammad Hafeez,Bangladesh,Pakistan,Pakistan,bat,Nadir Shah,Sharfuddoula,Shere Bangla National Stadium
+760,2012,2012-03-27,Australia,normal,,8,SR Watson,West Indies,Australia,West Indies,bat,GO Brathwaite,PJ Nero,"Beausejour Stadium, Gros Islet"
+761,2012,2012-03-30,West Indies,normal,14,,DR Smith,West Indies,Australia,West Indies,bat,PJ Nero,JS Wilson,"Kensington Oval, Bridgetown"
+762,2012,2012-06-26,England,normal,33,,SJ Taylor,England,India,India,field,TE Jesty,G Sharp,St Lawrence Ground
+763,2012,2012-06-28,England,normal,,8,SJ Taylor,England,India,India,bat,NGC Cowley,MJ Saggers,County Ground
+764,2012,2012-02-22,Ireland,normal,,6,GH Dockrell,Kenya,Ireland,Ireland,field,S George,D Odhiambo,Mombasa Sports Club Ground
+765,2012,2012-02-23,Ireland,normal,,8,PR Stirling,Kenya,Ireland,Kenya,bat,S George,D Odhiambo,Mombasa Sports Club Ground
+766,2012,2012-02-24,Ireland,normal,2,,SO Ngoche,Kenya,Ireland,Ireland,bat,S George,D Odhiambo,Mombasa Sports Club Ground
+767,2012,2012-03-13,Netherlands,normal,42,,Mudassar Bukhari,Canada,Netherlands,Netherlands,bat,M Hawthorne,JS Wilson,Dubai International Cricket Stadium
+768,2012,2012-03-14,Ireland,normal,,10,WB Rankin,Ireland,Kenya,Kenya,bat,BB Pradhan,SJA Taufel,Dubai International Cricket Stadium
+769,2012,2012-03-14,Afghanistan,normal,,4,Mohammad Shahzad,Afghanistan,Netherlands,Netherlands,bat,JD Cloete,SJA Taufel,Dubai International Cricket Stadium
+770,2012,2012-03-18,Ireland,normal,17,,EC Joyce,Ireland,Scotland,Ireland,bat,REJ Martinesz,SJA Taufel,Dubai International Cricket Stadium
+771,2012,2012-03-18,Afghanistan,normal,41,,Samiullah Shenwari,Afghanistan,Canada,Afghanistan,bat,S Asnani,JS Wilson,ICC Global Cricket Academy
+772,2012,2012-03-22,Ireland,normal,,10,PR Stirling,Canada,Ireland,Canada,bat,JD Cloete,CB Gaffaney,Dubai International Cricket Stadium
+773,2012,2012-03-23,Ireland,normal,,7,KJ O'Brien,Ireland,Netherlands,Ireland,field,Ahsan Raza,CB Gaffaney,Dubai International Cricket Stadium
+774,2012,2012-03-23,Scotland,normal,,4,RD Berrington,Canada,Scotland,Canada,bat,BB Pradhan,JS Wilson,Dubai International Cricket Stadium
+775,2012,2012-03-24,Ireland,normal,,5,PR Stirling,Afghanistan,Ireland,Afghanistan,bat,CB Gaffaney,BB Pradhan,Dubai International Cricket Stadium
+776,2012,2012-09-08,England,normal,,8,LA Marsh,England,West Indies,West Indies,bat,MA Gough,PJ Hartley,Riverside Ground
+777,2012,2012-09-10,England,normal,28,,SJ Taylor,England,West Indies,West Indies,field,MA Gough,RT Robinson,Old Trafford
+778,2012,2012-09-13,England,normal,10,,A Brindle,England,West Indies,England,bat,PK Baldwin,PJ Hartley,County Ground
+779,2012,2012-09-15,England,normal,84,,LS Greenway,England,West Indies,England,bat,GD Lloyd,P Willey,County Ground
+780,2012,2012-09-16,West Indies,normal,,3,DJS Dottin,England,West Indies,West Indies,field,GD Lloyd,P Willey,Arundel Castle Cricket Club Ground
+781,2012,2012-03-30,South Africa,normal,11,,CA Ingram,South Africa,India,India,field,JD Cloete,S George,New Wanderers Stadium
+782,2012,2012-06-30,West Indies,normal,56,,CH Gayle,New Zealand,West Indies,New Zealand,field,PJ Nero,JS Wilson,Central Broward Regional Park Stadium Turf Ground
+783,2012,2012-07-01,West Indies,normal,61,,SP Narine,New Zealand,West Indies,West Indies,bat,PJ Nero,JS Wilson,Central Broward Regional Park Stadium Turf Ground
+784,2012,2012-06-01,Sri Lanka,normal,37,,NLTC Perera,Sri Lanka,Pakistan,Sri Lanka,bat,EAR de Silva,REJ Martinesz,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+785,2012,2012-06-03,Pakistan,normal,23,,Shahid Afridi,Sri Lanka,Pakistan,Pakistan,bat,REJ Martinesz,RSA Palliyaguruge,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+786,2012,2012-08-07,India,normal,39,,IK Pathan,Sri Lanka,India,Sri Lanka,field,HDPK Dharmasena,TH Wijewardene,Pallekele International Cricket Stadium
+787,2012,2012-12-20,India,normal,,5,Yuvraj Singh,India,England,India,field,S Asnani,C Shamshuddin,Subrata Roy Sahara Stadium
+788,2012,2012-12-22,England,normal,,6,EJG Morgan,India,England,England,field,VA Kulkarni,S Ravi,Wankhede Stadium
+789,2012,2012-09-11,New Zealand,normal,1,,BB McCullum,India,New Zealand,India,field,VA Kulkarni,S Ravi,"MA Chidambaram Stadium, Chepauk"
+790,2012,2012-09-04,England,normal,,7,A Shrubsole,England,Pakistan,Pakistan,bat,MA Gough,PJ Hartley,Haslegrave Ground
+791,2012,2012-09-05,England,normal,81,,DN Wyatt,England,Pakistan,England,bat,MA Gough,PJ Hartley,Haslegrave Ground
+792,2013,2013-06-25,New Zealand,normal,5,,HD Rutherford,England,New Zealand,England,field,RJ Bailey,RK Illingworth,Kennington Oval
+793,2013,2013-06-27,NA,no result,,,NA,England,New Zealand,New Zealand,field,RK Illingworth,RT Robinson,Kennington Oval
+794,2013,2013-08-29,Australia,normal,39,,AJ Finch,England,Australia,England,field,RJ Bailey,RT Robinson,The Rose Bowl
+795,2013,2013-08-31,England,normal,27,,AD Hales,England,Australia,Australia,field,RJ Bailey,MA Gough,Riverside Ground
+796,2012,2012-07-18,Bangladesh,normal,71,,Elias Sunny,Ireland,Bangladesh,Ireland,field,M Hawthorne,RP Smith,"Civil Service Cricket Club, Stormont"
+797,2012,2012-07-25,Bangladesh,normal,,8,NA,Netherlands,Bangladesh,Netherlands,bat,IN Ramage,RP Smith,Sportpark Westvliet
+798,2012,2012-12-21,South Africa,normal,,8,RK Kleinveldt,South Africa,New Zealand,New Zealand,bat,JD Cloete,S George,Kingsmead
+799,2012,2012-12-23,New Zealand,normal,,8,MJ Guptill,South Africa,New Zealand,New Zealand,field,S George,AT Holdstock,Buffalo Park
+800,2012,2012-12-26,South Africa,normal,33,,H Davids,South Africa,New Zealand,South Africa,bat,JD Cloete,AT Holdstock,St George's Park
+801,2013,2013-03-03,Pakistan,normal,95,,Mohammad Hafeez,South Africa,Pakistan,Pakistan,bat,JD Cloete,S George,SuperSport Park
+802,2013,2013-02-09,England,normal,40,,NA,New Zealand,England,New Zealand,field,CB Gaffaney,DJ Walker,Eden Park
+803,2013,2013-02-12,New Zealand,normal,55,,NA,New Zealand,England,England,field,GAV Baxter,DJ Walker,Seddon Park
+804,2013,2013-02-15,England,normal,,10,NA,New Zealand,England,England,field,GAV Baxter,CB Gaffaney,Westpac Stadium
+805,2012,2012-09-05,Pakistan,normal,,7,Mohammad Hafeez,Australia,Pakistan,Pakistan,field,Ahsan Raza,Shozab Raza,Dubai International Cricket Stadium
+806,2012,2012-09-07,Pakistan,tie,,,Saeed Ajmal,Australia,Pakistan,Pakistan,bat,Shozab Raza,Zameer Haider,Dubai International Cricket Stadium
+807,2012,2012-09-10,Australia,normal,94,,DA Warner,Australia,Pakistan,Pakistan,field,Ahsan Raza,Zameer Haider,Dubai International Cricket Stadium
+808,2013,2013-01-26,Sri Lanka,normal,,5,DA Warner,Australia,Sri Lanka,Australia,bat,SD Fry,PR Reiffel,Stadium Australia
+809,2013,2013-01-28,Sri Lanka,normal,2,,NLTC Perera,Australia,Sri Lanka,Australia,field,SD Fry,JD Ward,Melbourne Cricket Ground
+810,2013,2013-02-13,West Indies,normal,27,,KA Pollard,Australia,West Indies,West Indies,bat,PR Reiffel,JD Ward,"Brisbane Cricket Ground, Woolloongabba"
+811,2012,2012-07-26,Netherlands,normal,,1,NA,Netherlands,Bangladesh,Bangladesh,bat,IN Ramage,RP Smith,Sportpark Westvliet
+812,2012,2012-10-30,NA,no result,,,NA,Sri Lanka,New Zealand,Sri Lanka,field,REJ Martinesz,RSA Palliyaguruge,Pallekele International Cricket Stadium
+813,2012,2012-10-03,India,normal,,9,E Bisht,Sri Lanka,India,Sri Lanka,bat,BF Bowden,M Erasmus,Nondescripts Cricket Club Ground
+814,2012,2012-10-28,Bangladesh,normal,5,,Salma Khatun,Bangladesh,Sri Lanka,Sri Lanka,field,B Ramani,SV Sarda,Guanggong International Cricket Stadium
+815,2012,2012-10-28,India,normal,,8,M Raj,India,Pakistan,Pakistan,bat,BB Pradhan,Sarika Prasad,Guanggong International Cricket Stadium
+816,2012,2012-10-30,Pakistan,normal,,6,Nida Dar,Bangladesh,Pakistan,Pakistan,field,Sarika Prasad,B Ramani,Guanggong International Cricket Stadium
+817,2012,2012-10-31,India,normal,18,,PG Raut,India,Pakistan,India,bat,BB Pradhan,Sarika Prasad,Guanggong International Cricket Stadium
+818,2012,2012-12-10,West Indies,normal,18,,MN Samuels,Bangladesh,West Indies,West Indies,bat,Anisur Rahman,Enamul Haque,Shere Bangla National Stadium
+819,2013,2013-01-19,West Indies,normal,,8,DJS Dottin,West Indies,South Africa,South Africa,bat,GO Brathwaite,LS Reifer,"Beausejour Stadium, Gros Islet"
+820,2013,2013-01-20,West Indies,normal,,6,SF Daley,West Indies,South Africa,West Indies,field,PJ Nero,JS Wilson,"Beausejour Stadium, Gros Islet"
+821,2012,2012-12-25,Pakistan,normal,,5,Mohammad Hafeez,India,Pakistan,Pakistan,field,S Ravi,C Shamshuddin,M Chinnaswamy Stadium
+822,2012,2012-12-28,India,normal,11,,Yuvraj Singh,India,Pakistan,Pakistan,field,S Asnani,VA Kulkarni,"Sardar Patel Stadium, Motera"
+824,2013,2013-03-16,Kenya,normal,21,,CO Obuya,Canada,Kenya,Kenya,bat,RJ Bailey,D Odhiambo,ICC Global Cricket Academy
+823,2013,2013-03-15,Canada,normal,,5,Junaid Siddiqui,Canada,Kenya,Kenya,bat,RJ Bailey,D Odhiambo,ICC Global Cricket Academy
+825,2013,2013-03-03,Afghanistan,normal,27,,Mohammad Shahzad,Afghanistan,Scotland,Afghanistan,bat,RSA Palliyaguruge,Sarika Prasad,Sharjah Cricket Stadium
+826,2013,2013-03-04,Afghanistan,normal,,7,Mohammad Shahzad,Afghanistan,Scotland,Scotland,bat,RSA Palliyaguruge,Sarika Prasad,Sharjah Cricket Stadium
+827,2013,2013-04-20,Kenya,normal,,7,NA,Kenya,Netherlands,Kenya,field,S George,AT Holdstock,Wanderers Cricket Ground
+828,2013,2013-08-27,England,normal,15,,SJ Taylor,England,Australia,England,bat,NGB Cook,NJ Llong,County Ground
+829,2013,2013-08-29,England,normal,,5,LS Greenway,England,Australia,Australia,bat,MA Gough,DJ Millns,The Rose Bowl
+830,2013,2013-08-31,England,normal,,7,KH Brunt,England,Australia,England,field,RT Robinson,MJ Saggers,Riverside Ground
+831,2013,2013-03-02,West Indies,normal,,8,LMP Simmons,West Indies,Zimbabwe,Zimbabwe,bat,PJ Nero,JS Wilson,"Sir Vivian Richards Stadium, North Sound"
+832,2013,2013-03-03,West Indies,normal,41,,S Badree,West Indies,Zimbabwe,West Indies,bat,GO Brathwaite,JS Wilson,"Sir Vivian Richards Stadium, North Sound"
+833,2013,2013-03-31,Sri Lanka,normal,17,,MDKJ Perera,Sri Lanka,Bangladesh,Bangladesh,field,REJ Martinesz,RSA Palliyaguruge,Pallekele International Cricket Stadium
+834,2013,2013-03-03,West Indies,normal,,6,NA,Sri Lanka,West Indies,Sri Lanka,bat,ID Gunawardene,RD Kottahachchi,R Premadasa Stadium
+835,2013,2013-03-05,West Indies,normal,34,,NA,Sri Lanka,West Indies,Sri Lanka,field,HMNC Dhanasinghe,RD Kottahachchi,R Premadasa Stadium
+836,2013,2013-03-08,West Indies,normal,7,,NA,Sri Lanka,West Indies,West Indies,bat,HMNC Dhanasinghe,LE Hannibal,R Premadasa Stadium
+837,2013,2013-05-11,Zimbabwe,normal,6,,H Masakadza,Zimbabwe,Bangladesh,Zimbabwe,bat,O Chirombe,RB Tiffin,Queens Sports Club
+838,2013,2013-05-12,Bangladesh,normal,34,,Shakib Al Hasan,Zimbabwe,Bangladesh,Bangladesh,bat,O Chirombe,TJ Matibiri,Queens Sports Club
+839,2013,2013-07-05,England,normal,70,,SJ Taylor,England,Pakistan,England,bat,RK Illingworth,AG Wharf,Haslegrave Ground
+840,2013,2013-07-05,Pakistan,normal,1,,Sana Mir,England,Pakistan,Pakistan,bat,RK Illingworth,AG Wharf,Haslegrave Ground
+841,2013,2013-04-19,Kenya,normal,,5,NA,Kenya,Netherlands,Netherlands,bat,S George,AT Holdstock,Wanderers Cricket Ground
+842,2013,2013-08-02,South Africa,normal,12,,JP Duminy,Sri Lanka,South Africa,South Africa,bat,REJ Martinesz,RR Wimalasiri,R Premadasa Stadium
+843,2013,2013-08-04,South Africa,normal,22,,DA Miller,Sri Lanka,South Africa,South Africa,bat,REJ Martinesz,RSA Palliyaguruge,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+844,2013,2013-08-06,Sri Lanka,normal,,6,TM Dilshan,Sri Lanka,South Africa,South Africa,bat,REJ Martinesz,RSA Palliyaguruge,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+845,2014,2014-01-29,Australia,normal,13,,CL White,Australia,England,Australia,bat,SD Fry,JD Ward,Bellerive Oval
+846,2014,2014-01-31,Australia,normal,,8,JR Hazlewood,Australia,England,England,bat,JD Ward,P Wilson,Melbourne Cricket Ground
+847,2014,2014-02-02,Australia,normal,84,,GJ Bailey,Australia,England,Australia,bat,SD Fry,P Wilson,Stadium Australia
+848,2014,2014-03-09,West Indies,normal,27,,MN Samuels,West Indies,England,West Indies,bat,PJ Nero,JS Wilson,"Kensington Oval, Bridgetown"
+849,2014,2014-03-11,West Indies,normal,,5,K Santokie,West Indies,England,England,bat,GO Brathwaite,PJ Nero,"Kensington Oval, Bridgetown"
+850,2014,2014-03-13,England,normal,5,,CJ Jordan,West Indies,England,England,bat,GO Brathwaite,JS Wilson,"Kensington Oval, Bridgetown"
+851,2013,2013-07-29,Pakistan,normal,,9,Sadia Yousuf,Ireland,Pakistan,Pakistan,field,N Duguid,IN Ramage,YMCA Cricket Club
+852,2013,2013-07-31,NA,no result,,,NA,Pakistan,Sri Lanka,Sri Lanka,field,K Cross,Sharfuddoula,YMCA Cricket Club
+853,2013,2013-07-16,Pakistan,normal,38,,NA,Ireland,Pakistan,Pakistan,bat,GH Black,L Fourie,YMCA Cricket Club
+854,2013,2013-07-27,Pakistan,normal,,2,Shahid Afridi,West Indies,Pakistan,West Indies,bat,GO Brathwaite,PJ Nero,"Arnos Vale Ground, Kingstown"
+855,2013,2013-07-28,Pakistan,normal,11,,Umar Akmal,West Indies,Pakistan,Pakistan,bat,GO Brathwaite,JS Wilson,"Arnos Vale Ground, Kingstown"
+856,2013,2013-10-10,India,normal,,6,Yuvraj Singh,India,Australia,India,field,AK Chaudhary,C Shamshuddin,Saurashtra Cricket Association Stadium
+857,2014,2014-03-12,Australia,normal,,5,BJ Hodge,South Africa,Australia,Australia,field,S George,AT Holdstock,Kingsmead
+858,2014,2014-03-14,Australia,normal,,6,MA Starc,South Africa,Australia,Australia,field,JD Cloete,S George,SuperSport Park
+859,2013,2013-11-13,South Africa,normal,,9,DW Steyn,Pakistan,South Africa,Pakistan,bat,Ahsan Raza,Shozab Raza,Dubai International Cricket Stadium
+860,2013,2013-11-15,South Africa,normal,6,,F du Plessis,Pakistan,South Africa,South Africa,bat,Ahsan Raza,Zameer Haider,Dubai International Cricket Stadium
+861,2013,2013-12-08,Pakistan,normal,,6,Mohammad Hafeez,Afghanistan,Pakistan,Afghanistan,bat,Ahsan Raza,Shozab Raza,Sharjah Cricket Stadium
+862,2013,2013-12-11,Pakistan,normal,,3,Shahid Afridi,Pakistan,Sri Lanka,Pakistan,field,Ahsan Raza,Shozab Raza,Dubai International Cricket Stadium
+863,2013,2013-12-13,Sri Lanka,normal,24,,MDKJ Perera,Pakistan,Sri Lanka,Pakistan,field,Ahsan Raza,Zameer Haider,Dubai International Cricket Stadium
+864,2013,2013-08-23,Pakistan,normal,25,,Ahmed Shehzad,Zimbabwe,Pakistan,Zimbabwe,field,O Chirombe,TJ Matibiri,Harare Sports Club
+865,2013,2013-08-24,Pakistan,normal,19,,Ahmed Shehzad,Zimbabwe,Pakistan,Zimbabwe,field,O Chirombe,RB Tiffin,Harare Sports Club
+866,2013,2013-11-15,Netherlands,normal,,7,BN Cooper,Afghanistan,Netherlands,Afghanistan,bat,S Ravi,M Hawthorne,Sharjah Cricket Stadium
+867,2013,2013-11-16,Ireland,normal,2,,A Bagai,Canada,Ireland,Canada,field,MA Gough,REJ Martinesz,Sheikh Zayed Stadium
+868,2013,2013-11-16,Afghanistan,normal,17,,Dawlat Zadran,Afghanistan,Scotland,Afghanistan,bat,CB Gaffaney,AT Holdstock,Sharjah Cricket Stadium
+869,2013,2013-11-19,Kenya,normal,92,,RG Aga,Kenya,Scotland,Kenya,bat,AT Holdstock,S Ravi,ICC Academy
+870,2013,2013-11-22,Scotland,normal,15,,RML Taylor,Netherlands,Scotland,Netherlands,field,M Hawthorne,S Ravi,ICC Academy
+871,2013,2013-11-23,Netherlands,normal,29,,Mudassar Bukhari,Kenya,Netherlands,Netherlands,bat,AT Holdstock,Sarika Prasad,ICC Academy
+872,2013,2013-11-24,Afghanistan,normal,34,,Samiullah Shenwari,Afghanistan,Kenya,Afghanistan,bat,BB Pradhan,Sarika Prasad,Sharjah Cricket Stadium
+873,2013,2013-11-26,Kenya,normal,21,,SO Tikolo,Canada,Kenya,Kenya,bat,Sarika Prasad,DJ Walker,Sharjah Cricket Stadium
+874,2013,2013-11-28,Netherlands,normal,,8,W Barresi,Netherlands,Scotland,Scotland,bat,SJ Davis,REJ Martinesz,Sheikh Zayed Stadium
+875,2013,2013-11-30,Ireland,normal,68,,DT Johnston,Afghanistan,Ireland,Ireland,bat,MA Gough,S Ravi,Sheikh Zayed Stadium
+876,2014,2014-01-11,New Zealand,normal,81,,L Ronchi,New Zealand,West Indies,New Zealand,bat,CB Gaffaney,DJ Walker,Eden Park
+877,2014,2014-01-15,New Zealand,normal,,4,L Ronchi,New Zealand,West Indies,West Indies,bat,GAV Baxter,CB Gaffaney,Westpac Stadium
+878,2013,2013-09-30,Afghanistan,normal,106,,Hamid Hassan,Afghanistan,Kenya,Afghanistan,bat,RSA Palliyaguruge,BB Pradhan,Sharjah Cricket Stadium
+879,2013,2013-10-11,Kenya,normal,34,,NA,Afghanistan,Kenya,Kenya,bat,RSA Palliyaguruge,BB Pradhan,Sharjah Cricket Stadium
+880,2013,2013-09-14,South Africa,normal,,9,M Kapp,South Africa,Bangladesh,Bangladesh,bat,DJ Smith,BM White,Senwes Park
+881,2013,2013-09-15,South Africa,normal,3,,M du Preez,South Africa,Bangladesh,South Africa,bat,R Ellis,BM White,Senwes Park
+882,2014,2014-01-31,Australia,normal,,7,HL Ferling,Australia,England,Australia,field,SAJ Craig,AP Ward,Melbourne Cricket Ground
+883,2014,2014-02-02,Australia,normal,,7,RM Farrell,Australia,England,Australia,field,DB Mealey,AK Wilds,Stadium Australia
+884,2014,2014-09-07,England,normal,3,,EJG Morgan,England,India,England,bat,IJ Gould,RT Robinson,Edgbaston
+885,2014,2014-05-20,Sri Lanka,normal,9,,NLTC Perera,England,Sri Lanka,England,field,RJ Bailey,MA Gough,Kennington Oval
+886,2013,2013-10-31,South Africa,normal,,7,HML Madushani,South Africa,Sri Lanka,South Africa,field,RN Birkenstock,PJ Vosloo,Senwes Park
+887,2013,2013-11-02,Sri Lanka,normal,20,,HASD Siriwardene,South Africa,Sri Lanka,South Africa,field,R Ellis,PJ Vosloo,Senwes Park
+888,2013,2013-11-04,South Africa,normal,,5,S Loubser,South Africa,Sri Lanka,South Africa,field,RN Birkenstock,R Ellis,Senwes Park
+889,2013,2013-11-06,New Zealand,normal,15,,C Munro,Bangladesh,New Zealand,New Zealand,bat,Anisur Rahman,Sharfuddoula,Shere Bangla National Stadium
+890,2013,2013-11-21,Sri Lanka,normal,,8,MDKJ Perera,Sri Lanka,New Zealand,Sri Lanka,field,RSA Palliyaguruge,RR Wimalasiri,Pallekele International Cricket Stadium
+891,2014,2014-03-16,Bangladesh,normal,,9,Shakib Al Hasan,Bangladesh,Afghanistan,Bangladesh,field,RK Illingworth,NJ Llong,Shere Bangla National Stadium
+892,2014,2014-03-16,Nepal,normal,80,,SP Gauchan,Hong Kong,Nepal,Hong Kong,field,Aleem Dar,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+893,2014,2014-03-17,Ireland,normal,,3,PR Stirling,Ireland,Zimbabwe,Ireland,field,SJ Davis,M Erasmus,Sylhet Stadium
+894,2014,2014-03-17,Netherlands,normal,,6,TLW Cooper,Netherlands,United Arab Emirates,United Arab Emirates,bat,BF Bowden,IJ Gould,Sylhet Stadium
+895,2014,2014-03-18,Afghanistan,normal,,7,Mohammad Shahzad,Afghanistan,Hong Kong,Hong Kong,bat,S Ravi,PR Reiffel,Zahur Ahmed Chowdhury Stadium
+896,2014,2014-03-18,Bangladesh,normal,,8,Al-Amin Hossain,Bangladesh,Nepal,Bangladesh,field,Aleem Dar,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+897,2014,2014-03-19,Zimbabwe,normal,,5,BRM Taylor,Netherlands,Zimbabwe,Netherlands,bat,SJ Davis,BNJ Oxenford,Sylhet Stadium
+898,2014,2014-03-19,Ireland,normal,21,,EC Joyce,Ireland,United Arab Emirates,Ireland,field,M Erasmus,IJ Gould,Sylhet Stadium
+899,2014,2014-03-20,Nepal,normal,9,,JK Mukhiya,Afghanistan,Nepal,Afghanistan,field,Aleem Dar,S Ravi,Zahur Ahmed Chowdhury Stadium
+900,2014,2014-03-20,Hong Kong,normal,,2,Nadeem Ahmed,Bangladesh,Hong Kong,Hong Kong,field,PR Reiffel,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+901,2014,2014-03-21,Zimbabwe,normal,,5,E Chigumbura,United Arab Emirates,Zimbabwe,Zimbabwe,field,BF Bowden,BNJ Oxenford,Sylhet Stadium
+902,2014,2014-03-21,Netherlands,normal,,6,SJ Myburgh,Ireland,Netherlands,Netherlands,field,SJ Davis,IJ Gould,Sylhet Stadium
+903,2014,2014-03-21,India,normal,,7,A Mishra,India,Pakistan,India,field,HDPK Dharmasena,RA Kettleborough,Shere Bangla National Stadium
+904,2014,2014-03-22,Sri Lanka,normal,5,,MDKJ Perera,South Africa,Sri Lanka,Sri Lanka,bat,S Ravi,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+905,2014,2014-03-22,New Zealand,normal,9,,CJ Anderson,England,New Zealand,New Zealand,field,Aleem Dar,PR Reiffel,Zahur Ahmed Chowdhury Stadium
+906,2014,2014-03-23,Pakistan,normal,16,,Umar Akmal,Australia,Pakistan,Australia,field,RA Kettleborough,NJ Llong,Shere Bangla National Stadium
+907,2014,2014-03-23,India,normal,,7,A Mishra,India,West Indies,India,field,HDPK Dharmasena,RK Illingworth,Shere Bangla National Stadium
+909,2014,2014-03-24,Sri Lanka,normal,,9,AD Mathews,Netherlands,Sri Lanka,Sri Lanka,field,PR Reiffel,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+908,2014,2014-03-24,South Africa,normal,2,,JP Duminy,New Zealand,South Africa,New Zealand,field,Aleem Dar,S Ravi,Zahur Ahmed Chowdhury Stadium
+910,2014,2014-03-25,West Indies,normal,73,,DR Smith,Bangladesh,West Indies,Bangladesh,field,RA Kettleborough,NJ Llong,Shere Bangla National Stadium
+911,2014,2014-03-27,South Africa,normal,6,,Imran Tahir,Netherlands,South Africa,Netherlands,field,SJ Davis,BNJ Oxenford,Zahur Ahmed Chowdhury Stadium
+912,2014,2014-03-27,England,normal,,6,AD Hales,England,Sri Lanka,England,field,Aleem Dar,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+913,2014,2014-03-28,West Indies,normal,,6,DJG Sammy,Australia,West Indies,Australia,bat,M Erasmus,IJ Gould,Shere Bangla National Stadium
+914,2014,2014-03-28,India,normal,,8,R Ashwin,Bangladesh,India,India,field,HDPK Dharmasena,RA Kettleborough,Shere Bangla National Stadium
+915,2014,2014-03-29,New Zealand,normal,,6,BB McCullum,Netherlands,New Zealand,New Zealand,field,Aleem Dar,BNJ Oxenford,Zahur Ahmed Chowdhury Stadium
+916,2014,2014-03-29,South Africa,normal,3,,AB de Villiers,England,South Africa,England,field,SJ Davis,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+917,2014,2014-03-30,Pakistan,normal,50,,Ahmed Shehzad,Bangladesh,Pakistan,Pakistan,bat,IJ Gould,RA Kettleborough,Shere Bangla National Stadium
+918,2014,2014-03-30,India,normal,73,,R Ashwin,Australia,India,Australia,field,HDPK Dharmasena,M Erasmus,Shere Bangla National Stadium
+919,2014,2014-03-31,Netherlands,normal,45,,Mudassar Bukhari,England,Netherlands,England,field,SJ Davis,BNJ Oxenford,Zahur Ahmed Chowdhury Stadium
+920,2014,2014-03-31,Sri Lanka,normal,59,,HMRKB Herath,New Zealand,Sri Lanka,New Zealand,field,Aleem Dar,RJ Tucker,Zahur Ahmed Chowdhury Stadium
+921,2014,2014-04-01,Australia,normal,,7,AJ Finch,Bangladesh,Australia,Bangladesh,bat,HDPK Dharmasena,M Erasmus,Shere Bangla National Stadium
+922,2014,2014-04-01,West Indies,normal,84,,DJ Bravo,Pakistan,West Indies,West Indies,bat,IJ Gould,RA Kettleborough,Shere Bangla National Stadium
+923,2014,2014-04-03,Sri Lanka,normal,27,,AD Mathews,Sri Lanka,West Indies,Sri Lanka,bat,RA Kettleborough,RJ Tucker,Shere Bangla National Stadium
+924,2014,2014-04-04,India,normal,,6,V Kohli,India,South Africa,South Africa,bat,HDPK Dharmasena,IJ Gould,Shere Bangla National Stadium
+925,2014,2014-04-06,Sri Lanka,normal,,6,KC Sangakkara,India,Sri Lanka,Sri Lanka,field,IJ Gould,RA Kettleborough,Shere Bangla National Stadium
+926,2014,2014-03-23,New Zealand,normal,7,,NJ Browne,Australia,New Zealand,Australia,field,M Erasmus,IJ Gould,Sylhet Stadium
+927,2014,2014-03-24,West Indies,normal,9,,DJS Dottin,England,West Indies,England,field,SJ Davis,REJ Martinesz,Sylhet Stadium
+928,2014,2014-03-24,Sri Lanka,normal,22,,KDU Prabodhani,India,Sri Lanka,Sri Lanka,bat,BF Bowden,BNJ Oxenford,Sylhet Stadium
+929,2014,2014-03-25,New Zealand,normal,42,,SW Bates,Ireland,New Zealand,New Zealand,bat,M Erasmus,IJ Gould,Sylhet Stadium
+930,2014,2014-03-26,West Indies,normal,36,,SL Quintyne,Bangladesh,West Indies,West Indies,bat,BF Bowden,IJ Gould,Sylhet Stadium
+931,2014,2014-03-26,England,normal,,5,A Shrubsole,England,India,India,bat,M Erasmus,REJ Martinesz,Sylhet Stadium
+932,2014,2014-03-27,New Zealand,normal,59,,SW Bates,New Zealand,Pakistan,New Zealand,bat,REJ Martinesz,PR Reiffel,Sylhet Stadium
+933,2014,2014-03-28,West Indies,normal,,8,SF Daley,Sri Lanka,West Indies,Sri Lanka,bat,RK Illingworth,NJ Llong,Sylhet Stadium
+934,2014,2014-03-29,South Africa,normal,86,,CL Tryon,Ireland,South Africa,South Africa,bat,RK Illingworth,PR Reiffel,Sylhet Stadium
+935,2014,2014-03-29,Australia,normal,94,,EJ Villani,Australia,Pakistan,Australia,bat,NJ Llong,S Ravi,Sylhet Stadium
+936,2014,2014-03-30,India,normal,79,,H Kaur,Bangladesh,India,India,bat,REJ Martinesz,PR Reiffel,Sylhet Stadium
+937,2014,2014-03-30,England,normal,,7,A Shrubsole,England,Sri Lanka,Sri Lanka,bat,BF Bowden,S Ravi,Sylhet Stadium
+938,2014,2014-03-31,Pakistan,normal,14,,Bismah Maroof,Ireland,Pakistan,Pakistan,bat,BF Bowden,RK Illingworth,Sylhet Stadium
+939,2014,2014-03-31,South Africa,normal,,5,M du Preez,New Zealand,South Africa,New Zealand,bat,NJ Llong,REJ Martinesz,Sylhet Stadium
+940,2014,2014-04-01,Bangladesh,normal,3,,Rumana Ahmed,Bangladesh,Sri Lanka,Bangladesh,bat,NJ Llong,S Ravi,Sylhet Stadium
+942,2014,2014-04-02,New Zealand,normal,,6,RH Priest,New Zealand,Sri Lanka,Sri Lanka,bat,NJ Llong,S Ravi,Sylhet Stadium
+941,2014,2014-04-01,India,normal,,9,PG Raut,India,West Indies,West Indies,bat,RK Illingworth,PR Reiffel,Sylhet Stadium
+943,2014,2014-04-02,India,normal,6,,Soniya Dabir,India,Pakistan,India,bat,BF Bowden,RK Illingworth,Sylhet Stadium
+944,2014,2014-04-03,Australia,normal,8,,EA Osborne,Australia,West Indies,Australia,bat,Aleem Dar,M Erasmus,Shere Bangla National Stadium
+945,2014,2014-04-04,England,normal,,9,A Shrubsole,England,South Africa,England,field,SJ Davis,BNJ Oxenford,Shere Bangla National Stadium
+946,2014,2014-04-06,Australia,normal,,6,SJ Coyte,Australia,England,Australia,field,Aleem Dar,M Erasmus,Shere Bangla National Stadium
+947,2013,2013-11-20,South Africa,normal,4,,Q de Kock,South Africa,Pakistan,Pakistan,field,JD Cloete,S George,New Wanderers Stadium
+948,2013,2013-11-22,Pakistan,normal,6,,Mohammad Hafeez,South Africa,Pakistan,Pakistan,bat,JD Cloete,S George,Newlands
+949,2014,2014-02-12,Sri Lanka,normal,2,,MDKJ Perera,Bangladesh,Sri Lanka,Bangladesh,field,Anisur Rahman,Sharfuddoula,Zahur Ahmed Chowdhury Stadium
+950,2014,2014-02-14,Sri Lanka,normal,,3,NLTC Perera,Bangladesh,Sri Lanka,Bangladesh,bat,Anisur Rahman,Sharfuddoula,Zahur Ahmed Chowdhury Stadium
+951,2014,2014-09-01,England,normal,,9,CM Edwards,England,South Africa,England,field,JW Lloyds,NA Mallender,County Ground
+952,2014,2014-09-03,England,normal,42,,CM Edwards,England,South Africa,England,bat,JW Lloyds,NA Mallender,County Ground
+953,2014,2014-09-07,England,normal,8,,L Winfield,England,South Africa,South Africa,field,RJ Bailey,DJ Millns,Edgbaston
+954,2014,2014-01-19,Pakistan,normal,,6,Nain Abidi,Pakistan,South Africa,Pakistan,field,Ahmed Shahab,Nadeem Malik,West End Park International Cricket Stadium
+955,2014,2014-01-19,Ireland,normal,,6,IMHC Joyce,Ireland,Pakistan,Ireland,field,Kamal Merchant,Mohammad Nasim,West End Park International Cricket Stadium
+956,2014,2014-01-20,South Africa,normal,46,,L Lee,Ireland,South Africa,Ireland,field,Ahmed Shahab,Tahir Shah,West End Park International Cricket Stadium
+957,2014,2014-01-24,Pakistan,normal,,7,Javeria Khan,Pakistan,South Africa,Pakistan,field,Ahmed Shahab,Kamal Merchant,West End Park International Cricket Stadium
+958,2014,2014-02-19,Ireland,normal,,6,EC Joyce,West Indies,Ireland,West Indies,bat,GO Brathwaite,JS Wilson,"Sabina Park, Kingston"
+959,2014,2014-02-21,West Indies,normal,11,,DJG Sammy,West Indies,Ireland,Ireland,field,N Duguid,JS Wilson,"Sabina Park, Kingston"
+960,2014,2014-04-03,Pakistan,normal,14,,Bismah Maroof,Pakistan,Sri Lanka,Pakistan,bat,NJ Llong,PR Reiffel,Sylhet Stadium
+961,2014,2014-04-03,Bangladesh,normal,17,,Panna Ghosh,Bangladesh,Ireland,Bangladesh,bat,RK Illingworth,S Ravi,Sylhet Stadium
+962,2015,2015-01-09,West Indies,normal,,4,CH Gayle,South Africa,West Indies,South Africa,bat,JD Cloete,S George,Newlands
+963,2015,2015-01-11,West Indies,normal,,4,CH Gayle,South Africa,West Indies,West Indies,field,S George,AT Holdstock,New Wanderers Stadium
+964,2014,2014-10-05,Australia,normal,,6,GJ Maxwell,Australia,Pakistan,Pakistan,bat,Ahsan Raza,Shozab Raza,Dubai International Cricket Stadium
+965,2014,2014-07-05,New Zealand,normal,12,,ADS Fletcher,West Indies,New Zealand,New Zealand,field,PJ Nero,JS Wilson,"Windsor Park, Roseau"
+966,2014,2014-07-06,West Indies,normal,39,,ADS Fletcher,West Indies,New Zealand,New Zealand,field,GO Brathwaite,JS Wilson,"Windsor Park, Roseau"
+967,2014,2014-08-27,NA,no result,,,NA,West Indies,Bangladesh,Bangladesh,bat,PJ Nero,JS Wilson,"Warner Park, Basseterre"
+968,2015,2015-01-14,South Africa,normal,69,,MN van Wyk,South Africa,West Indies,West Indies,field,JD Cloete,S George,Kingsmead
+969,2014,2014-12-04,Pakistan,normal,,7,Sarfraz Ahmed,New Zealand,Pakistan,Pakistan,field,Ahmed Shahab,Ahsan Raza,Dubai International Cricket Stadium
+970,2015,2015-06-23,England,normal,56,,JE Root,England,New Zealand,England,bat,RJ Bailey,RT Robinson,Old Trafford
+971,2015,2015-08-31,England,normal,5,,MM Ali,England,Australia,Australia,field,MA Gough,RT Robinson,Sophia Gardens
+972,2014,2014-12-05,New Zealand,normal,17,,AP Devcich,New Zealand,Pakistan,Pakistan,field,Aleem Dar,Shozab Raza,Dubai International Cricket Stadium
+973,2014,2014-11-05,South Africa,normal,,7,RR Rossouw,Australia,South Africa,Australia,bat,SD Fry,JD Ward,Adelaide Oval
+974,2014,2014-11-07,Australia,normal,,7,CJ Boyce,Australia,South Africa,South Africa,bat,SD Fry,MD Martell,Melbourne Cricket Ground
+975,2014,2014-11-09,Australia,normal,,2,CL White,Australia,South Africa,Australia,field,MD Martell,JD Ward,Stadium Australia
+976,2014,2014-08-30,Australia,normal,,9,EA Osborne,Australia,Pakistan,Pakistan,bat,GA Abood,GC Joshua,Kerrydale Oval
+978,2014,2014-09-03,Australia,normal,,8,EJ Villani,Australia,Pakistan,Pakistan,bat,GA Abood,SJ Nogajski,Kerrydale Oval
+977,2014,2014-08-31,Australia,normal,63,,DM Kimmince,Australia,Pakistan,Australia,bat,GC Joshua,SJ Nogajski,Kerrydale Oval
+979,2014,2014-09-05,Australia,normal,20,,MM Lanning,Australia,Pakistan,Australia,bat,GA Abood,GC Joshua,Kerrydale Oval
+980,2014,2014-11-02,Australia,normal,,4,JL Jonassen,Australia,West Indies,Australia,field,GJ Davidson,AK Wilds,North Sydney Oval
+981,2014,2014-11-07,Australia,normal,,4,SR Taylor,Australia,West Indies,West Indies,bat,GJ Davidson,AK Wilds,Melbourne Cricket Ground
+982,2014,2014-10-23,Sri Lanka,normal,7,,HASD Siriwardene,Sri Lanka,South Africa,Sri Lanka,bat,LE Hannibal,RD Kottahachchi,Colts Cricket Club Ground
+983,2014,2014-10-25,South Africa,normal,,7,D van Niekerk,Sri Lanka,South Africa,Sri Lanka,bat,EJAPAM Jayasooriya,RMPJ Rambukwella,Colts Cricket Club Ground
+984,2014,2014-10-26,South Africa,normal,,9,D van Niekerk,Sri Lanka,South Africa,Sri Lanka,bat,ID Gunawardene,RD Kottahachchi,Mercantile Cricket Association Ground
+985,2015,2015-08-26,England,normal,,7,SJ Taylor,England,Australia,England,field,NGB Cook,MJ Saggers,County Ground
+986,2015,2015-08-28,Australia,normal,20,,RM Farrell,England,Australia,England,field,NGB Cook,PJ Hartley,County Ground
+987,2015,2015-08-31,England,normal,,5,NR Sciver,England,Australia,England,field,RJ Bailey,RK Illingworth,Sophia Gardens
+988,2015,2015-08-19,Australia,normal,25,,NA,Ireland,Australia,Ireland,field,AA Baig,GH Black,YMCA Cricket Club
+989,2015,2015-08-21,Australia,normal,55,,NA,Ireland,Australia,Australia,bat,M Block,K Gallagher,YMCA Cricket Club
+990,2015,2015-08-22,Australia,normal,99,,NA,Ireland,Australia,Australia,bat,AA Baig,CM Colleran,YMCA Cricket Club
+991,2016,2016-02-19,South Africa,normal,,3,Imran Tahir,South Africa,England,South Africa,field,JD Cloete,S George,Newlands
+992,2016,2016-02-21,South Africa,normal,,9,AB de Villiers,South Africa,England,South Africa,field,JD Cloete,AT Holdstock,New Wanderers Stadium
+993,2014,2014-11-24,Hong Kong,normal,,2,Aizaz Khan,Hong Kong,Nepal,Hong Kong,field,RSA Palliyaguruge,RR Wimalasiri,P Sara Oval
+994,2015,2015-01-16,Pakistan,normal,55,,Sana Mir,Pakistan,Sri Lanka,Pakistan,bat,Farooq Ali Khan,Rashid Riaz,Sharjah Cricket Stadium
+995,2015,2015-01-17,Sri Lanka,normal,,5,AC Jayangani,Pakistan,Sri Lanka,Pakistan,bat,Farooq Ali Khan,Rashid Riaz,Sharjah Cricket Stadium
+996,2015,2015-07-05,South Africa,normal,52,,F du Plessis,Bangladesh,South Africa,South Africa,bat,Enamul Haque,Sharfuddoula,Shere Bangla National Stadium
+997,2015,2015-07-07,South Africa,normal,31,,E Leie,Bangladesh,South Africa,South Africa,bat,Anisur Rahman,Enamul Haque,Shere Bangla National Stadium
+998,2015,2015-03-19,Pakistan,normal,,5,Asmavia Iqbal,Pakistan,South Africa,Pakistan,field,Ahsan Raza,Khalid Mahmood,Sharjah Cricket Stadium
+999,2015,2015-03-20,Pakistan,normal,,6,Asmavia Iqbal,Pakistan,South Africa,South Africa,bat,Ahsan Raza,Khalid Mahmood,Sharjah Cricket Stadium
+1000,2015,2015-03-22,South Africa,normal,,7,D van Niekerk,Pakistan,South Africa,South Africa,field,Ahsan Raza,Khalid Mahmood,Sharjah Cricket Stadium
+1001,2015,2015-08-14,South Africa,normal,,6,AM Phangiso,South Africa,New Zealand,South Africa,field,JD Cloete,S George,Kingsmead
+1002,2015,2015-08-16,New Zealand,normal,32,,MJ Guptill,South Africa,New Zealand,New Zealand,bat,JD Cloete,S George,SuperSport Park
+1003,2015,2015-05-23,Sri Lanka,normal,5,,SS Weerakkody,Sri Lanka,West Indies,Sri Lanka,field,PN Udawatta,RR Wimalasiri,R Premadasa Stadium
+1004,2015,2015-05-25,West Indies,normal,,8,SR Taylor,Sri Lanka,West Indies,Sri Lanka,bat,RD Kottahachchi,REJ Martinesz,R Premadasa Stadium
+1005,2015,2015-05-26,West Indies,normal,,9,HK Matthews,Sri Lanka,West Indies,West Indies,field,RA Kottahachchi,RR Wimalasiri,R Premadasa Stadium
+1006,2015,2015-04-24,Bangladesh,normal,,7,Sabbir Rahman,Bangladesh,Pakistan,Pakistan,bat,Anisur Rahman,Sharfuddoula,Shere Bangla National Stadium
+1007,2015,2015-07-30,Pakistan,normal,29,,Sohail Tanvir,Sri Lanka,Pakistan,Pakistan,bat,REJ Martinesz,RSA Palliyaguruge,R Premadasa Stadium
+1008,2015,2015-08-01,Pakistan,normal,,1,Anwar Ali,Sri Lanka,Pakistan,Sri Lanka,bat,RSA Palliyaguruge,RR Wimalasiri,R Premadasa Stadium
+1009,2015,2015-05-22,Pakistan,normal,,5,Mukhtar Ahmed,Pakistan,Zimbabwe,Zimbabwe,bat,Ahsan Raza,Shozab Raza,Gaddafi Stadium
+1010,2015,2015-05-24,Pakistan,normal,,2,Mukhtar Ahmed,Pakistan,Zimbabwe,Zimbabwe,bat,Ahmed Shahab,Ahsan Raza,Gaddafi Stadium
+1011,2015,2015-07-09,Scotland,normal,,9,HG Munsey,Scotland,United Arab Emirates,Scotland,field,Ahsan Raza,S George,"Grange Cricket Club Ground, Raeburn Place"
+1013,2015,2015-07-10,Afghanistan,normal,,8,Mohammad Shahzad,Afghanistan,United Arab Emirates,United Arab Emirates,bat,NJ Llong,IN Ramage,"Grange Cricket Club Ground, Raeburn Place"
+1012,2015,2015-07-09,Afghanistan,normal,32,,Sharafuddin Ashraf,Afghanistan,Netherlands,Netherlands,field,GO Brathwaite,D Odhiambo,"Grange Cricket Club Ground, Raeburn Place"
+1014,2015,2015-07-11,Netherlands,normal,32,,AC Evans,Scotland,Netherlands,Netherlands,bat,VA Kulkarni,D Odhiambo,"Grange Cricket Club Ground, Raeburn Place"
+1015,2015,2015-07-12,Netherlands,normal,,7,RE van der Merwe,Netherlands,United Arab Emirates,Netherlands,field,VA Kulkarni,NJ Llong,"Grange Cricket Club Ground, Raeburn Place"
+1016,2015,2015-07-12,Afghanistan,normal,37,,Mohammad Shahzad,Scotland,Afghanistan,Afghanistan,bat,Ahsan Raza,GO Brathwaite,"Grange Cricket Club Ground, Raeburn Place"
+1017,2015,2015-07-13,Ireland,normal,,8,KJ O'Brien,Nepal,Ireland,Ireland,field,AK Chaudhary,JD Cloete,"Civil Service Cricket Club, Stormont"
+1018,2015,2015-07-15,Papua New Guinea,normal,,2,N Vanua,Ireland,Papua New Guinea,Ireland,bat,AK Chaudhary,RSA Palliyaguruge,"Civil Service Cricket Club, Stormont"
+1019,2015,2015-07-15,Hong Kong,normal,,5,Haseeb Amjad,Hong Kong,Nepal,Hong Kong,field,JD Cloete,RSA Palliyaguruge,"Civil Service Cricket Club, Stormont"
+1020,2015,2015-07-17,Papua New Guinea,normal,,8,A Vala,Nepal,Papua New Guinea,Papua New Guinea,field,JD Cloete,RT Robinson,"The Village, Malahide"
+1021,2015,2015-07-17,Hong Kong,normal,5,,Irfan Ahmed,Ireland,Hong Kong,Ireland,field,RSA Palliyaguruge,P Wilson,"The Village, Malahide"
+1022,2015,2015-07-21,Hong Kong,normal,,5,Nawroz Mangal,Afghanistan,Hong Kong,Afghanistan,bat,S George,NJ Llong,"The Village, Malahide"
+1023,2015,2015-07-23,Afghanistan,normal,,6,Nawroz Mangal,Afghanistan,Papua New Guinea,Papua New Guinea,bat,GO Brathwaite,AK Chaudhary,"The Village, Malahide"
+1024,2015,2015-07-25,Scotland,normal,,5,RML Taylor,Hong Kong,Scotland,Scotland,field,S George,RSA Palliyaguruge,"The Village, Malahide"
+1025,2015,2015-07-25,Afghanistan,normal,,5,Najibullah Zadran,Afghanistan,Oman,Afghanistan,field,GO Brathwaite,AK Chaudhary,Clontarf Cricket Club Ground
+1026,2015,2015-07-25,Netherlands,normal,,5,Mudassar Bukhari,Ireland,Netherlands,Netherlands,field,JD Cloete,VA Kulkarni,"The Village, Malahide"
+1027,2015,2015-12-05,Ireland,normal,,2,Rumana Ahmed,Bangladesh,Ireland,Bangladesh,bat,K Cross,CA Polosak,Terdthai Cricket Ground
+1028,2015,2015-07-01,Netherlands,normal,103,,NA,Netherlands,Nepal,Nepal,field,Sarika Prasad,C Shamshuddin,VRA Ground
+1029,2015,2015-07-02,Netherlands,normal,18,,NA,Netherlands,Nepal,Netherlands,bat,Sarika Prasad,C Shamshuddin,Hazelaarweg
+1030,2016,2016-03-04,South Africa,normal,,3,DA Miller,South Africa,Australia,Australia,bat,S George,AT Holdstock,Kingsmead
+1032,2016,2016-03-09,Australia,normal,,6,HM Amla,South Africa,Australia,South Africa,bat,S George,AT Holdstock,Newlands
+1031,2016,2016-03-06,Australia,normal,,5,DA Warner,South Africa,Australia,Australia,field,S George,AT Holdstock,New Wanderers Stadium
+1033,2015,2015-07-17,India,normal,54,,AR Patel,Zimbabwe,India,India,bat,TJ Matibiri,RB Tiffin,Harare Sports Club
+1034,2015,2015-07-19,Zimbabwe,normal,10,,CJ Chibhabha,Zimbabwe,India,Zimbabwe,bat,L Rusere,RB Tiffin,Harare Sports Club
+1035,2015,2015-06-20,Scotland,normal,,6,NA,Ireland,Scotland,Scotland,field,M Hawthorne,NJ Llong,"Bready Cricket Club, Magheramason"
+1036,2015,2015-10-29,West Indies,normal,,8,DJS Dottin,West Indies,Pakistan,West Indies,field,PJ Nero,JM Williams,"National Cricket Stadium, St George's"
+1037,2015,2015-08-09,New Zealand,normal,80,,GH Worker,Zimbabwe,New Zealand,Zimbabwe,field,L Rusere,RB Tiffin,Harare Sports Club
+1038,2016,2016-01-29,India,normal,,10,J Goswami,Australia,India,India,field,GA Abood,GC Joshua,Melbourne Cricket Ground
+1039,2016,2016-01-31,Australia,normal,15,,EA Perry,Australia,India,India,field,GA Abood,SJ Nogajski,Sydney Cricket Ground
+1040,2016,2016-01-26,India,normal,37,,V Kohli,Australia,India,Australia,field,SD Fry,JD Ward,Adelaide Oval
+1041,2016,2016-01-29,India,normal,27,,V Kohli,Australia,India,Australia,field,SD Fry,P Wilson,Melbourne Cricket Ground
+1042,2016,2016-01-31,India,normal,,7,SR Watson,Australia,India,Australia,bat,SD Fry,JD Ward,Sydney Cricket Ground
+1043,2015,2015-11-26,England,normal,14,,SW Billings,England,Pakistan,England,bat,Ahsan Raza,Shozab Raza,Dubai International Cricket Stadium
+1044,2015,2015-11-27,England,normal,3,,LE Plunkett,England,Pakistan,England,bat,Ahmed Shahab,Shozab Raza,Dubai International Cricket Stadium
+1045,2015,2015-11-30,England,tie,,,Shoaib Malik,England,Pakistan,England,bat,Ahmed Shahab,Ahsan Raza,Sharjah Cricket Stadium
+1046,2015,2015-10-02,South Africa,normal,,7,JP Duminy,India,South Africa,South Africa,field,VA Kulkarni,C Shamshuddin,Himachal Pradesh Cricket Association Stadium
+1047,2015,2015-10-05,South Africa,normal,,6,JA Morkel,India,South Africa,South Africa,field,CK Nandan,C Shamshuddin,Barabati Stadium
+1048,2016,2016-02-18,England,normal,15,,SJ Taylor,South Africa,England,South Africa,field,A Paleker,DJ Smith,Boland Park
+1049,2016,2016-02-21,England,normal,,4,SJ Taylor,South Africa,England,England,field,BP Jele,DJ Smith,New Wanderers Stadium
+1050,2016,2016-03-04,South Africa,normal,11,,S Ismail,South Africa,West Indies,South Africa,bat,A Paleker,DJ Smith,Kingsmead
+1051,2016,2016-03-09,South Africa,normal,4,,L Lee,South Africa,West Indies,South Africa,bat,BP Jele,BM White,Newlands
+1052,2016,2016-07-05,England,normal,,8,JC Buttler,England,Sri Lanka,Sri Lanka,bat,RJ Bailey,MA Gough,The Rose Bowl
+1053,2016,2016-09-07,Pakistan,normal,,9,Wahab Riaz,England,Pakistan,England,bat,MA Gough,RT Robinson,Old Trafford
+1054,2016,2016-01-07,New Zealand,normal,3,,TA Boult,New Zealand,Sri Lanka,Sri Lanka,field,PD Jones,DJ Walker,Bay Oval
+1055,2016,2016-01-10,New Zealand,normal,,9,C Munro,New Zealand,Sri Lanka,New Zealand,field,BF Bowden,PD Jones,Eden Park
+1056,2016,2016-01-15,Pakistan,normal,16,,Shahid Afridi,New Zealand,Pakistan,New Zealand,field,PD Jones,DJ Walker,Eden Park
+1057,2016,2016-01-17,New Zealand,normal,,10,MJ Guptill,New Zealand,Pakistan,Pakistan,bat,BF Bowden,DJ Walker,Seddon Park
+1058,2016,2016-01-22,New Zealand,normal,95,,CJ Anderson,New Zealand,Pakistan,Pakistan,field,BF Bowden,DJ Walker,Westpac Stadium
+1059,2015,2015-11-09,Sri Lanka,normal,30,,SMSM Senanayake,Sri Lanka,West Indies,West Indies,field,REJ Martinesz,RSA Palliyaguruge,Pallekele International Cricket Stadium
+1061,2015,2015-09-27,Pakistan,normal,13,,Imad Wasim,Zimbabwe,Pakistan,Pakistan,bat,TJ Matibiri,RB Tiffin,Harare Sports Club
+1060,2015,2015-11-11,West Indies,normal,23,,DJ Bravo,Sri Lanka,West Indies,West Indies,bat,REJ Martinesz,RR Wimalasiri,R Premadasa Stadium
+1062,2015,2015-09-29,Pakistan,normal,15,,Umar Akmal,Zimbabwe,Pakistan,Pakistan,bat,L Rusere,RB Tiffin,Harare Sports Club
+1063,2015,2015-09-30,Pakistan,normal,29,,Bismah Maroof,Pakistan,Bangladesh,Pakistan,bat,Rashid Riaz,Riazuddin,Southend Club Cricket Stadium
+1064,2015,2015-10-01,Pakistan,normal,34,,Bismah Maroof,Pakistan,Bangladesh,Pakistan,bat,Rashid Riaz,Riazuddin,Southend Club Cricket Stadium
+1065,2015,2015-10-26,Afghanistan,normal,,6,Dawlat Zadran,Zimbabwe,Afghanistan,Zimbabwe,bat,TJ Matibiri,RB Tiffin,Queens Sports Club
+1066,2015,2015-10-28,Afghanistan,normal,,5,Gulbadin Naib,Zimbabwe,Afghanistan,Zimbabwe,bat,L Rusere,RB Tiffin,Queens Sports Club
+1067,2015,2015-11-22,United Arab Emirates,normal,,7,NA,United Arab Emirates,Oman,United Arab Emirates,field,VA Kulkarni,Sarika Prasad,Sheikh Zayed Stadium
+1068,2015,2015-11-21,Oman,normal,,6,NA,Hong Kong,Oman,Oman,field,VA Kulkarni,Sarika Prasad,Sheikh Zayed Stadium
+1069,2015,2015-11-25,Oman,normal,4,,NA,Hong Kong,Oman,Hong Kong,field,VA Kulkarni,Sarika Prasad,Sheikh Zayed Stadium
+1070,2015,2015-11-26,Hong Kong,normal,,8,NA,Hong Kong,Oman,Hong Kong,field,BB Pradhan,RR Wimalasiri,Sheikh Zayed Stadium
+1071,2015,2015-11-30,Afghanistan,normal,12,,NA,Afghanistan,Oman,Oman,field,BB Pradhan,RR Wimalasiri,Sheikh Zayed Stadium
+1072,2015,2015-11-13,Bangladesh,normal,,4,MN Waller,Bangladesh,Zimbabwe,Bangladesh,field,Anisur Rahman,Enamul Haque,Shere Bangla National Stadium
+1073,2015,2015-11-15,Zimbabwe,normal,,3,N Madziva,Bangladesh,Zimbabwe,Bangladesh,bat,Anisur Rahman,Sharfuddoula,Shere Bangla National Stadium
+1074,2017,2017-01-20,South Africa,normal,19,,L Ngidi,South Africa,Sri Lanka,Sri Lanka,field,S George,AT Holdstock,SuperSport Park
+1075,2017,2017-01-22,Sri Lanka,normal,,3,AD Mathews,South Africa,Sri Lanka,South Africa,bat,AT Holdstock,BP Jele,New Wanderers Stadium
+1076,2017,2017-01-25,Sri Lanka,normal,,5,N Dickwella,South Africa,Sri Lanka,South Africa,bat,S George,BP Jele,Newlands
+1077,2016,2016-07-03,England,normal,68,,TT Beaumont,England,Pakistan,England,bat,MA Gough,RT Robinson,County Ground
+1078,2016,2016-07-05,England,normal,35,,FC Wilson,England,Pakistan,England,bat,NGB Cook,RT Robinson,The Rose Bowl
+1079,2016,2016-07-07,England,normal,57,,L Winfield,England,Pakistan,England,bat,DJ Millns,MJ Saggers,County Ground
+1080,2016,2016-03-08,Zimbabwe,normal,14,,V Sibanda,Hong Kong,Zimbabwe,Hong Kong,field,Aleem Dar,IJ Gould,"Vidarbha Cricket Association Stadium, Jamtha"
+1081,2016,2016-03-08,Afghanistan,normal,14,,Mohammad Shahzad,Afghanistan,Scotland,Afghanistan,bat,M Erasmus,RK Illingworth,"Vidarbha Cricket Association Stadium, Jamtha"
+1082,2016,2016-03-09,Bangladesh,normal,8,,Tamim Iqbal,Bangladesh,Netherlands,Netherlands,field,S Ravi,RJ Tucker,Himachal Pradesh Cricket Association Stadium
+1083,2016,2016-03-09,Oman,normal,,2,Amir Ali,Ireland,Oman,Ireland,bat,CB Gaffaney,NJ Llong,Himachal Pradesh Cricket Association Stadium
+1084,2016,2016-03-10,Zimbabwe,normal,11,,WP Masakadza,Scotland,Zimbabwe,Zimbabwe,bat,Aleem Dar,M Erasmus,"Vidarbha Cricket Association Stadium, Jamtha"
+1085,2016,2016-03-10,Afghanistan,normal,,6,Mohammad Nabi,Afghanistan,Hong Kong,Hong Kong,bat,IJ Gould,RK Illingworth,"Vidarbha Cricket Association Stadium, Jamtha"
+1086,2016,2016-03-11,NA,no result,,,NA,Bangladesh,Ireland,Ireland,field,NJ Llong,RJ Tucker,Himachal Pradesh Cricket Association Stadium
+1087,2016,2016-03-12,Afghanistan,normal,59,,Mohammad Nabi,Afghanistan,Zimbabwe,Afghanistan,bat,Aleem Dar,RK Illingworth,"Vidarbha Cricket Association Stadium, Jamtha"
+1088,2016,2016-03-12,Scotland,normal,,8,MW Machan,Hong Kong,Scotland,Hong Kong,bat,M Erasmus,IJ Gould,"Vidarbha Cricket Association Stadium, Jamtha"
+1089,2016,2016-03-13,Netherlands,normal,12,,PA van Meekeren,Ireland,Netherlands,Ireland,field,NJ Llong,S Ravi,Himachal Pradesh Cricket Association Stadium
+1090,2016,2016-03-13,Bangladesh,normal,54,,Tamim Iqbal,Bangladesh,Oman,Oman,field,CB Gaffaney,RJ Tucker,Himachal Pradesh Cricket Association Stadium
+1091,2016,2016-03-15,New Zealand,normal,47,,MJ Santner,India,New Zealand,New Zealand,bat,HDPK Dharmasena,RK Illingworth,"Vidarbha Cricket Association Stadium, Jamtha"
+1092,2016,2016-03-16,West Indies,normal,,6,CH Gayle,England,West Indies,West Indies,field,CB Gaffaney,RJ Tucker,Wankhede Stadium
+1093,2016,2016-03-16,Pakistan,normal,55,,Shahid Afridi,Bangladesh,Pakistan,Pakistan,bat,IJ Gould,RA Kettleborough,Eden Gardens
+1094,2016,2016-03-17,Sri Lanka,normal,,6,TM Dilshan,Afghanistan,Sri Lanka,Afghanistan,bat,BNJ Oxenford,JS Wilson,Eden Gardens
+1095,2016,2016-03-18,New Zealand,normal,8,,MJ McClenaghan,Australia,New Zealand,New Zealand,bat,M Erasmus,NJ Llong,Himachal Pradesh Cricket Association Stadium
+1096,2016,2016-03-18,England,normal,,2,JE Root,England,South Africa,England,field,S Ravi,PR Reiffel,Wankhede Stadium
+1097,2016,2016-03-19,India,normal,,6,V Kohli,India,Pakistan,India,field,IJ Gould,RA Kettleborough,Eden Gardens
+1098,2016,2016-03-20,South Africa,normal,37,,CH Morris,Afghanistan,South Africa,South Africa,bat,CB Gaffaney,PR Reiffel,Wankhede Stadium
+1099,2016,2016-03-20,West Indies,normal,,7,ADS Fletcher,Sri Lanka,West Indies,West Indies,field,Aleem Dar,JD Cloete,M Chinnaswamy Stadium
+1100,2016,2016-03-21,Australia,normal,,3,A Zampa,Australia,Bangladesh,Australia,field,IJ Gould,RA Kettleborough,M Chinnaswamy Stadium
+1101,2016,2016-03-22,New Zealand,normal,22,,MJ Guptill,New Zealand,Pakistan,New Zealand,bat,RK Illingworth,NJ Llong,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1102,2016,2016-03-23,England,normal,15,,MM Ali,Afghanistan,England,England,bat,S Ravi,RJ Tucker,Feroz Shah Kotla
+1103,2016,2016-03-23,India,normal,1,,R Ashwin,India,Bangladesh,Bangladesh,field,Aleem Dar,BNJ Oxenford,M Chinnaswamy Stadium
+1104,2016,2016-03-25,Australia,normal,21,,JP Faulkner,Australia,Pakistan,Australia,bat,HDPK Dharmasena,M Erasmus,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1105,2016,2016-03-25,West Indies,normal,,3,MN Samuels,South Africa,West Indies,West Indies,field,IJ Gould,RA Kettleborough,"Vidarbha Cricket Association Stadium, Jamtha"
+1106,2016,2016-03-26,New Zealand,normal,75,,KS Williamson,Bangladesh,New Zealand,New Zealand,bat,JD Cloete,MA Gough,Eden Gardens
+1107,2016,2016-03-26,England,normal,10,,JC Buttler,England,Sri Lanka,Sri Lanka,field,PR Reiffel,RJ Tucker,Feroz Shah Kotla
+1108,2016,2016-03-27,India,normal,,6,V Kohli,India,Australia,Australia,bat,HDPK Dharmasena,M Erasmus,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1109,2016,2016-03-27,Afghanistan,normal,6,,Najibullah Zadran,Afghanistan,West Indies,West Indies,field,Aleem Dar,BNJ Oxenford,"Vidarbha Cricket Association Stadium, Jamtha"
+1110,2016,2016-03-28,South Africa,normal,,8,AM Phangiso,South Africa,Sri Lanka,South Africa,field,S Ravi,RJ Tucker,Feroz Shah Kotla
+1111,2016,2016-03-30,England,normal,,7,JJ Roy,England,New Zealand,England,field,HDPK Dharmasena,RJ Tucker,Feroz Shah Kotla
+1112,2016,2016-03-31,West Indies,normal,,7,LMP Simmons,India,West Indies,West Indies,field,IJ Gould,RA Kettleborough,Wankhede Stadium
+1113,2016,2016-04-03,West Indies,normal,,4,MN Samuels,England,West Indies,West Indies,field,HDPK Dharmasena,RJ Tucker,Eden Gardens
+1114,2016,2016-03-15,India,normal,72,,H Kaur,India,Bangladesh,Bangladesh,field,Aleem Dar,REJ Martinesz,M Chinnaswamy Stadium
+1115,2016,2016-03-15,New Zealand,normal,,7,SW Bates,New Zealand,Sri Lanka,Sri Lanka,bat,MA Gough,C Shamshuddin,Feroz Shah Kotla
+1116,2016,2016-03-16,West Indies,normal,4,,Anam Amin,Pakistan,West Indies,Pakistan,field,AK Chaudhary,K Cross,"MA Chidambaram Stadium, Chepauk"
+1117,2016,2016-03-17,England,normal,36,,CM Edwards,Bangladesh,England,England,bat,SD Fry,REJ Martinesz,M Chinnaswamy Stadium
+1118,2016,2016-03-18,New Zealand,normal,93,,SW Bates,Ireland,New Zealand,New Zealand,bat,VA Kulkarni,CA Polosak,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1119,2016,2016-03-18,Australia,normal,,6,MM Lanning,Australia,South Africa,South Africa,bat,K Cross,CK Nandan,"Vidarbha Cricket Association Stadium, Jamtha"
+1120,2016,2016-03-19,Pakistan,normal,2,,Anam Amin,India,Pakistan,Pakistan,field,MA Gough,RSA Palliyaguruge,Feroz Shah Kotla
+1121,2016,2016-03-20,West Indies,normal,49,,SR Taylor,Bangladesh,West Indies,West Indies,bat,AK Chaudhary,CK Nandan,"MA Chidambaram Stadium, Chepauk"
+1122,2016,2016-03-20,Sri Lanka,normal,14,,CJ Metcalfe,Sri Lanka,Ireland,Sri Lanka,bat,VA Kulkarni,CA Polosak,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1123,2016,2016-03-21,New Zealand,normal,,6,LM Kasperek,Australia,New Zealand,Australia,bat,RSA Palliyaguruge,C Shamshuddin,"Vidarbha Cricket Association Stadium, Jamtha"
+1124,2016,2016-03-22,England,normal,,2,HC Knight,India,England,England,field,REJ Martinesz,JS Wilson,Himachal Pradesh Cricket Association Stadium
+1125,2016,2016-03-23,South Africa,normal,67,,S Luus,Ireland,South Africa,South Africa,bat,K Cross,CK Nandan,"MA Chidambaram Stadium, Chepauk"
+1126,2016,2016-03-24,England,normal,,1,TT Beaumont,England,West Indies,West Indies,bat,VA Kulkarni,CA Polosak,Himachal Pradesh Cricket Association Stadium
+1127,2016,2016-03-24,Australia,normal,,9,EJ Villani,Australia,Sri Lanka,Sri Lanka,bat,CB Gaffaney,MA Gough,Feroz Shah Kotla
+1128,2016,2016-03-24,Pakistan,normal,,9,Sidra Ameen,Bangladesh,Pakistan,Bangladesh,bat,RSA Palliyaguruge,C Shamshuddin,Feroz Shah Kotla
+1129,2016,2016-03-26,Australia,normal,,7,ML Schutt,Australia,Ireland,Australia,field,CB Gaffaney,S Ravi,Feroz Shah Kotla
+1130,2016,2016-03-26,New Zealand,normal,,7,SFM Devine,New Zealand,South Africa,New Zealand,field,SD Fry,REJ Martinesz,M Chinnaswamy Stadium
+1131,2016,2016-03-27,West Indies,normal,3,,DJS Dottin,India,West Indies,India,field,RK Illingworth,NJ Llong,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1132,2016,2016-03-27,England,normal,68,,CM Edwards,England,Pakistan,England,bat,AK Chaudhary,K Cross,"MA Chidambaram Stadium, Chepauk"
+1133,2016,2016-03-28,Sri Lanka,normal,10,,AC Jayangani,South Africa,Sri Lanka,Sri Lanka,bat,SD Fry,JS Wilson,M Chinnaswamy Stadium
+1134,2016,2016-03-30,Australia,normal,5,,MM Lanning,Australia,England,England,field,CB Gaffaney,S Ravi,Feroz Shah Kotla
+1135,2016,2016-03-31,West Indies,normal,6,,B Cooper,New Zealand,West Indies,New Zealand,field,RK Illingworth,NJ Llong,Wankhede Stadium
+1136,2016,2016-04-03,West Indies,normal,,8,HK Matthews,Australia,West Indies,Australia,bat,Aleem Dar,RK Illingworth,Eden Gardens
+1137,2016,2016-01-30,Hong Kong,normal,,9,Babar Hayat,Hong Kong,Scotland,Hong Kong,field,Sarika Prasad,Tabarak Dar,"Mission Road Ground, Mong Kok"
+1138,2016,2016-01-31,Scotland,normal,37,,KJ Coetzer,Hong Kong,Scotland,Hong Kong,field,Sarika Prasad,Tabarak Dar,"Mission Road Ground, Mong Kok"
+1139,2016,2016-01-08,Afghanistan,normal,5,,Gulbadin Naib,Afghanistan,Zimbabwe,Afghanistan,bat,AK Chaudhary,VA Kulkarni,Sharjah Cricket Stadium
+1140,2016,2016-01-10,Afghanistan,normal,81,,Mohammad Shahzad,Afghanistan,Zimbabwe,Zimbabwe,field,VA Kulkarni,C Shamshuddin,Sharjah Cricket Stadium
+1141,2016,2016-02-07,Ireland,normal,7,,NA,Ireland,Papua New Guinea,Papua New Guinea,field,BB Pradhan,RJ Tucker,Tony Ireland Stadium
+1142,2016,2016-02-09,Papua New Guinea,normal,11,,NA,Ireland,Papua New Guinea,Papua New Guinea,bat,BB Pradhan,RJ Tucker,Tony Ireland Stadium
+1143,2016,2016-02-14,Ireland,normal,34,,NA,United Arab Emirates,Ireland,United Arab Emirates,field,Iftikhar Ali,Rabiul Hoque,Sheikh Zayed Stadium
+1144,2016,2016-02-16,United Arab Emirates,normal,5,,NA,United Arab Emirates,Ireland,United Arab Emirates,bat,Akbar Ali,Iftikhar Ali,Sheikh Zayed Stadium
+1145,2016,2016-01-15,Bangladesh,normal,,4,H Masakadza,Bangladesh,Zimbabwe,Zimbabwe,bat,Enamul Haque,Sharfuddoula,Sheikh Abu Naser Stadium
+1146,2016,2016-01-17,Bangladesh,normal,42,,Sabbir Rahman,Bangladesh,Zimbabwe,Bangladesh,bat,Anisur Rahman,Sharfuddoula,Sheikh Abu Naser Stadium
+1147,2016,2016-01-20,Zimbabwe,normal,31,,MN Waller,Bangladesh,Zimbabwe,Zimbabwe,bat,Anisur Rahman,Enamul Haque,Sheikh Abu Naser Stadium
+1148,2016,2016-01-22,Zimbabwe,normal,18,,H Masakadza,Bangladesh,Zimbabwe,Zimbabwe,bat,Enamul Haque,Sharfuddoula,Sheikh Abu Naser Stadium
+1150,2016,2016-02-09,Sri Lanka,normal,,5,CAK Rajitha,India,Sri Lanka,Sri Lanka,field,VA Kulkarni,CK Nandan,Maharashtra Cricket Association Stadium
+1149,2016,2016-09-05,Ireland,normal,6,,NA,Ireland,Bangladesh,Bangladesh,field,R Black,AJ Neill,"Bready Cricket Club, Magheramason"
+1151,2016,2016-02-12,India,normal,69,,S Dhawan,India,Sri Lanka,Sri Lanka,field,AK Chaudhary,VA Kulkarni,JSCA International Stadium Complex
+1152,2016,2016-02-14,India,normal,,9,R Ashwin,India,Sri Lanka,India,field,AK Chaudhary,CK Nandan,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+1153,2016,2016-02-04,United Arab Emirates,normal,9,,Amjad Javed,United Arab Emirates,Scotland,United Arab Emirates,bat,CK Nandan,Sarika Prasad,ICC Academy
+1154,2016,2016-02-19,United Arab Emirates,normal,16,,NA,Afghanistan,United Arab Emirates,United Arab Emirates,bat,Sarika Prasad,Sharfuddoula,Khan Shaheb Osman Ali Stadium
+1155,2016,2016-02-19,Oman,normal,5,,NA,Hong Kong,Oman,Oman,bat,Enamul Haque,BB Pradhan,Khan Shaheb Osman Ali Stadium
+1156,2016,2016-02-20,Afghanistan,normal,,3,NA,Afghanistan,Oman,Oman,bat,Anisur Rahman,Sarika Prasad,Khan Shaheb Osman Ali Stadium
+1157,2016,2016-02-21,United Arab Emirates,normal,,6,NA,Hong Kong,United Arab Emirates,Hong Kong,bat,BB Pradhan,Sharfuddoula,Khan Shaheb Osman Ali Stadium
+1158,2016,2016-02-22,Afghanistan,normal,66,,Mohammad Nabi,Afghanistan,Hong Kong,Hong Kong,field,Enamul Haque,BB Pradhan,Shere Bangla National Stadium
+1159,2016,2016-02-22,United Arab Emirates,normal,71,,Muhammad Usman,Oman,United Arab Emirates,Oman,field,Sarika Prasad,Sharfuddoula,Shere Bangla National Stadium
+1160,2016,2016-02-24,India,normal,45,,RG Sharma,Bangladesh,India,Bangladesh,field,RSA Palliyaguruge,Shozab Raza,Shere Bangla National Stadium
+1161,2016,2016-02-25,Sri Lanka,normal,14,,SL Malinga,Sri Lanka,United Arab Emirates,United Arab Emirates,field,AK Chaudhary,Sharfuddoula,Shere Bangla National Stadium
+1162,2016,2016-02-26,Bangladesh,normal,51,,Mahmudullah,Bangladesh,United Arab Emirates,United Arab Emirates,field,AK Chaudhary,RSA Palliyaguruge,Shere Bangla National Stadium
+1163,2016,2016-02-27,India,normal,,5,V Kohli,India,Pakistan,India,field,RSA Palliyaguruge,Sharfuddoula,Shere Bangla National Stadium
+1164,2016,2016-02-28,Bangladesh,normal,23,,Sabbir Rahman,Bangladesh,Sri Lanka,Bangladesh,bat,AK Chaudhary,Shozab Raza,Shere Bangla National Stadium
+1165,2016,2016-02-29,Pakistan,normal,,7,Shoaib Malik,Pakistan,United Arab Emirates,United Arab Emirates,bat,Enamul Haque,RSA Palliyaguruge,Shere Bangla National Stadium
+1166,2016,2016-03-01,India,normal,,5,V Kohli,India,Sri Lanka,India,field,Anisur Rahman,Shozab Raza,Shere Bangla National Stadium
+1167,2016,2016-03-02,Bangladesh,normal,,5,Soumya Sarkar,Bangladesh,Pakistan,Pakistan,bat,AK Chaudhary,RSA Palliyaguruge,Shere Bangla National Stadium
+1168,2016,2016-03-03,India,normal,,9,RG Sharma,India,United Arab Emirates,United Arab Emirates,bat,Sharfuddoula,Shozab Raza,Shere Bangla National Stadium
+1169,2016,2016-03-04,Pakistan,normal,,6,Umar Akmal,Pakistan,Sri Lanka,Pakistan,field,AK Chaudhary,Enamul Haque,Shere Bangla National Stadium
+1170,2016,2016-03-06,India,normal,,8,S Dhawan,Bangladesh,India,India,field,RSA Palliyaguruge,Shozab Raza,Shere Bangla National Stadium
+1171,2016,2016-02-03,Netherlands,normal,84,,Mudassar Bukhari,United Arab Emirates,Netherlands,United Arab Emirates,field,CK Nandan,Sarika Prasad,ICC Academy
+1172,2016,2016-09-06,Australia,normal,85,,GJ Maxwell,Sri Lanka,Australia,Sri Lanka,field,REJ Martinesz,RR Wimalasiri,Pallekele International Cricket Stadium
+1173,2016,2016-09-09,Australia,normal,,4,GJ Maxwell,Sri Lanka,Australia,Sri Lanka,bat,REJ Martinesz,RSA Palliyaguruge,R Premadasa Stadium
